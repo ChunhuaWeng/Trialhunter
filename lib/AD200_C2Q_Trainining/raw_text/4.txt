@@ -1,0 +1,123 @@
+>>NCT01835717
+Inclusion Criteria :.
+ 1. Men and women, aged between 45 and 65 years.
+ 2. Spanish and/or Catalan speakers.
+ 3. Agreement with the study procedures and tests :.
+ 1. Clinical Interview and questionnaires associated to risk factors.
+ 2. Cognitive tests.
+ 3. Blood sample extraction for DNA analysis.
+ 4. Close relative involvement for functional evaluation of the volunteer.
+ 5. Signature of informed consent.
+ Exclusion Criteria :.
+ 1. Cognitive impairment : MMSE  < 26, or MIS  < 6 or orientation subtest of the Barcelona Test II  < 68, or category fluency ( animals )  < 12.
+ 2. Functional status impairment : CDR > 0.
+ 3. Severe auditory and/or visual impairment.
+ 4. Neurodevelopmental and/or psychomotor disorder.
+ 5. Significant diseases that could currently interfere with cognition : renal failure on hemodialysis, liver cirrhosis, chronic lung disease with oxygen therapy, solid organ transplantation, fibromyalgia, active cancer in treatment or any other disease the investigator considers could affect the participant cognition.
+ 6. Major psychiatric disorders ( DSM-IV-TR ) or diseases that could affect cognitive abilities : major depression, bipolar disorder, schizophrenia and dementia.
+ 7. Neurological disorders : Parkinson's disease, stroke, epilepsy and treatment with frequent seizures (> 1/month ) in the past year, multiple sclerosis or other serious neurological disease.
+ 8. Brain injury interfering with cognition : history of head trauma with parenchymal lesion or extraaxial macroscopic large vessel ischemic stroke or hemorrhagic stroke, brain surgery, brain tumors and other causes that can generate acquired brain damage ( cerebral chemotherapy or radiotherapy ).
+ 9. Family history of Alzheimer's disease with autosomal dominant ( 3 affected in two different generations ) and early onset age ( < 60 years ).
+
+>>NCT01302340
+Inclusion Criteria :.
+ - Diagnosis of Alzheimer's Disease ( AD ), Vascular Dementia ( VD ) or mixed, according to the criteria of NINCDS-ADRDA or NINCDS-AIREN.
+ - Clinical Dementia Rating score between 0.5 and 3.
+ - NPS symptoms, with at least agitation or aggression.
+ Exclusion Criteria :.
+ - Diagnosis of Lewy Body Dementia ( LBD ) or Fronto-Temporal Dementia ( FTD ).
+ - Major psychiatric disorder.
+ - Severe concomitant illness, seizure, arrhythmias ( except sinus arrhythmia and atrial fibrillation ), heart failure New York Heart Association ( NYHA ) class III or IV.
+ - Tri Cyclic Antidepressives ( TCA ) or opioids used within 30 days before randomization till the end of the study.
+ - Changes in dosage of antidepressives within 6 weeks before randomization and during study and changes in dosage of antipsychotics or benzodiazepines within 2 weeks prior to randomization and during study.
+
+>>NCT02414607
+Inclusion Criteria :.
+ - CDR score of 0.5.
+ - MMSE of at least 24.
+ - Age 50 or older.
+ Exclusion Criteria :.
+ - Known history of sensitivity to elderberry products.
+ - Diabetes.
+ - Bleeding disorder.
+ - Current Pregnancy.
+ - Known allergy to honeysuckle.
+ - Currently making changes to other drugs that might affect cognitive performance ( subjects showing the greatest cognitive decline and other signs of Alzheimer's disease may be prescribed cholinesterase inhibitors as this is a standard of care for Alzheimer's disease but not MCI ).
+ - Presence of any condition the health professional believes will impair ability to complete study procedures ( ex. terminal illness, comorbid major psychiatric disorders such as schizophrenia or drug abuse ).
+ - Potentially confounding neurodegenerative diseases ( e.g. MS ).
+
+>>NCT01594541
+Inclusion Criteria :.
+ - Individuals between the ages of 55 and 89 years old.
+ - Meeting criteria for Mild Cognitive Impairment or dementia with a minimum MOST score of 5 but not over 23.
+ - Has a minimum of 3 months evaluation.
+ - Able to undergo testing for cognition and complete the GDS.
+ Exclusion Criteria :.
+ - Known allergy/intolerance to any ingredient in Cerefolin NAC.
+ - Substantial impediments to adherence, such as severe dementia without caregiver to administer medication.
+ - Inability to swallow pill-form medication.
+ - Unstable medical illness including cardiovascular, hepatic, renal, respiratory, endocrine, neurological or hematological disease.
+ - Hcy score lower than 11.
+
+>>NCT02267057
+Inclusion Criteria :.
+ - Patients residing in long term nursing home units for at least 4 weeks prior to study.
+ - Diagnosed with probable or possible dementia according to Diagnostic and Statistical Manual of Mental Disorders ( DSM-IV ), FAST score > 4.
+ - Diagnosed with depression >= 4 week duration as measured by CSDD >= 8.
+ - Written, informed consent provided by the participant ( if they have capacity ) or assent ( if they do not have capacity ) and a written proxy informed consent from a legally authorized representative empowered to make health-related decisions for the potential study participant.
+ Exclusion Criteria :.
+ - The patient is contra-indicated to study drugs of pain treatment, in another trial or had no carer.
+ - Participants are ineligible if they are clinical critical ( e.g. suicide risk ).
+ - Clinician responsible for care or study clinician considers that the patient suffers from any physical condition, which would make participation in the trial distressing or likely to increase suffering.
+ - Advanced severe medical disease/disorder with expected survival less than 6 months or that could interfere with participation.
+ - Psychosis or other severe mental disorder prior to dementia diagnosis.
+ - Severe aggression ( >= 8 ) on item 3 of the NPI subscale, with aggression as the predominant symptom.
+ - Schizophrenia, schizoaffective disorder and bipolar disorder.
+ - Uncontrolled epilepsy.
+ - Severe liver impairment.
+ - Renal failure.
+ - Severe injury or anaemia ( Hb < 8.5 mmol/l ), comatose state, current enrolment in another experimental protocol.
+ - Known allergy or adverse reaction to paracetamol or buprenorphine transdermal patch.
+ - Advanced severe medical disease with expected survival of less than six months, severe psychiatric or neurological disorder.
+ - Patients with diseases that make it impossible to follow the research schedule are excluded.
+
+>>NCT00966966
+Inclusion Criteria :.
+ - Body mass index in the range of 18 to 30 kg/m2 and body weight greater than 50 kg.
+ - Healthy as determined by the investigator on the basis of medical history, physical examination findings, clinical laboratory test results, vital sign measurements and digital 12 -lead ECG readings.
+ Exclusion Criteria :.
+ - Presence or history of any disorder that may prevent the successful completion of the study.
+ - Any significant cardiovascular, hepatic, renal, respiratory, gastrointestinal ( GI ), endocrine, immunologic, dermatologic, hematologic, neurologic or psychiatric disease.
+
+>>NCT00547560
+Inclusion Criteria :.
+ - Men or women, greater than or equal to 65 years of age.
+ - Women of nonchildbearing potential ( WONCP ) may be included if they are either surgically sterile ( hysterectomy and/or oophorectomy ) or postmenopausal for greater than or equal to 1 year ( with FSH greater than or equal to 38 mIU/mL ) and must have a negative pregnancy test result within 48 hours before administration of test article. Women who are surgically sterile must provide documentation of the procedure by an operative report or by ultrasound.
+ - Body mass index ( BMI ) in the range of 18.0 to 30.0 kg/m2 and body weight  > 50 kg.
+ Exclusion Criteria :.
+
+>>NCT02005991
+Inclusion Criteria :.
+ - Males and females must be at least 18 years of age and no older than 55 years of age with a Body Mass Index ( BMI ) must be between 17.5 and 30.5.
+ - Subjects must sign a consent form and comply with all scheduled visits, treatment plan, lab tests and other study procedures.
+ Exclusion Criteria :.
+ - Females must not be pregnant, breastfeeding or able to have children.
+ - Subjects must not have a severe acute or chronic medical or psychiatric condition, history or evidence of blood, kidney, glandular, lung, stomach, intestine, heart, blood vessel, liver, psychiatric, nerve or allergic problems ( including drug allergies ), except mild seasonal allergies.
+ - Subjects must not drink alcohol excessively or take illicit drugs.
+ - Male subjects use condoms to prevent the potential transfer of drug through the semen to their partner beginning with the dose of study drug and use a highly effective method of birth control with any partner ( s ) of childbearing potential through 28 days after the last dose.
+
+>>NCT02256072
+Inclusion Criteria :.
+ - Age 65 and older.
+ - English speaking.
+ - Score >= 4 questions correctly on the Brief Cognitive screener.
+ - Self-identified comfort using a computer.
+ - Self-identified comfort using the Internet to navigate a Website.
+ - Have not previously participated in study's focus groups or pilot study.
+ Exclusion Criteria :.
+ - Less than age 65.
+ - Non-English speaking.
+ - Score < 4 questions correctly on the Brief Cognitive screener.
+ - Not comfortable using a computer.
+ - Not comfortable using the Internet to navigate a Website.
+ - Previous participation in this study's focus groups or pilot study.

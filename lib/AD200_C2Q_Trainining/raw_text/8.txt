@@ -1,0 +1,79 @@
+>>NCT02103673
+Inclusion Criteria :.
+ - Clinical diagnosis of probable Alzheimer's disease or probable vascular dementia.
+ - For patients with vascular dementia, the post-stroke period must be more than 3 months.
+ - Mini-Mental State scores between 5 - 26.
+ - Clinical Dementia Rating score equal to or greater than 1.
+ - Behavioral Pathology in Alzheimer's Disease Rating Scale score equal to or greater than 2.
+ Exclusion Criteria :.
+ - Current substance abuse or history of substance dependence in the past 6 months.
+ - Other major psychiatric diagnoses, such as schizophrenia, major depressive disorder, bipolar disorder and mental retardation etc.
+ - Serious medical or neurological illness other than Alzheimer's disease or vascular dementia and other secondary dementia.
+
+>>NCT01780974
+Inclusion Criteria :.
+ - 55 years or older.
+ - Non-demented : Montreal Cognitive Assessment > 26 and Clinical Dementia Rating = 0.
+ - Diagnosis of Essential Hypertension with systolic 90 - 160 mm Hg and diastolic 60 - 90 mm Hg.
+ - Stable dose of antihypertensive medication 4 month prior to study enrollment.
+ - Stable dose of lipid lowering medication - dose must be stable for 4 months prior to study enrollment.
+ - Low Omega- 3 fatty acid Status : Omega- 3 index, < 4% of total fatty acid of combined docsahexanoic acid and eicosapentanoic acid.
+ - Geriatric Depression Scale < 5.
+ - General health status that will not interfere with the participant's ability to complete the study.
+ - Screening laboratory values within normal limits or, if abnormal, deemed clinically insignificant by the investigator.
+ - Sufficient English language skills to complete all testing.
+ Exclusion Criteria :.
+ - Alzheimer's, Dementia or other neurodegenerative disease.
+ - Health conditions such as cancer diagnosed < 5 years prior to enrollment ( prostate cancer gleason grade < 3 and non metastatic skin cancers are acceptable ), liver disease, history of ventricular fibrillation or ventricular tachycardia, major psychiatric disorder, central nervous system diseases ( e.g. brain tumor, seizure disorder ).
+ - Insulin dependent diabetes or uncontrolled diabetes ( diabetes controlled on medications other than insulin are acceptable ).
+ - Fish intake of one 6 ounce serving > once a week less than 4 months prior to enrollment.
+ - Omega- 3 fatty acid supplement intake ( e.g. fish oil capsules, cod liver oil ) less than 4 months prior to enrollment.
+ - Lipoic Acid supplementation less than 1 month prior to enrollment.
+ - Taking systemic corticosteroids, neuroleptics, antiparkinsonian agents, and/or narcotic analgesics. Low dose sinemet and dopamine agonist taken once a day for restless leg syndrome is not an exclusion.
+ - Contraindications to MRI, including : subjects with intrathecal pumps, stimulators, pacemakers, aneurysm clips, non-removable hearing aids or metal fragments in the eyes. Other exclusion criteria include the inability to lie flat on the back for 40 minutes at a time or a self-reported history of claustrophobia. Subjects with a history of hip replacement and those with well-documented, verifiable, MRI-safe cardiac stents will not be excluded from the study.
+ - Enrollment in another treatment study.
+
+>>NCT02226835
+- INCLUSION CRITERIA :.
+ - Patient must be enrolled in the 09-M-0198 protocol.
+ - In those participants that require special assistance, we will request that they be accompanied by a care taker to provide proper care and monitoring.
+ EXCLUSION CRITERIA :.
+ Patients :.
+ - The diagnosis of a different type of dementia, including frontotemporal dementia, normal pressure hydrocephalus, Lewy body dementia, Parkinson s disease dementia, Huntington's disease or vascular dementia.
+ - Any medical contraindication to the procedures performed in the study or any current severe medical or psychiatric illness other than Alzheimer s disease.
+ - Behavioral symptoms that would preclude the gathering of data for the study or advanced disease such that participants cannot provide assent.
+ Controls :.
+ - The diagnosis of a brain disorder.
+ - Any medical contraindication to the procedures performed in the study or any current severe medical or psychiatric illness.
+
+>>NCT01303744
+Inclusion Criteria :.
+ - Diagnosis of amnestic or non-amnestic Mild Cognitive Impairment.
+ - Mini-Mental State Examination score higher than 24 at screening.
+ - MRI scan of the brain at screening with fluid-attenuation inversion recovery ( FLAIR ) and T2*-weighted gradient-recalled-echo ( GRE ) sequences.
+ Exclusion Criteria :.
+ - Diagnosis of Alzheimer's disease according to the DSM-IV-TR or NINCDS-ADRDA criteria.
+ - Any medical condition that could explain the patients cognitive deficits.
+ - CT or MRI brain imaging results obtained within 12 months prior to baseline showing evidence of infection, infarction or focal lesions of clinical significance.
+ - MRI scan at screening showing more than 4 cerebral microhemorrhages ( lesions with diameter <= 10 mm ).
+ - Geriatric Depression Scale ( 30 -point scale ) score > 9 at screening.
+ - History of stroke.
+ - Modified Hachinski ischemic scale score > 4 at screening.
+ - Women of childbearing potential.
+ - Vitamin B12 or folate deficiency.
+ - Diagnosis of schizophrenia or recurrent mood disorder ( including unipolar and bipolar disorders ) within 3 years of screening.
+ - Current diagnosis of peptic ulcer or gastrointestinal bleeding within the last year and/or chronic inflammatory bowel disease.
+ - Concomitant use of donepezil at doses > 5 mg/day or other cholinesterase inhibitors ( rivastigmine or galantamine ) at any dose.
+ - Concomitant use of memantine at dose > 20 mg/day.
+ - Concomitant use of psychoactive drugs ( sedatives, hypnotics, etc ).
+
+>>NCT01258452
+Inclusion Criteria :.
+ - Subject is judged to be in good health on the basis of medical history, complete physical examination including vital signs, 12 -lead electrocardiogram ( ECG ) and standard laboratory tests.
+ - Subject has a body mass index between 18 and 30 kg/m^2, inclusive.
+ Exclusion Criteria :.
+ - Medical history ( within the last 10 years ) of major cardiovascular, hepatic or renal disease.
+ - Abnormal result of liver function tests, renal function tests or thyroid tests performed at screening.
+ - Significant allergic conditions that require medical treatment.
+ - Use of any psychoactive, recreational or prescription drug within the 4 weeks prior to study drug administration.
+ - Use of ibuprofen, sulindac sulfide, indomethacin, flurbiprofen within 2 weeks prior to study drug administration.

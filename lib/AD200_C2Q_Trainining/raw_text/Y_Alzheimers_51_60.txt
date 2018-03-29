@@ -1,0 +1,198 @@
+>>NCT02471196
+Inclusion Criteria:.
+- Written informed consent (IC) for participation in the study (co-signed by the subject's next of kin or caregiver or other legally acceptable representative.
+- Written IC obtained from a consistently available caregiver informant who is knowledgeable of the subject's condition and its progression and is willing to accompany the subject to all visits and supervise the administration of the study medication.
+- Age of 55-90 years (inclusive).
+- Male or female subjects with diagnosis of probable Alzheimer's Disease.
+- Brain imaging (computed tomography [CT] or magnetic resonance imaging [MRI]) consistent with a diagnosis of Alzheimer's Disease (within 18 months or at screening).
+- Mini-mental state examination (MMSE) score between 10-24 (inclusive).
+- Clinically significant agitation meeting the International Psychogeriatric Association Provisional Criteria for Agitation in Cognitive Impairment. The agitation symptoms need to have been present for at least 4 weeks before the screening visit.
+- Neuropsychiatric Inventory agitation/aggression item score at least 4 at screening visit.
+Exclusion Criteria:.
+- Modified Hachinski Ischemia Score (MHIS) > 4.
+- Changes in AChE inhibitor (donepezil, rivastigmine or galantamine) dosing within 2 months prior to screening.
+- Changes in memantine dosing within 2 months prior to the screening.
+- Changes in antidepressant dosing or addition of another antidepressant medication within 2 months prior to the screening.
+- Use of antipsychotics at any dose within 1 month prior to screening.
+- Use of benzodiazepines, other than short-acting sleep medications, for night at a maximum of 3 nights/week, within 2 months prior to screening.
+- Use of any anticholinergic medication within 2 months prior to screening.
+- Current use (within the 30 days prior to screening) of medications with known relevant alpha-2C AR affinity (e.g. mirtazapine, mianserin, clonidine, guanfacine or tizanidine) or with high noradrenaline transporter affinity (reboxetine, venlafaxine or duloxetine).
+- Current use of other psychotropic agents, unless the dosing has been stable during the last 2 months prior to the screening.
+- Myocardial infarction or other clinically significant ischemic cardiac disease, heart failure or arrhythmia tendency within the past 2 years.
+- Current or history of malignancy within 5 years before screening.
+- Suicidal ideation in the 6 months before screening or current suicide risk based on the Colombia-Suicide Severity Rating Scale (C-SSRS) (items 4 and 5 exclusionary) or current risk of suicide based on the investigator's judgement.
+- Specific findings in MRI or CT that could in the opinion of the investigator affect cognitive function (such as cortical infarct or silent lacuna in a region known to affect cognition).
+- Supine heart rate < 48 bpm or > 100 bpm.
+- Systolic blood pressure (SBP) > 160 mmHg or diastolic blood pressure (DBP) > 100 mmHg after a 5-minute rest.
+- Symptomatic orthostatic hypotension.
+- QTc-Fridericia (QTcF) repeatedly > 450 ms in males or > 470 ms in females.
+- Clinically significantly abnormal thyroid-stimulating hormone (TSH), vitamin B12 or folate serum levels at screening.
+- Resides in a skilled nursing facility.
+
+>>NCT00927108
+Inclusion Criteria:.
+- Patients who have elective craniotomy or.
+- Patients who have elective ventriculostomy surgery or.
+- Patients who have elective muscle biopsy or nerve biopsy.
+- Patient who have emergency craniectomy for life threatening from emergency medical and surgical conditions such as Brain herniation or head injury.
+Exclusion Criteria:.
+- Central nervous system infection for example tuberculous or any bacterial infection, Viral infection, fungal infection.
+- Central nervous system Tumor, Malignancy and metastasis.
+
+>>NCT00064870
+Inclusion Criteria:.
+- Two living family members diagnosed with AD or other dementia with any age of onset.
+- Biological samples available.
+- Fresh blood, or.
+- Immortalized lymphoblastic cell lines, or.
+- 3-5 grams of frozen cerebral cortex; fixed samples are not accepted.
+Please note: this study does not include genetic counseling; because no personal identifying information such as name or date of birth is attached to samples, results of individual tests are not available to participants or family members.
+Exclusion Criteria:.
+- Does not meet inclusion criteria.
+- Member of a family that was included in the National Institute of Mental Health AD Genetics Sib Pair collection.
+
+>>NCT01565291
+Inclusion Criteria (AD group):.
+- Probable AD according to the National Institute of Neurological and Communication Disorders and Stroke-Alzheimer's Disease and Related Disorders Association (NINCDS-ADRDA) criteria.
+- Mild/moderate dementia as evidenced by a mini mental state exam (MMSE) score ranging from 10 to 24, boundaries included, at screening.
+- History of cognitive decline had been gradual in onset and progressive over a period of at least 6 months.
+Inclusion Criteria (healthy volunteer group):.
+- No evidence of significant cognitive impairment by history and psychometric testing.
+- MMSE of 29 or higher.
+Exclusion Criteria (both groups):.
+- Neurodegenerative disorders other than AD.
+- Cognitive impairment resulting from trauma, hypoxic damage, vitamin deficiency, brain infection, brain cancer, endocrine disease or mental retardation.
+- Clinically significant infarct or possible multi-infarct dementia as defined by the NINCDS criteria.
+- Evidence on screening MRI or other biomarker that suggests alternate etiology for cognitive deficit (for healthy controls, evidence suggesting the presence of AD pathology).
+- Clinically significant psychiatric disease.
+- History of epilepsy or convulsions.
+- Clinically significant hepatic, renal, pulmonary, metabolic or endocrine disturbances.
+- Current clinically significant cardiovascular disease.
+- Received investigational medication within the last 30 days.
+
+>>NCT01294540
+Inclusion:.
+- Healthy males and females.
+- Aged 30 to 55 years, inclusive (Cohorts 1 through 5); aged 65 to 85 years, inclusive (Cohort 6).
+- Body mass index (BMI) of 18 to 32kg/m^2 at Screening.
+- Additional inclusion criteria for Cohort 6 (healthy elderly subjects).
+Exclusion.
+- Females of child-bearing potential.
+- Personal or family history of neurological abnormalities.
+- Any clinical abnormality of the electrocardiogram (ECG)at Screening and check-in.
+- A family history of cardiac abnormalities.
+- Thyroid abnormalities.
+
+>>NCT01316562
+Inclusion Criteria:.
+- Age >= 65 years.
+- Community-dwellers.
+- Volunteers receiving a free medical examination in Health examination centre.
+- Subjective memory complaint.
+Exclusion Criteria:.
+- Known dementia.
+- Sensory deficit compromising the cognitive evaluation.
+- Poor workmanship of the written or oral French language.
+
+>>NCT02621606
+Inclusion Criteria:.
+Part I, II and III:.
+- Male or non-pregnant and non-breast feeding female of 18 to 55 years of age (Part I) or 55 to 85 years of age (Parts II and III); in addition:.
+- Male participant who is sexually active with females of childbearing potential must be willing to use a condom from the first dose of study drug until 3 months post the last dose of study drug.
+- Female participant with reproductive potential must have serum -human chorionic gonadotropin (-hCG) test result consistent with non-pregnant state at screening and agree to use two acceptable methods of birth control beginning at screening visit, during study and until 2 weeks after the last dose of study drug.
+- Female participant of non-childbearing potential must be post-menopausal female (participant has been without menses for at least 1 year and has a follicle stimulating hormone [FSH] level in the postmenopausal range at screening) or surgically sterile female (status post hysterectomy, oophorectomy or tubal ligation).
+- Body Mass Index (BMI) <=35 kg/m^2, with height <=195 cm and weight <=136 kg.
+- In good health (Part I) or generally healthy (Parts II and III) based on medical history, physical examination, vital sign measurements and electrocardiogram (ECG).
+- Nonsmoker and/or has not used nicotine or nicotine-containing products for at least approximately 3 months.
+Part II Only:.
+- Willing to allow placement of an arterial catheter in the radial artery.
+- Mini Mental Status Examination (MMSE) score >=27.
+- No history of subjective memory or other cognitive complaints.
+- No objective evidence of memory or cognitive impairment.
+Part III Only:.
+- Moderate to severe AD as defined by:.
+- MMSE score <=20.
+- Meets National Institute of Neurological and Communicative Diseases and Stroke/Alzheimer's Disease and Related Disorders Association (NINCDS-ADRDA) criteria for probable AD.
+- Meets Diagnostic and Statistical Manual of Mental Disorders, 5th Edition (DSM-V) criteria for AD.
+- Rosen-Modified Hachinski score <=4.
+- Screening magnetic resonance imaging (MRI) scan consistent with a diagnosis of AD.
+- Clear history of cognitive and functional decline over >=1 year.
+- On a stable dose of one of protocol-defined acetylcholinesterase inhibitors (AChEIs) (i.e., donepezil, rivastigmine and tacrine) for symptomatic treatment of AD. Dose must be stable for at least the last 4 weeks before screening.
+- Has a reliable trial partner/caregiver who is able to accompany the participant to all clinic visits, if needed and able to provide information to study investigator/staff via telephone contact.
+Exclusion Criteria:.
+Part I, II and III:.
+- Mentally or legally incapacitated, has significant emotional problems at the time of screening visit or expected during the conduct of the trial or has a history of clinically significant psychiatric disorder of the last 5 years, except (for Part III only) for psychiatric disorders associated with AD.
+- History of clinically significant endocrine, gastrointestinal, cardiovascular, hematological, hepatic, immunological, renal, respiratory, genitourinary or major neurological abnormalities or diseases, unless (for Part II and III only) adequately controlled through a stable medication regimen.
+- History of cancer.
+- History of significant multiple and/or severe allergies or has had an anaphylactic reaction or significant intolerability to prescription or non-prescription drugs or food. For Part II, this includes any known allergy to lidocaine which may be used as an anesthetic for the placement of the arterial catheter.
+- Has positive test result for hepatitis B surface antigen, hepatitis C antibodies or human immunodeficiency virus (HIV).
+- Has had major surgery or donated or lost 1 unit of blood (approximately 500 mL) within 4 weeks prior to screening.
+- Has participated in another investigational trial within 4 weeks of screening.
+- Corrected QT (QTc) interval >=470 msec (for males) or >=480 msec (for females).
+- Is unable to refrain from or anticipates the use of any medication, including prescription and non-prescription drugs or herbal remedies, beginning approximately 2 weeks prior to administration of the initial dose of study drug and throughout the study.
+- Consumes >3 servings of alcohol a day.
+- Consumes >6 caffeine servings a day.
+- Is currently a regular or recreational user of cannabis, any illicit drugs or has a history of drug (including alcohol) abuse within approximately 3 months.
+- Has participated in a PET research study or other study involving administration of a radioactive substance or ionizing radiation within 12 months prior to screening or has undergone an extensive radiological examination within this period.
+- Suffers from claustrophobia or an inability to tolerate confinement in small places and would be unable to undergo MRI or PET scanning.
+Part II Only:.
+- Has been administered an AChEI within the prior 3 months or will require administration of an AChEI during study.
+Part III Only:.
+- Has been administered galantamine within the prior 7 days or will require administration of galantamine during study.
+- History within 2 years prior to screening or current evidence of any neurological or neurodegenerative disorder other than AD that is associated with transient or sustained alterations in cognition.
+- History within 2 years prior to screening or current evidence of a psychotic disorder or a major depressive disorder.
+Part II and III Only:.
+- Has or is suspected to have implanted or embedded metal objects or fragments in the head or body that would present a risk during the MRI scanning procedure.
+
+>>NCT02546310
+Inclusion Criteria:.
+- Healthy on the basis of medical history, physical examination, vital signs, 12-lead ECG, haematology, blood chemistry, urinalysis and a pre-study psychological assessment.
+- Mini Mental State Examination (MMSE) Score of >=24.
+- Intermediate or extensive metaboliser as determined by CYP2D6 genotype.
+- Fluent English speaker.
+- Right-handed.
+- Not a regular smoker.
+Exclusion Criteria:.
+- Recreational drug use within 3 months prior to Screening Visit.
+- Positive alcohol breath test.
+- Positive urine drug screen.
+- Consumption of large amounts of caffeinated drinks.
+- Consumption of any food or any drinks containing cranberry, pomegranate, star fruit, grapefruit, pomelos, exotic citrus fruits or Seville oranges.
+- Ultra-rapid or poor metabolizer as determined by CYP2D6 genotype.
+- By self-report, taking two or more daytime naps per week which in the opinion of the investigator is likely to interfere with the ability of the subject to complete the study procedures.
+- History of or presents (in the opinion of the Investigator) with, significant neurological or psychiatric conditions.
+- Personal or family history of congenital long QT syndrome or sudden death.
+- Concomitant use of drugs that are metabolised by and/or are inhibitors of CYP2D6.
+- Concomitant use of drugs that are substrates for the organic cation transporter 2.
+- History of significant claustrophobia.
+- Fulfils any of the MRI contraindications on the standard site radiography screening questionnaire (e.g. history of surgery involving metal implants).
+
+>>NCT00585572
+Individuals enrolled in the longitudinal study of the Alzheimer's Disease Research Center (ADRC), additional studies affiliated with the ADRC or select additional donors are invited to participate.
+
+>>NCT02467413
+Inclusion Criteria:.
+A patient is eligible for the study if all of the following apply:.
+1. With either gender aged at least 40 years old.
+2. With a diagnosis of one of the following disease i. Vascular dementia according to the NINDS-AIREN International Workshop criteria or ii. Alzheimer's disease according to the NIAAA criteria iii. "Mixed" dementia (possible Alzheimer's disease with cerebrovascular disease) according to the NIAAA criteria.
+Note:.
+1. NINDS-AIREN: National Institute of Neurological Disorders and Stroke and Association Internationale pour la Recherche et l'Enseignement en Neurosciences.
+2. NIAAA: National Institute on Aging-Alzheimer's Association.
+3. With mild-to-moderate dementia (score of the Mini-Mental State Examination (MMSE) defined as between 10 to 24).
+4. Able to read, write, communicate and understand cognitive testing instructions.
+5. Having a responsible caregiver who spends adequate time daily with the patient; the caregiver will accompany the patient to all clinic visits during the study and supervise all study dosing requirements and concomitant medications.
+6. Signed, by patients and the responsible caregiver, the written informed consent form.
+Exclusion Criteria:.
+1. With large-artery stroke (thrombotic stroke).
+2. With radiological evidence of other brain disorders (subdural hematoma, post-traumatic / post-surgery).
+3. With dementia caused by other brain diseases except Alzheimer's disease and vascular dementia (e.g. Parkinson's disease, demyelinated disease of the central nervous system, tumor, hydrocephalus, head injury, central nervous system infection including syphilis, acquired immune deficiency syndrome, etc.).
+4. With clinical evidence of pulmonary, hepatic, gastrointestinal, metabolic, endocrine or other life threatening diseases judged by investigators not suitable to enter the study.
+5. With clinically unstable hypertension, diabetes mellitus and cardiac disease for the last 3 months.
+6. With history of stroke and hospitalized for stroke in the previous 3 months.
+7. With history of alcohol or drug abuse.
+8. With one of the following abnormal laboratory parameters: hemoglobin < 10 mg/dL or platelet < 100*109/L; creatinine or total bilirubin more than 1.5 times the upper limit value; alanine aminotransferase (ALT), aspartate aminotransferase (AST), alkaline phosphates (ALP) or -glutamyl transferase (-GT) more than 2 times the upper limit of normal.
+9. With depression, not well-controlled with medications.
+10. With any uncontrolled illness judged by the investigator that entering the trial may be detrimental to the patient.
+11. With known or suspected hypersensitivity to any ingredients of study product and vehicle.
+12. Pregnant or lactating or premenopausal with childbearing potential but not taking reliable contraceptive method(s) during the study period.
+13. Enrollment in any investigational drug trial within 4 weeks before entering this study.

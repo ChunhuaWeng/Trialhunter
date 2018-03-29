@@ -1,0 +1,148 @@
+>>NCT01778946
+Inclusion Criteria:.
+ - Cognitive complaints and/or memory difficulties which are verified as new onset by an informant.
+ - Cognitive Global Rating consistent with mild impairment or deterioration from premorbid baseline.
+ - General cognition and functional performance sufficiently preserved such that a diagnosis of Alzheimer's disease/dementia cannot be made by the physician at the time of the screening visit.
+ - No significant cerebrovascular disease: Modified Hachinski score of less than or equal to 4.
+ - Age 25+.
+ - Stable medications for at least 1 month prior to screening. Central nervous system ( CNS ) medications should be stable for 3 months.
+ - No evidence of major depression.
+ - Informant is available who has frequent contact with the subject ( e.g. an average of 10 hours per week or more ).
+ - Adequate visual and auditory acuity to allow neuropsychological testing.
+ - Good general health with no additional diseases expected to interfere with the study.
+ - Normal B12, rapid plasma reagin ( RPR ) and Thyroid Function Tests or without any clinically significant abnormalities that would be expected to interfere with the study.
+ - ECG without clinically significant abnormalities that would be expected to interfere with the study.
+ - Subject is not pregnant, lactating.
+ - Subjects will be taking no drugs with cholinergic properties ( e.g donepezil ).
+ - Agreement not to take other vitamin or supplements other than multivitamins.
+ - Negative urine pregnancy test in females.
+ Exclusion Criteria:.
+ - Any significant neurologic disease such as Alzheimer's disease, Parkinson's disease, multi-infarct dementia, Huntington's disease, normal pressure hydrocephalus, brain tumor, progressive supranuclear palsy, seizure disorder, subdural hematoma, multiple sclerosis or history of significant head trauma followed by persistent neurologic deficits or known structural brain abnormalities.
+ - Active Major depression or another major psychiatric disorder as described in DSM-IV.
+ - History of alcohol or substance abuse or dependence within the past 2 years ( DSM IV criteria ).
+ - Any significant systemic illness or unstable medical condition which could lead to difficulty complying with the protocol including:.
+ - History of myocardial infarction in the past year or unstable or severe cardiovascular disease including angina or congestive heart failure ( CHF ) with symptoms at rest.
+ - Clinically significant obstructive pulmonary disease or asthma.
+ - Clinically significant and unstable gastrointestinal disorder such as ulcer disease or a history of active or occult gastrointestinal bleeding within two years.
+ - Clinically significant laboratory test abnormalities on the battery of screening tests ( hematology, chemistry, urinalysis, ECG ).
+ - Insulin-requiring diabetes or uncontrolled diabetes mellitus.
+ - Uncontrolled hypertension ( systolic BP > 170 or diastolic BP > 100 ).
+ - Use of any investigational drugs within 30 days or 5 half-lives, whichever is longer, prior to screening.
+
+>>NCT01659398
+Inclusion Criteria:.
+ - An adult between 18 and 85 years of age.
+ - Has been evaluated to have a CDR ( Clinical Dementia Rating ) Score of 0.5.
+ - Male or female ( if female must be postmenopausal for at least 1 year, surgically sterile or using an effective form of contraception ).
+ - Able to speak and read English.
+ - Willing to comply with study specific instructions and complete all study procedures according to protocol.
+ - Able to understand study rationale and sign informed consent.
+ Exclusion Criteria:.
+ - Diagnosed with glaucoma.
+ - History of developing adverse effects to ophthalmic dilating agents ( phenylephrine or tropicamide ).
+ - Currently taking warfarin and dabigatran ( Pradaxa ).
+ - History of having arrhythmias - can interfere with EECP triggering.
+ - Subject has bleeding diathesis.
+ - Subject has active thrombophlebitis.
+ - Subject has severe lower extremity vaso-occlusive disease.
+ - Subject has a documented aortic aneurysm requiring surgical repair.
+ - Subject is pregnant.
+ - Subject with blood pressure higher than 180 - 110 mmHg.
+ - Subject with a heart rate more than 120 bpm.
+ - Subject with high risk of complications from increased venous return.
+ - Subject with clinically significant valvular disease.
+ - Subjects with severe vascular disease as established by the Hachinski Ischemic Index.
+ - Subjects with pacemakers and other metallic implantable devices.
+
+>>NCT01522404
+Inclusion.
+ - Subjective memory concern per subject, study partner or clinician.
+ - Clinician diagnosis of amnestic MCI; single or multi-domain.
+ - Abnormal memory per Logical Memory subscale from Wechsler Memory Scale-Revised.
+ - MMSE score 24 - 30 inclusive. Exceptions considered for  < 8 yrs.education.
+ - Clinical Dementia Rating 0.5. Memory Box score must be  >=  0.5.
+ - General cognition & functional performance preserved.
+ - Cholinesterase inhibitors & memantine, if stable x12 wks.
+ - Stability of medications x4 wks. May washout from psychoactive medication x4 wks.
+ - Geriatric Depression Scale  <=  6.
+ - Male/female outpatients aged 50 - 90 ( inclusive ).
+ - Study partner has regular contact w/ subject, can provide reliable assessment of subject's level of function, & can be available for all visits, either in person or by telephone, throughout trial.
+ - Visual & auditory acuity adequate for testing.
+ - Good general health.
+ - Women of child-bearing potential willing to use medically acceptable birth control or practice abstinence throughout trial.
+ - Modified Rosen Hachinski  <=  4.
+ - Completed 6th grade or has good work history.
+ - Fluent in English.
+ - Able to understand nature of study. Must provide written informed consent prior to conduct of any study procedures.
+ - Willing to undergo repeated MRIs & PET scans.
+ - Agrees to APOE, CYP2D6 & biomarker testing.
+ - Agrees to 3 lumbar punctures over course of study.
+ Exclusion.
+ - Significant neurologic disease other than MCI.
+ - Screening/baseline MRI scan w/ evidence of infection, large vessel infarction or other focal structural lesion that could account for memory deficits. Subjects w/ multiple lacunes or lacunes in a critical memory structure.
+ - Contraindication to MRI ( pacemakers, aneurysm clips, artificial heart valves, ear implants, metal fragments or foreign objects in the eyes, skin or body or excessive weight ).
+ - Clinically significant suicide risk, based on MD's judgment per structured clinician interview. Suicide attempt within past yr.
+ - Major depression, bipolar disorder within past yr. or history of schizophrenia. Psychotic features, agitation or behavioral problems within last 3 mos.
+ - History of alcohol or substance abuse/dependence within past 2 yrs.
+ - Allergic to atomoxetine.
+ - Uncontrolled medical condition that may preclude completion of study or medical condition which would represent contraindication to atomoxetine ( e.g. hepatic insufficiency, untreated hypertension, untreated cardiovascular or cerebrovascular disease ).
+ - Known serious cardiac problems. History of narrow angle glaucoma. History of pheochromocytoma.
+ - Clinically significant abnormal findings on screening lab tests or exam. Abnormalities in Vitamin B12 level, TFTs or LFTs that may interfere w/ study. Low Vitamin B12 level ( unless homocysteine & methylmalonic acid indicate no clinical significance ).
+ - Slow metabolizer of atomoxetine.
+ - Women who are pregnant or lactating or plan to become pregnant during study.
+ - Behavioral symptoms requiring current use of neuroleptics, chronic anxiolytics, sedative hypnotics.
+ - Current use of warfarin.
+ - Inability to obtain initial Cerebrospinal fluid sample.
+ - Use within 60 days of a monoamine oxidase inhibitor or potent CYP2D6 inhibitor.
+ - Current use of anti-psychotics or the following anti-depressant medications: duloxetine, venlafaxine, desvenlafaxine, imipramine, amitryptiline.
+ - Current participation in another clinical trial.
+ - Current/recent participation in procedures involving radioactive agents such that total radiation dose exposure to subject in any given year > limits of annual & total dose commitment set forth in US CFR Title 21 Section 361.1.
+ - Cerebrospinal fluid profile inconsistent with underlying AD pathology.
+ - Reasonable likelihood for non-compliance w/ protocol or any other reason, in opinion of investigator.
+ - Exceptions may be considered on individual basis at discretion of protocol director.
+
+>>NCT01330160
+Inclusion Criteria:.
+ - patients > 40 years olds.
+ - hemispheric stroke.
+ - stroke dating from less 72h.
+ - IQ-code < 64.
+ - patient ( or his family ) given an informed consent.
+ Exclusion Criteria:.
+ - non hemispheric stroke.
+ - malformative intracranial hemorrhage.
+ - traumatic intracranial hemorrhage.
+ - subarachnoidal hemorrhage.
+ - contra-indication to MRI.
+ - patients unable to answer to cognitive battery.
+
+>>NCT00937846
+Inclusion Criteria:.
+ - Generally healthy.
+ - Male between 35 and 55 years of age.
+ - Willing to use appropriate contraception method.
+ - Weight more than 50 kg.
+ - BMI within the range 19 - 29 kg/m2.
+ - Adequate blood supply to the hand.
+ Exclusion Criteria:.
+ - Abuse of drugs or alcohol.
+ - Smoker or history of regular use of tobacco- or nicotine-containing products in the past 6 months.
+ - ECG abnormality ( personal or family history ).
+ - Psychiatric disorder.
+ - Asthma or a history of asthma.
+ - Medical illness.
+ - Worked as a welder, metal worker or machinist.
+ - Suffers from claustrophobia or would be unable to lie still in a PET or MRI scanner for 1 - 2 hours.
+ - Has a cardiac pacemaker or other electrical device or ferromagnetic metal foreign bodies.
+ - Neurological disorder.
+
+>>NCT00596284
+Inclusion Criteria:.
+ - Alzheimer's disease that is in the mild or moderate range according to a score of 0.5 to 2.0 on the Clinical Dementia Rating ( CDR ) Scale.
+ - Significant anxiety as defined by a score of 4 on the Neuropsychiatric Inventory ( NPI ).
+ - Agrees to permit participation of a collateral.
+ - English-speaking.
+ Exclusion Criteria:.
+ - Suicidal intent.
+ - Current psychosis or bipolar disorder.
+ - History of substance abuse within 1 month prior to study entry.

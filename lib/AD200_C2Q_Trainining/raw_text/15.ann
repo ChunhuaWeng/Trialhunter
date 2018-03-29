@@ -1,0 +1,439 @@
+T1	Measurement 54 71	60 - 85 years old
+T2	Condition 82 101	Alzheimer's disease
+T3	Qualifier 306 310	mild
+T4	Condition 311 330	Alzheimer's disease
+T5	Observation 332 371	Clinical Dementia Ratings Scale ( CDR )
+T7	Measurement 382 390	0.5 or 1
+T9	Observation 395 433	Mini Mental State Examination ( MMSS )
+T10	Measurement 434 451	between 19 and 27
+T11	Drug 467 476	donepezil
+T12	Drug 479 486	Aricept
+T13	Drug 492 504	rivastigmine
+T14	Drug 507 513	Exelon
+T15	Drug 519 530	galantamine
+T16	Drug 533 541	Razadyne
+T18	Temporal_measurement 569 586	at least 2 months
+T19	Qualifier 794 809	Moderate-Severe
+T20	Condition 810 829	Alzheimer's disease
+T21	Qualifier 834 839	other
+T22	Condition 840 849	dementias
+T23	Drug 935 953	riluzole treatment
+T24	Temporal_measurement 926 934	Previous
+T25	Procedure_Device 958 961	MRI
+T26	Condition 962 979	contra-indication
+T27	Qualifier 982 988	severe
+T28	Condition 989 1003	claustrophobia
+T29	Procedure_Device 1005 1019	metal implants
+T30	Procedure_Device 1021 1027	shunts
+T31	Procedure_Device 1029 1038	pacemaker
+T32	Procedure_Device 1040 1054	joint implants
+T33	Procedure_Device 1056 1068	metal valves
+T35	Drug 1258 1267	memantine
+T36	Drug 1269 1280	lamotrigine
+T37	Drug 1282 1289	lithium
+T38	Drug 1291 1298	opiates
+T39	Drug 1300 1309	bupropion
+T40	Drug 1311 1327	psychostimulants
+T41	Drug 1336 1348	amphetamines
+T42	Drug 1353 1369	methylphenidates
+T43	Drug 1371 1396	tricyclic antidepressants
+T44	Drug 1398 1413	benzodiazepines
+T45	Qualifier 1422 1427	other
+T46	Drug 1428 1432	drug
+T47	Drug 1693 1706	illicit drugs
+T48	Drug 1708 1715	cocaine
+T49	Drug 1717 1721	MDMA
+T50	Drug 1724 1731	ecstasy
+T51	Drug 1735 1741	heroin
+T52	Drug 1752 1759	opioids
+T53	Observation 1777 1792	urine drug test
+T58	Temporal_measurement 1837 1860	within the past 5 years
+T59	Observation 1865 1881	Serum creatinine
+T60	Measurement 1883 1920	> 1.5 times the upper limit of normal
+T61	Qualifier 1925 1933	Abnormal
+T62	Observation 1934 1953	liver function test
+T63	Measurement 1956 2002	greater than 2 times the upper limit of normal
+T64	Observation 2007 2038	alanine aminotranferase ( ALT )
+T66	Observation 2042 2076	aspartate aminotransferase ( AST )
+T68	Observation 2081 2090	bilirubin
+T69	Measurement 2092 2129	> 1.5 times the upper limit of normal
+T71	Condition 2145 2158	brain disease
+T72	Condition 2169 2188	Parkinson's Disease
+T73	Qualifier 2190 2196	severe
+T74	Condition 2197 2209	brain trauma
+T75	Condition 2211 2219	seizures
+T77	Condition 2232 2238	stroke
+T78	Qualifier 2239 2261	clinically significant
+T79	Condition 2262 2277	lacunar infarct
+T80	Condition 2317 2333	multiple lacunes
+T81	Condition 2339 2355	cortical infarct
+T82	Condition 2359 2372	focal lesions
+T83	Qualifier 2376 2397	clinical significance
+T84	Condition 2399 2417	multiple sclerosis
+T85	Condition 2419 2437	mental retardation
+T86	Condition 2439 2468	normal pressure hydrocephalus
+T87	Condition 2470 2479	CNS tumor
+T88	Condition 2481 2501	Huntington's disease
+T89	Condition 2503 2520	subdural hematoma
+T90	Condition 2538 2559	neurological disorder
+T91	Qualifier 2530 2537	serious
+T92	Qualifier 2564 2576	Uncontrolled
+T93	Condition 2577 2594	diabetes mellitus
+T94	Observation 2597 2602	Hba1c
+T95	Measurement 2603 2616	higher than 7
+T96	Qualifier 2634 2646	uncontrolled
+T97	Condition 2647 2659	hypertension
+T98	Drug 2691 2698	Namenda
+T99	Negation_cue 2677 2680	not
+T100	Drug 2701 2710	memantine
+T101	Temporal_measurement 2717 2734	at least 2 months
+T102	Temporal_measurement 2760 2771	concomitant
+T103	Drug 2772 2789	hepatotoxic drugs
+T104	Drug 2798 2809	allopurinol
+T105	Drug 2811 2821	methyldopa
+T106	Drug 2826 2839	sulfasalazine
+T107	Qualifier 2848 2856	unstable
+T108	Qualifier 2857 2864	serious
+T109	Qualifier 2865 2876	co-existing
+T110	Condition 2877 2899	medical condition( s )
+T111	Condition 2929 2950	myocardial infarction
+T112	Condition 2952 2975	coronary artery disease
+T113	Qualifier 3011 3019	unstable
+T114	Condition 3020 3026	angina
+T116	Condition 3047 3071	congestive heart failure
+T117	Temporal_measurement 3072 3087	within 6 months
+T118	Temporal_measurement 3121 3128	Current
+T119	Observation 3129 3135	smoker
+T120	Drug 3147 3175	nicotine-containing products
+T121	Drug 3185 3200	chewing tobacco
+T122	Drug 3202 3216	nicotine patch
+T123	Drug 3220 3223	gum
+T124	Temporal_measurement 3228 3245	the past 2 months
+T125	Condition 3258 3274	major depression
+T126	Temporal_measurement 3250 3257	Current
+T127	Observation 3286 3319	Hamilton Psychiatric Rating Scale
+T128	Measurement 3321 3325	> 18
+T129	Qualifier 3448 3459	Significant
+T130	Condition 3460 3486	neuropsychiatric illnesses
+T131	Condition 3495 3511	bipolar disorder
+T132	Condition 3513 3526	schizophrenia
+T133	Condition 3528 3551	moderate-severe anxiety
+T134	Condition 3553 3570	vascular dementia
+T135	Condition 3572 3598	Creutzfeldt-Jakob dementia
+T136	Condition 3600 3612	HIV dementia
+T137	Condition 3617 3653	dementia in other specified diseases
+T138	Drug 3684 3693	donepezil
+T139	Measurement 3698 3717	longer than 5 years
+T140	Observation 3722 3728	Weight
+T141	Measurement 3729 3741	> 300 pounds
+T142	Condition 3746 3765	Lactose intolerance
+T143	Condition 3964 3983	ALZHEIMER'S DISEASE
+T144	Qualifier 4048 4056	probable
+T145	Condition 4057 4059	AD
+T146	Observation 4065 4077	age of onset
+T147	Measurement 4078 4101	between 50 and 65 years
+T148	Observation 4105 4108	age
+T149	Condition 4115 4117	AD
+T150	Condition 4000 4002	AD
+T151	Qualifier 4135 4153	mild to moderately
+T152	Condition 4154 4162	demented
+T153	Observation 4182 4210	Mattis Dementia Rating Scale
+T154	Observation 4215 4244	Mini-Mental State Examination
+T155	Condition 4266 4268	AD
+T156	Observation 4286 4296	nonsmokers
+T157	Condition 4581 4600	ALZHEIMER'S DISEASE
+T159	Drug 4542 4557	AChe inhibitors
+T160	Drug 4649 4661	galanthamine
+T161	Drug 4664 4671	Reminyl
+T162	Drug 4704 4719	antidepressants
+T163	Drug 4727 4745	psychotropic drugs
+T164	Observation 4781 4791	Nonsmoking
+T165	Condition 4792 4799	healthy
+T166	Condition 4924 4926	AD
+T167	Qualifier 4951 4959	probable
+T168	Condition 4960 4962	AD
+T169	Observation 5137 5141	aged
+T170	Measurement 5142 5158	50 years or more
+T171	Condition 5267 5275	dementia
+T172	Observation 5390 5401	Free recall
+T173	Measurement 5403 5408	>= 17
+T174	Observation 5413 5425	total recall
+T175	Measurement 5427 5432	>= 40
+T176	Observation 5441 5479	Free and Cued Selective Reminding Test
+T177	Observation 5511 5515	MMSE
+T178	Measurement 5516 5553	>= norm for age and educational level
+T179	Observation 5585 5601	Isaac's set test
+T180	Measurement 5602 5639	>= norm for age and educational level
+T186	Condition 6114 6130	pituitary tumors
+T187	Condition 6030 6060	vascular ischemic neuropathies
+T188	Condition 6065 6098	chronic intracranial hypertension
+T189	Condition 5935 5960	inflammatory neuropathies
+T190	Condition 5977 5992	Devic's disease
+T191	Condition 5994 6012	multiple sclerosis
+T192	Condition 5903 5919	Horton's disease
+T193	Condition 5832 5851	Parkinson's disease
+T194	Condition 5861 5887	neurodegenerative disorder
+T195	Qualifier 5855 5860	other
+T196	Condition 6158 6189	systemic and/or ocular diseases
+T197	Condition 6195 6228	behavioural or cognitive symptoms
+T199	Condition 6273 6281	diabetes
+T200	Condition 6394 6396	AD
+T201	Condition 6408 6431	Dementia of other cause
+T203	Condition 6437 6439	AD
+T204	Qualifier 6444 6450	Severe
+T205	Condition 6451 6453	AD
+T206	Observation 6466 6476	MMSE score
+T207	Measurement 6477 6482	<= 10
+T208	Condition 6545 6553	dementia
+T209	Qualifier 6626 6634	probable
+T210	Condition 6635 6637	AD
+T211	Observation 6667 6670	Age
+T212	Measurement 6679 6696	50 years or older
+T214	Observation 6874 6884	MMSE score
+T215	Measurement 6885 6916	between 14 and 26 ( inclusive )
+T216	Observation 6921 6945	Modified Hachinski score
+T217	Measurement 6949 6972	less than or equal to 4
+T218	Condition 7320 7335	Non-AD dementia
+T219	Qualifier 7340 7348	Probable
+T220	Condition 7349 7351	AD
+T221	Condition 7357 7370	Down syndrome
+T223	Qualifier 7386 7408	clinically significant
+T224	Condition 7409 7415	stroke
+T226	Temporal_measurement 7448 7465	in past two years
+T227	Condition 7469 7477	epilepsy
+T228	Condition 7479 7497	focal brain lesion
+T229	Condition 7499 7537	head injury with loss of consciousness
+T231	Qualifier 7565 7570	major
+T232	Condition 7571 7591	psychiatric disorder
+T233	Condition 7602 7611	psychosis
+T235	Condition 7613 7629	major depression
+T236	Condition 7631 7647	bipolar disorder
+T237	Condition 7649 7675	alcohol or substance abuse
+T240	Condition 7680 7698	Sensory impairment
+T241	Drug 7801 7822	investigational agent
+T242	Qualifier 7874 7894	significant clinical
+T243	Condition 7895 7903	disorder
+T244	Qualifier 8040 8048	unstable
+T245	Qualifier 8014 8036	clinically significant
+T246	Condition 8049 8169	hematologic, hepatic, cardiovascular, pulmonary, gastrointestinal, endocrine, metabolic, renal or other systemic disease
+T247	Condition 8173 8195	laboratory abnormality
+T248	Qualifier 8200 8206	Active
+T249	Condition 8207 8225	neoplastic disease
+T251	Condition 8238 8244	cancer
+T252	Temporal_measurement 8245 8255	five years
+T253	Condition 8286 8299	breast cancer
+T254	Condition 8313 8326	skin melanoma
+T255	Condition 8337 8352	prostate cancer
+T256	Qualifier 8330 8336	stable
+T257	Negation_cue 8357 8360	not
+T259	Condition 8387 8394	seizure
+T260	Temporal_measurement 8395 8417	within past five years
+T261	Condition 8422 8431	Pregnancy
+T262	Qualifier 8435 8443	possible
+T263	Condition 8444 8453	pregnancy
+T264	Drug 8465 8476	resveratrol
+T265	Qualifier 8553 8569	mild to moderate
+T266	Condition 8585 8604	Alzheimer's disease
+T267	Qualifier 8576 8584	Probable
+T268	Drug 8631 8655	cholinesterase inhibitor
+T269	Qualifier 8614 8625	stable dose
+T271	Temporal_measurement 8671 8687	at least 30 days
+T272	Qualifier 8692 8718	clinically elevated levels
+T273	Condition 8722 8728	apathy
+T274	Condition 8818 8834	Major Depression
+T275	Condition 8839 8857	focal brain lesion
+T278	Qualifier 8932 8943	significant
+T279	Qualifier 8889 8900	significant
+T280	Condition 8901 8916	substance abuse
+T281	Condition 8944 8955	head trauma
+T282	Observation 8961 8982	loss of consciousness
+T283	Measurement 8984 8996	> 10 minutes
+T284	Observation 9393 9457	Clinical Dementia Rating Scale- Japanese version ( CDR-J ) score
+T285	Measurement 9462 9463	0
+T286	Qualifier 9569 9572	low
+T287	Observation 9573 9633	Cerebrospinal Fluid ( CSF ) Amyloid ( A )-beta 1 - 42 levels
+T288	Observation 9531 9549	amyloid deposition
+T289	Observation 9675 9690	body mass index
+T290	Measurement 9691 9745	between 18 and 35 kilogram per square meter, inclusive
+T291	Qualifier 9835 9841	stable
+T292	Observation 9885 9905	physical examination
+T293	Observation 9907 9922	medical history
+T294	Observation 9924 9935	vital signs
+T295	Procedure_Device 9940 9974	12 -lead electrocardiogram ( ECG )
+T297	Condition 9794 9801	healthy
+T298	Condition 10071 10084	brain disease
+T299	Condition 10126 10152	Alzheimer's disease ( AD )
+T301	Qualifier 10191 10196	other
+T302	Condition 10197 10208	abnormality
+T303	Negation_cue 10085 10095	other than
+T304	Condition 10297 10305	dementia
+T305	Condition 10313 10315	AD
+T306	Condition 10437 10467	familial autosomal dominant AD
+T307	Condition 10492 10510	contra-indications
+T308	Procedure_Device 10515 10549	Magnetic Resonance Imaging ( MRI )
+T310	Procedure_Device 10565 10575	prostheses
+T311	Procedure_Device 10577 10585	implants
+T312	Procedure_Device 10587 10601	claustrophobia
+T313	Procedure_Device 10603 10613	pacemakers
+T314	Qualifier 10649 10671	clinically significant
+T315	Observation 10681 10718	physical- or neurological examination
+T316	Observation 10720 10731	vital signs
+T317	Procedure_Device 10735 10747	12 -lead ECG
+T318	Observation 10760 10763	QTc
+T319	Measurement 10764 10792	greater than 450 millisecond
+T320	Qualifier 77 81	mild
+T321	Observation 279 300	NINCDS-ADRDA criteria
+T322	Qualifier 549 564	consistent dose
+T323	Drug 1092 1103	medications
+T34	Condition 1815 1836	drug or alcohol abuse
+T55	Qualifier 2524 2529	other
+T56	Qualifier 2622 2633	chronically
+T57	Temporal_measurement 2739 2748	Currently
+T324	Procedure_Device 2986 3009	coronary bypass surgery
+T115	Drug 3351 3383	investigational or marketed drug
+T325	Temporal_measurement 3400 3414	within 30 days
+T326	Observation 4022 4043	NINCDS-ADRDA criteria
+T158	Observation 4989 5012	NINCDS-ARDRA criteria51
+T327	Qualifier 5017 5034	Light to moderate
+T328	Observation 5073 5083	MMSE score
+T329	Measurement 5085 5089	> 10
+T330	Condition 5051 5058	disease
+T198	Condition 6147 6155	diseases
+T202	Temporal_measurement 7420 7427	Current
+T213	Observation 7541 7556	DSM-IV criteria
+T230	Temporal_measurement 7823 7840	within two months
+T234	Observation 7908 7925	aboratory finding
+T238	Drug 7983 8003	investigational drug
+T331	Observation 8748 8778	Frontal Systems Behavior Scale
+T332	Procedure_Device 8861 8873	neuroimaging
+T333	Qualifier 10230 10238	possible
+T334	Condition 10239 10256	cognitive deficit
+T335	Condition 10388 10402	mixed dementia
+T336	Condition 10816 10840	left bundle branch block
+T337	Condition 10842 10870	atrio-ventricular [AV] block
+T338	Measurement 10871 10893	second degree or highe
+T339	Procedure_Device 10906 10915	pacemaker
+T340	Procedure_Device 10919 10957	implantable cardioverter defibrillator
+R1	modified_by Arg1:T2 Arg2:T320	
+R2	modified_by Arg1:T4 Arg2:T3	
+R3	has_value Arg1:T5 Arg2:T7	
+R4	has_value Arg1:T9 Arg2:T10	
+R5	modified_by Arg1:T11 Arg2:T322	
+R6	modified_by Arg1:T13 Arg2:T322	
+R7	modified_by Arg1:T15 Arg2:T322	
+R8	has_TempMea Arg1:T11 Arg2:T18	
+R9	has_TempMea Arg1:T13 Arg2:T18	
+R10	has_TempMea Arg1:T15 Arg2:T18	
+R11	modified_by Arg1:T20 Arg2:T19	
+R12	modified_by Arg1:T22 Arg2:T21	
+R13	has_TempMea Arg1:T23 Arg2:T24	
+R14	modified_by Arg1:T28 Arg2:T27	
+R15	modified_by Arg1:T46 Arg2:T45	
+T6	Qualifier 1746 1751	other
+T8	Temporal_measurement 1659 1668	Currently
+R16	modified_by Arg1:T52 Arg2:T6	
+R17	has_TempMea Arg1:T47 Arg2:T8	
+R18	has_TempMea Arg1:T34 Arg2:T58	
+R19	has_value Arg1:T59 Arg2:T60	
+R20	modified_by Arg1:T62 Arg2:T61	
+R21	has_value Arg1:T64 Arg2:T63	
+R22	has_value Arg1:T66 Arg2:T63	
+R23	has_value Arg1:T68 Arg2:T69	
+R24	modified_by Arg1:T74 Arg2:T73	
+R25	modified_by Arg1:T79 Arg2:T78	
+T17	Anatomic_location 2283 2313	region important for cognition
+R26	modified_by Arg1:T90 Arg2:T55	
+R27	modified_by Arg1:T90 Arg2:T91	
+R28	modified_by Arg1:T93 Arg2:T92	
+R29	has_value Arg1:T94 Arg2:T95	
+R30	modified_by Arg1:T97 Arg2:T96	
+R31	modified_by Arg1:T97 Arg2:T56	
+R32	has_TempMea Arg1:T98 Arg2:T101	
+R33	has_TempMea Arg1:T103 Arg2:T102	
+R34	has_TempMea Arg1:T103 Arg2:T57	
+R35	modified_by Arg1:T110 Arg2:T109	
+R36	modified_by Arg1:T110 Arg2:T108	
+R37	modified_by Arg1:T110 Arg2:T107	
+R38	modified_by Arg1:T114 Arg2:T113	
+R39	has_TempMea Arg1:T116 Arg2:T117	
+R40	has_TempMea Arg1:T125 Arg2:T126	
+R41	has_value Arg1:T127 Arg2:T128	
+R42	has_TempMea Arg1:T119 Arg2:T118	
+R44	has_TempMea Arg1:T120 Arg2:T124	
+R43	has_TempMea Arg1:T115 Arg2:T325	
+R45	modified_by Arg1:T130 Arg2:T129	
+R46	has_value Arg1:T138 Arg2:T139	
+R47	has_value Arg1:T140 Arg2:T141	
+R48	modified_by Arg1:T145 Arg2:T144	
+R49	has_value Arg1:T146 Arg2:T147	
+R50	has_value Arg1:T148 Arg2:T147	
+R51	modified_by Arg1:T152 Arg2:T151	
+R52	has_value Arg1:T328 Arg2:T329	
+R53	modified_by Arg1:T168 Arg2:T167	
+R54	modified_by Arg1:T330 Arg2:T327	
+R55	has_value Arg1:T169 Arg2:T170	
+R56	has_value Arg1:T172 Arg2:T173	
+R57	has_value Arg1:T174 Arg2:T175	
+R58	has_value Arg1:T177 Arg2:T178	
+R59	has_value Arg1:T179 Arg2:T180	
+R60	modified_by Arg1:T194 Arg2:T195	
+R61	modified_by Arg1:T205 Arg2:T204	
+R62	has_value Arg1:T206 Arg2:T207	
+R63	modified_by Arg1:T210 Arg2:T209	
+R64	has_value Arg1:T211 Arg2:T212	
+R65	has_value Arg1:T214 Arg2:T215	
+R66	has_value Arg1:T216 Arg2:T217	
+R67	modified_by Arg1:T220 Arg2:T219	
+R68	modified_by Arg1:T224 Arg2:T223	
+R69	has_TempMea Arg1:T227 Arg2:T226	
+R70	has_TempMea Arg1:T227 Arg2:T202	
+R71	has_TempMea Arg1:T228 Arg2:T226	
+R72	has_TempMea Arg1:T228 Arg2:T202	
+R73	has_TempMea Arg1:T229 Arg2:T226	
+R74	has_TempMea Arg1:T229 Arg2:T202	
+R75	modified_by Arg1:T232 Arg2:T231	
+R76	has_TempMea Arg1:T241 Arg2:T230	
+R77	modified_by Arg1:T243 Arg2:T242	
+R78	modified_by Arg1:T246 Arg2:T245	
+R79	modified_by Arg1:T246 Arg2:T244	
+R80	modified_by Arg1:T234 Arg2:T242	
+R81	modified_by Arg1:T247 Arg2:T245	
+R82	modified_by Arg1:T247 Arg2:T244	
+R83	modified_by Arg1:T249 Arg2:T248	
+R84	has_TempMea Arg1:T251 Arg2:T252	
+R85	modified_by Arg1:T255 Arg2:T256	
+R86	has_TempMea Arg1:T259 Arg2:T260	
+R87	modified_by Arg1:T263 Arg2:T262	
+R88	modified_by Arg1:T266 Arg2:T267	
+R89	modified_by Arg1:T266 Arg2:T265	
+R90	modified_by Arg1:T268 Arg2:T269	
+R91	has_TempMea Arg1:T268 Arg2:T271	
+R92	modified_by Arg1:T273 Arg2:T272	
+R93	modified_by Arg1:T281 Arg2:T278	
+R94	modified_by Arg1:T280 Arg2:T279	
+R95	has_value Arg1:T282 Arg2:T283	
+R96	has_value Arg1:T284 Arg2:T285	
+R97	modified_by Arg1:T287 Arg2:T286	
+R98	has_value Arg1:T289 Arg2:T290	
+T54	Drug 9858 9868	medication
+R99	modified_by Arg1:T54 Arg2:T291	
+R100	modified_by Arg1:T334 Arg2:T333	
+R101	modified_by Arg1:T302 Arg2:T301	
+T65	Qualifier 10370 10375	other
+T67	Condition 10376 10385	disorders
+R102	modified_by Arg1:T67 Arg2:T65	
+T70	Qualifier 10324 10329	other
+T76	Condition 10330 10338	diseases
+T181	Condition 10347 10349	AD
+T182	Qualifier 10672 10680	abnormal
+R103	modified_by Arg1:T315 Arg2:T182	
+R104	modified_by Arg1:T315 Arg2:T314	
+R105	modified_by Arg1:T316 Arg2:T182	
+R106	modified_by Arg1:T316 Arg2:T314	
+R107	modified_by Arg1:T317 Arg2:T182	
+R108	modified_by Arg1:T317 Arg2:T314	
+R109	has_value Arg1:T318 Arg2:T319	
+R110	has_value Arg1:T337 Arg2:T338	
+R111	is_negated Arg1:T98 Arg2:T99	
+R112	is_negated Arg1:T299 Arg2:T303	
+R113	modified_by Arg1:T76 Arg2:T70	

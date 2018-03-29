@@ -1,0 +1,209 @@
+>>NCT00931073
+Inclusion Criteria:.
+ - Subjects who are willing and able to comply with scheduled visits, treatment plan, laboratory tests and other study procedures.
+ - Subjects must have either a CYP2D6 EM ( n = 12 ) or PM ( n = 12 ) status based on genotyping at screening.
+ - Subjects must have a CYP2C19 EM status based on status at screening.
+ Exclusion Criteria:.
+ - Evidence or history of clinically significant hematological, renal, endocrine, pulmonary, gastrointestinal, cardiovascular, hepatic, psychiatric, neurologic or allergic disease.
+ - Subjects with any history of a previous seizure or convulsion or significant head trauma.
+ - Subjects specifically allergic to imidazole antifungal agents.
+ - Subjects specifically allergic to omeprazole or other proton pump inhibitors.
+ - Any condition possibly affecting drug absorption ( eg, gastrectomy ).
+ - Subjects with hypersensitivity reactions to Dimebon or other antihistamines.
+ - Consumption of grapefruit or grapefruit containing products within 7 days prior to the first dose of study medication.
+ - Subjects currently taking omeprazole, other proton pump inhibitors, antacids, H2 -blockers or CYP2C19 inhibitors.
+ - Pregnant or nursing females; females of childbearing potential who are unwilling or unable to use an acceptable method of nonhormonal contraception as outlined in this protocol from at least 14 days prior to the first dose of study medication.
+
+>>NCT00884533
+Inclusion Criteria:.
+ - Healthy male and female volunteers aged between 18 and 45.
+ - Female of non child bearing potential or if of child bearing potential they must use adequate contraception for the duration of the study up until 14 days after the last dose.
+ - Body weight greater than or equal to 45 kg and BMI within the range 19 - 32 inclusive.
+ - Subjects must provide full written informed consent.
+ Exclusion Criteria:.
+ - Cardiac conduction abnormalities.
+ - Any history of myocardial infarction, syncope or cardiac arrhythmias or a history of uncontrolled hypertension or unstable heart disease.
+ - Subjects with a systolic blood pressure outside the range of 90 to 150 mmHg or diastolic blood pressure outside the range of 50 to 100 mmHg.
+ - Subjects with a personal or family history of QTc prolongation or unexplained cardiac arrest.
+ - Has a history of illicit drug use or alcohol abuse within the past year or a positive pre-study test for alcohol, cotinine or drugs of abuse at Screening or prior to the start of dosing.
+ - Alanine aminotransferase ( ALT ), aspartate aminotransferase ( AST ) or alkaline phosphatase values greater than 2.5 times the ULN, total bilirubin values  > 1.5 times the upper limit of normal ( ULN ) or history of severe hepatobiliary disease ( e.g. hepatitis B or C or cirrhosis, Child-Pugh Class B/C ).
+ - A positive test at Screening for Hepatitis B, Hepatitis C or Human Immunodeficiency Virus ( HIV ).
+ - Use of any agents that are known to inhibit or induce cytochrome CYP3A4 enzymes within 7 days prior to the first dose of study drug ( including foods or supplements such as grapefruit-containing products, mustard greens, kale, kohlrabi, broccoli, collard greens, brussel sprouts, watercress, charbroiled meats or St. John's Wort.
+ - Use of any prescription or non-prescription drugs, in particular drugs known to inhibit or induce CYP2C8, vitamins ( exceptions may be considered on a case-by-case basis with the GSK medical monitor ), herbal and dietary supplements within fourteen days prior to the first dose of study drug.
+ - Lactating or pregnant females.
+
+>>NCT00857415
+Inclusion Criteria ( autopsy cohort ):.
+ - Have a projected life expectancy of <= 6 months as determined by the principal investigator ( e.g. terminal medical condition ) or are already enrolled in a longitudinal study of aging with an autopsy component;.
+ - Can tolerate a 10 minute PET scan; and.
+ - Give informed consent for study procedures and brain donation consistent with the legal requirements of the State in which they are enrolled and the State in which they die.
+ Inclusion Criteria ( specificity cohort ):.
+ - Cognitively and neurologically healthy males and females 18 to 40 years of age;.
+ - Who had no known risk factors for AD, including:.
+ - Known genetic risk factors for AD, including an ApoE 4 allele ( note: ApoE genotype was determined after enrollment and was not disclosed to healthy control subjects ). Scans from subjects carrying an ApoE 4 allele were not included in the primary specificity analysis but were included in an exploratory analysis;.
+ - First degree relative with a known progressive dementing disorder;.
+ - History of cognitive decline;.
+ - History of neurologic, neurodegenerative or psychiatric disease;.
+ - History of head trauma; or.
+ - Evidence of brain abnormality on a MRI scan;.
+ - Who performed in an age-appropriate normal range on the Wechsler Logical Memory I & II, story A;.
+ - Who could tolerate a 10 -minute PET scan; and.
+ - Who provided informed consent before any study procedures were performed.
+ Exclusion Criteria:.
+ - Have primary brain tumor, known metastases to the brain, central nervous system ( CNS ) lymphoma;.
+ - Have any major, focal structural loss of brain matter;.
+ - Are aggressively being treated with life sustaining measures ( e.g. currently on respirator; receiving high dose chemotherapy );.
+ - Have a clinically significant infectious disease, including Acquired Immune Deficiency Syndrome ( AIDS ), Human Immunodeficiency Virus ( HIV ) infection, previous positive test for hepatitis or HIV or Creutzfeldt-Jakob disease ( CJD );.
+ - Are receiving any investigational medications or have participated in a trial with investigational medications within the last 30 days;.
+ - Have ever participated in an experimental study with an amyloid targeting agent ( e.g. anti-amyloid immunotherapy, secretase inhibitor );.
+ - Have had a radiopharmaceutical imaging or treatment procedure within 7 days prior to the study imaging session; or.
+ - Are females of childbearing potential who are pregnant or not using adequate contraception.
+
+>>NCT00825084
+Inclusion Criteria:.
+ - Healthy male and/or female subjects between the ages of 18 and 55 years, inclusive ( Healthy is defined as no clinically relevant abnormalities identified by a detailed medical history, full physical examination, including blood pressure and pulse rate measurement, 12 -lead ECG and clinical laboratory tests ).
+ - Body Mass Index ( BMI ) of 17.5 to 30.5 kg/m2; and a total body weight within the range of 50 to 100 kg.
+ - An informed consent document signed and dated by the subject or a legally-acceptable representative.
+ - Subjects who are willing and able to comply with scheduled visits, treatment plan, laboratory tests and other study procedures.
+ - Japanese subjects must have four Japanese grandparents who were born in Japan.
+ Exclusion Criteria:.
+ - Asian or Polynesian subjects in Western subject groups.
+ - Any condition possibly affecting drug absorption ( e.g., gastrectomy, active peptic ulcer within last 3 months ).
+ - History of regular alcohol consumption exceeding an average of 7 drinks/week for females and 14 drinks/week for men ( 1 drink = 5 ounces ( 150 mL ) of wine or 12 ounces ( 360 mL ) of beer or 1.5 ounces ( 45 mL ) of hard liquor ) within 6 months of screening.
+ - Subjects who, by history, smoke more than 5 cigarettes per day.
+ - Treatment with an investigational drug within 30 days or 5 half-lives ( whichever is longer ) preceding the first dose of study medication.
+ - 12 -lead ECG demonstrating QTc  > 450 msec at screening. If QTc exceeds 450 msec, the ECG may be repeated two more times and the average of the three QTc values should be used to determine the subject's eligibility.
+ - Pregnant or nursing females; females of childbearing potential who are unwilling or unable to use an acceptable method of nonhormonal contraception as outlined in this protocol from at least 14 days prior to the first dose of study medication.
+ - Use of prescription or nonprescription drugs, vitamins and dietary supplements, within 7 days or 5 half-lives ( whichever is longer ) of the first dose of study medication. 
+
+>>NCT00751907
+Inclusion Criteria:.
+ - Adult ( ages 40 - 65 ) children of parent with documented Alzheimer's disease.
+ Exclusion Criteria:.
+ - Current use of cholesterol lowering medication.
+ - History of liver disease.
+ - History of adverse reaction to statin medications.
+ - Elevated lab values ( CK and creatinine ).
+ - Use of medications that counteract with atorvastatin.
+ - History of dementia.
+ - Currently pregnant.
+ - Use of large quantities of grapefruit juice ( more than 1 quart/day ).
+ - Current involvement in another investigational drug study.
+ - Contraindications to MRI.
+
+>>NCT01421056
+Inclusion Criteria:.
+ - Diagnosis of amnestic or non-amnestic Mild Cognitive Impairment.
+ - Mini-Mental State Examination score higher than 24 at screening.
+ - MRI scan of the brain at screening with fluid-attenuation inversion recovery ( FLAIR ) and T2*-weighted gradient-recalled-echo ( GRE ) sequences.
+ Exclusion Criteria:.
+ - Diagnosis of Alzheimer's disease according to the ( DSM-IV-TR ) or NINCDS-ADRDA criteria.
+ - Any medical condition that could explain the patients cognitive deficits.
+ - CT or MRI brain imaging results obtained within 12 months prior to baseline showing evidence of infection, infarction or focal lesions of clinical significance.
+ - MRI scan at screening showing more than 4 cerebral microhemorrhages ( lesions with diameter <= 10 mm ).
+ - Geriatric Depression Scale ( 30 -point scale ) score > 9 at screening.
+ - History of stroke.
+ - Modified Hachinski ischemic scale score > 4 at screening.
+ - Women of childbearing potential.
+ - Vitamin B12 or folate deficiency.
+ - Diagnosis of schizophrenia or recurrent mood disorder ( including unipolar and bipolar disorders ) within 3 years of screening.
+ - Current diagnosis of peptic ulcer or gastrointestinal bleeding within the last year and/or chronic inflammatory bowel disease.
+ - Concomitant use of donepezil at doses > 5 mg/day or other cholinesterase inhibitors ( rivastigmine or galantamine ) at any dose.
+ - Concomitant use of memantine at dose > 20 mg/day.
+ - Concomitant use of psychoactive drugs ( sedatives, hypnotics, etc ).
+
+>>NCT02353845
+Inclusion Criteria:.
+ - Memory loss complaint and confirmed by an informant.
+ - Cognitive impairment in single or multiple domains, adjusted for age and education.
+ - Normal or near-normal performance on general cognitive function and no or minimum impairment of daily life activities.
+ - A Clinical Dementia Rating ( CDR ) score is 0.5 and consistent with the boundary of neuropsychological scale.
+ - Failure to meet the criteria for dementia.
+ - Must be able to accept examination of MRI, sight and hearing allow to complete test.
+ - Right handedness.
+ Exclusion Criteria:.
+ - Other diseases that cause cognitive impairment, such as thyroid disease, stroke and so on.
+ - People who have severe visual and hearing impairment.
+
+>>NCT02363504
+Inclusion Criteria:.
+ For the patients:.
+ - diagnosis of prodromal Alzheimer's disease based on the latest research criteria ( clinical assessment at the memory clinic : presence of at least a memory impairment, memory complaints expressed by the patient or informant, no problems in daily life functioning, no dementia and presence of biomarkers.
+ - Clinical Dementia Rating score of 0.5  .
+ - Mini-Mental State Examination ( MMSE ) >= 23 and being mentally competent ( in general, individuals with a MMSE >= 18 are considered mentally competent ).
+ - Age: between 60 and 85 years old.
+ - 50% female.
+ - Right-handedness.
+ - Average level of education.
+ - Informed consent before participation in the study.
+ For the healthy older individuals:.
+ - Average neuropsychological test results, in accordance with normative data, corrected for age, education and gender.
+ - No substantial memory complaints ( according to the participant ).
+ - Age: between 60 and 85 years old.
+ - 50% female.
+ - Right-handedness.
+ - Average level of education.
+ - Informed consent before participation in the study.
+ Exclusion Criteria:.
+ - Reduced vision.
+ - Psychoactive medication use.
+ - Abuse of alcohol and drugs.
+ - Cognitive impairment due to alcohol/drug abuse or abuse of other substances.
+ - Past or present psychiatric or neurological disorders ( major depression, schizophrenia, bipolar disorder, psychotic disorder ( or treatment for it ), epilepsy, stroke, Parkinson's disease, multiple sclerosis, brain surgery, brain trauma, electroshock therapy, kidney dialysis, Menire's disease, brain infections ).
+ - Major vascular disorders ( e.g. stroke ).
+ - Heart diseases or pacemakers.
+ - Contraindications for scanning ( e.g. brain surgery, cardiac pacemaker, metal implants, claustrophobia, body tattoos ).
+
+>>NCT02420756
+Inclusion Criteria:.
+ - 65 and older;.
+ - Medicare beneficiary;.
+ - Diagnosis of MCI or dementia, according to DSM-IV and/or National Institutes of Aging-Alzheimer's Association criteria, verified by a dementia specialist within 24 months ( American Psychiatric Association. 2000; McKhann et al. 2011; Albert et al. 2011 );.
+ - Meets AUC:.
+ - Cognitive complaint verified by objectively confirmed cognitive impairment;.
+ - The etiologic cause of cognitive impairment is uncertain after a comprehensive evaluation by a dementia specialist, including general medical and neurological examination, mental status testing including standard measures of cognitive impairment, laboratory testing and structural neuroimaging as below;.
+ - Alzheimer's disease is a diagnostic consideration;.
+ - Knowledge of amyloid PET status is expected to alter diagnosis and management.
+ - Head MRI and/or CT within 24 months prior to enrollment;.
+ - Clinical laboratory assessment ( complete blood count [CBC], standard blood chemistry profile, thyroid stimulating hormone [TSH], vitamin B12 ) within the 12 months prior to enrollment;.
+ - Able to tolerate amyloid PET required by protocol, to be performed at a participating PET facility;.
+ - English or Spanish speaking ( for the purposes of informed consent );.
+ - Willing and able to provide consent. Consent may be by proxy.
+ Exclusion Criteria:.
+ - Normal cognition or subjective complaints that are not verified by cognitive testing.
+ - Knowledge of amyloid status, in the opinion of the referring dementia expert, may cause significant psychological harm or otherwise negatively impact the patient or family.
+ - Scan is being ordered solely based on a family history of dementia, presence of apolipoprotein E or in lieu of genotyping for suspected autosomal mutation carriers.
+ - Scan being ordered for nonmedical purposes ( e.g., legal, insurance coverage or employment screening ).
+ - Cancer requiring active therapy ( excluding non-melanoma skin cancer );.
+ - Hip/pelvic fracture within the 12 months prior to enrollment;.
+ - Body weight exceeds PET scanner weight limit;.
+ - Life expectancy less than 24 months based on medical co-morbidities;.
+ - Residence in a skilled nursing facility.
+
+>>NCT02120664
+Inclusion Criteria:.
+ - Cognitively Normal Subjects.
+ - Males or females >= 21 and <= 45 years of age.
+ - Mini-mental state examination ( MMSE ) >= 29.
+ - Clinically Diagnosed AD Subject.
+ - Males or females >= 50 years of age.
+ - Meet clinical criteria for dementia due to probable AD.
+ - MMSE >= 16 and <= 26.
+ - Possible AD Subject.
+ - Males or females >= 50 years of age.
+ - Meet clinical criteria for dementia due to possible AD.
+ - MMSE >= 16 and <= 26.
+ - MCI Subject.
+ - Males or females >= 60 years of age with cognitive impairment ( not dementia ).
+ - MMSE  > 24 and  < 29.
+ - At Risk Elderly Subject.
+ - Cognitively normal males or females that are known ApoE4 carriers and >= 75 years of age.
+ - MMSE >= 27.
+ Exclusion Criteria:.
+ - Have had or currently have a diagnosis of neurodegenerative disorders other than AD.
+ - Have a current serious or unstable illness that could interfere with completion of the study.
+ - Subject has a known brain lesion, pathology or traumatic brain injury.
+ - Have received or participated in a trial with investigational medications in the past 30 days.
+ - Have had a radiopharmaceutical imaging or treatment procedure within 7 days of study imaging session.
+ - Females of childbearing potential who are not surgically sterile, not refraining from sexual activity or not using reliable methods of contraception.
+

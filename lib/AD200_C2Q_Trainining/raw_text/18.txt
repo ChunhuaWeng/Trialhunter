@@ -1,0 +1,214 @@
+>>NCT01142258
+Inclusion Criteria:.
+ - Fifty-five years of age or older;.
+ - Diagnosis of probable Alzheimer's disease by National Institute of Neurological and Communicative Disorders and Stroke/the Alzheimer's Disease and Related Disorders Association criteria;.
+ - Hachinski Ischemia Scale score less than 5.
+ - Mini-Mental State Examination score of O to 26.
+ - Actigraph evidence of a mean time immobile of less than 7 hours per night based on at least 7 nights of complete actigraph data collected over a single week;.
+ - For-week history of sleep disorder behaviors, occurring at least once weekly, as reported by the caregiver using the Neuropsychiatric Inventory ( NPI ) Nighttime Behavior scale;.
+ - Sleep disturbance observed was not present before the diagnosis of AD;.
+ - Other co-morbidities, especially delirium, depression, chronic pain and medication use may be present but do not cooperate in the primary symptoms;.
+ - Computed tomography or magnetic resonance imaging since the onset of memory problems showing no more than 1 lacunar infarct in a nonstrategic area and no clinical events suggestive of stroke or other intracranial disease or normal;.
+ - Stable medications for 4 weeks prior to the screening visit;.
+ - Having a mobile upper extremity to which to attach an actigraph;.
+ - Residing with a responsible spouse, family member or professional caregiver who is present during the night and would agree to assume the role of the principal caregiver for the 3 -week protocol;.
+ - Ability to ingest oral medication and participate in all scheduled evaluations.
+ Exclusion Criteria:.
+ - Sleep disturbance associated with an acute illness, delirium or psychiatric disease;.
+ - Clinically significant movement disorder, such as akinesia, that would affect actigraphic differentiation of sleep and wakefulness.
+ - Severe agitation;.
+ - Unstable medical condition;.
+ - Discontinuation of psychotropic or sleep medications within 2 weeks of the screening visit;.
+ - Patient unwilling to maintain caffeine abstinence after 2:00 PM for the duration of the protocol;.
+ - Patient unwilling to comply with the maximum limit of 2 alcoholic drinks per day and only 1 alcoholic drink after 6:00 PM for the duration of the protocol;.
+ - Prior use of trazodone for the treatment of sleep disturbances;.
+ - Caregiver deemed too unreliable to supervise the wearing of the actigraph, to administer trazodone the proper time, to maintain tbe sleep diary or to bring the patient to the scheduled visits;.
+
+>>NCT01841905
+Inclusion Criteria:.
+ - Individuals between the ages of 55 and 80 years old ( inclusive ).
+ - MMSE total score > 27.
+ - Two risk factors for AD:.
+ - Subjective memory complaints.
+ - A positive ( suspected ) first-degree family history for the disease.
+ - Permitted medications stable for at least 1 month prior to screening.
+ - Subjects may take stable doses of antidepressants lacking significant anticholinergic side effects ( do not have a history of major depression within the past year ).
+ - Estrogen replacement therapy.
+ - Adequate visual and auditory acuity to allow neuropsychological testing.
+ - Good general health or without any clinically significant abnormalities .
+ - Vitamin supplements ( including Vitamin E ) will be acceptable.
+ - Subjects must be willing and able to provide written informed consent.
+ Exclusion Criteria:.
+ - History of major traumatic brain injury, other known neurologic disease or insult.
+ - Mini Mental State Examination ( MMSE )total score < 27.
+ - Regular ( daily ) use of narcotics or antipsychotic medications.
+ - Poorly-controlled major depression or another Axis I psychiatric disorder as described in DSM-IV within the past year.
+ - Psychotic features, agitation or behavioral problems, within the last 3 months.
+ - History of alcohol or substance abuse or dependence within the past 2 years ( DSM IV criteria ).
+ - History of schizophrenia ( DSM IV criteria ).
+ - Any significant systemic illness or unstable medical condition which could lead to difficulty complying with the protocol including:.
+ - History of systemic cancer within the past 5 years ( non-metastatic skin cancers are acceptable ).
+ - History of myocardial infarction in the past year or unstable or severe cardiovascular disease including angina or Congestive Heart Failure ( CHF ) with symptoms at rest.
+ - Clinically significant obstructive pulmonary disease or asthma.
+ - Clinically significant and unstable gastrointestinal disorder within two years.
+ - Insulin-requiring diabetes or uncontrolled diabetes mellitus.
+ - Uncontrolled hypertension ( systolic BP > 170 or diastolic BP > 100 ).
+ - History of clinically significant liver disease, coagulopathy or vitamin K deficiency within the past 2 years.
+ - History of symptoms of narrow-angle glaucoma.
+ - Clinically significant obstructive uropathy.
+ - Use of centrally active beta-blockers, narcotics, methyldopa and clonidine within 4 weeks prior to screening.
+ - Use of anti-Parkinsonian medications ( e.g., Sinemet, amantadine, bromocriptine, pergolide and selegiline ) within 2 months prior to screening.
+ - Use of neuroleptics or narcotic analgesics within 4 weeks prior to screening.
+ - Use of long-acting benzodiazepines or barbiturates within 4 weeks prior to screen.
+ - Use of short-acting anxiolytics or sedative-hypnotics more frequently than 2 times per week within 4 weeks prior to screening ( note: sedative agents should not be used within 72 hours of the baseline and follow-up visits.
+ - Initiation or change in dose of an antidepressant lacking significant cholinergic side effects within the 4 weeks prior to screening ( use of stable doses of antidepressants for at least 4 weeks prior to screening is acceptable ).
+ - Use of systemic corticosteroids within 3 months prior to screening.
+ - Medications with significant cholinergic or anticholinergic side effects within 4 weeks prior to screening.
+ - Use of anti-convulsants within 2 months prior to screening.
+ - Use of warfarin ( Coumadin ) within 4 weeks prior to screening.
+ - Any prior use of any FDA approved medications for the treatment of Alzheimer's disease ( e.g., tacrine, donepezil or other newly approved medications ).
+ - Use of any investigational drugs within 30 days or 5 half-lives, whichever is longer, prior to screening.
+ - Subjects who, in the investigator's opinion, will not comply with study procedures.
+ - Known hypersensitivity to F- 18, tropicamide, and/or scopolamine or agents of this class of drugs.
+
+>>NCT00688207
+Inclusion Criteria:.
+ - Male or female subjects with a clinical diagnosis of probable Alzheimer's disease in.
+ - accordance with NINCDS-ADRDA3 criteria for at least 3 months.
+ - Subject has mild Alzheimer's disease as defined by a MMSE score 18 to 26 inclusive.
+ - at Screening.
+ - Hachinski Ischemia Score <= 4 at Screening.
+ - Subjects aged  >= 50 and  <= 90 years.
+ - Subject has not taken an approved Alzheimer's therapy in the last 30 days.
+ - Current use of medication is in accordance with the criteria listed in Section 9.1 ).
+ - Female subjects must be post-menopausal ( i.e.  > 1 year without menstrual period ),.
+ - surgically sterile or agree to use adequate method of contraception for the duration of the study.
+ - Female subjects who are pre-menopausal or who have been postmenopausal for  < 1 year must undertake pregnancy testing at screening, which must.
+ - be negative. More than one pregnancy test may be required ( i.e., when the time period between enrolment and study treatment is > 7 days ).
+ - Pregnancy testing will be performed at screening, pre-dose ( Day 1 ) and follow-up visit for all women of child-bearing potential and those who have been postmenopausal for less than 1 year. If clinically indicated, a urine or serum pregnancy test may be performed at anytime during the study.
+ - Brain CT or MRI scan performed within the past 12 months or at Screening, showing no evidence of any other potential cause of dementia other than Alzheimer's disease.
+ - Neurological exam without focal changes ( excluding changes attributable to AD or peripheral trauma ).
+ - Subjects who live with or who have a regular caregiver who is willing to attend all visits, oversee the subject's compliance with the protocol specified procedures and study medication and who is willing to report on subject's status.
+ - Subject has provided full written informed consent prior to the performance of any protocol-specified procedure.
+ - Subjects considered for enrolment must have a QTc ( either QTc B ( Bazett's.
+ - correction ) or QTc F ( Fridericia's correction )  < 450msec at the Screening Visit, with the exception of subjects with bundle branch block ( for whom either QTc B or QTc F must be  < 480msec ).
+ Exclusion Criteria:.
+ - Diagnosis of possible, probable or definite vascular dementia in accordance with NINDS-AIREN6 criteria.
+ - History or evidence of any other CNS disorder that could be interpreted as a cause of dementia: e.g. cerebrovascular disease ( stroke, hemorrhage ), structural abnormality, epilepsy, infectious or inflammatory/demyelinating CNS conditions, Parkinson's disease.
+ - Evidence of the following disorders: current vitamin B12 deficiency, positive syphilis serology or active thyroid dysfunction ( particularly that suggestive of hypothyroidism ), including abnormally high or low serum levels of thyroid stimulating hormone ( TSH ) that is clinically significant in the opinion of the investigator.
+ - History of Type 1 diabetes mellitus or secondary diabetes mellitus.
+ - Type 2 diabetes mellitus where the subject is being treated with insulin, a PPAR agonist or an insulin secretagogue ( e.g. a sulfonylurea or glitinide ).
+ - Any patient with an HbA1c  >= 8.5%.
+ - History or clinical/laboratory evidence congestive heart failure defined by the New York Heart Association criteria ( Class I to IV cardiac status ) ( Appendix 4 ).
+ - History of cardiovascular event within the last 6 months ( i.e. intervention, percutaneous coronary intervention, vascular surgery, acute coronary syndrome [non Q-wave myocardial infarction, Q-wave myocardial infarction, unstable angina] or significant arrhythmia; or major intervention ( e.g. cardiac surgery or angiography plus stenting ) scheduled ).
+ - History of significant psychiatric illness such as schizophrenia or bipolar affective disorder that in the opinion of the Investigator would interfere with participation in the study, major depressive disorder ( according to DSM-IV ) in the past year or current active depression requiring initiation of treatment.
+ - History or presence of gastro-intestinal, hepatic or renal disease or other condition known to interfere with the absorption, distribution, metabolism or excretion of drugs or any other clinically relevant abnormality, which, in the opinion of the Investigator, makes the subject unsuitable for inclusion in the study.
+ - Clinically significant peripheral oedema at the time of screening.
+ - Current or recent drug or alcohol abuse or dependence ( defined by DSM-IV criteria for substance-related disorders ) or recent or remote history of the same if that could be a contributing factor to the dementia.
+ - Systolic blood pressure  > 165 or  < 90 mmHg or diastolic blood pressure  > 95 or  < 60 mmHg at the time of screening.
+ - Clinically significant anaemia ( i.e. haemoglobin  < 11 g/dL for males or  < 10 g/dL for females ).
+ - Patients with GFR  <= 50ml/min ( assessed by Cockcroft-Gault method ) .
+ - ALT, AST or alkaline phosphatase values  > 2.5 times the upper limit of normal, total bilirubin values  > 1.5 times the upper limit of normal or history of severe hepatobiliary disease ( e.g. hepatitis B or C or cirrhosis, Child-Pugh Class B/C ).
+ - History of a bone marrow transplant.
+ - Positive hepatitis B virus, hepatitis C virus or HIV test at screening.
+ - Subject is unable ( with assistance, if appropriate ) to take study medication or is at risk of non-compliance with study procedures.
+
+>>NCT00088673
+Inclusion Criteria:.
+ Patients may be included in this study if they meet all of the following criteria:.
+ - Male or Female ( age 50 years and older ): Female must be of non-childbearing potential ( i.e. surgically sterilized or at least 2 years post-menopausal ).
+ - Diagnosis of probable Alzheimers disease based on the National Institute of Neurological and Communicative Disorders and Stroke/Alzheimers Disease and Related Disorders Association ( NINCDS-ADRDA criteria ).
+ - Severity of dementia of mild to moderate degree as assessed by the Mini Mental State Examination ( MMSE ) performed at the screening visit.
+ - Patient must be living in the community with a reliable caregiver. Participant living in an assisted living facility may be included if study medication intake is supervised and participant has a reliable caregiver.
+ - Potential participant must be treated with conventional Alzheimers disease therapies and must be on stable dose for at least 4 months prior to the screening visit and during the entire study period.
+ - Fluency in English, French or Spanish ( oral and written ).
+ - Signed informed consent from potential participant or legal representative and caregiver.
+ Exclusion Criteria:.
+ Patients will not be eligible to participate in the study if they meet any of the following criteria:.
+ - Potential participant with any other cause of dementia.
+ - Life expectancy less than 2 years.
+ - Potential participant with a clinically significant and/or uncontrolled condition or other significant medical disease.
+ - Use of an investigational drug within 30 days prior to the screening visit or during the entire study.
+ - Previous use of 3APS.
+ Patient recruitment is done by participating centers.
+
+>>NCT01638949
+Inclusion Criteria :.
+ - Education level > 7 years.
+ - Native language: French.
+ - Medical, neurological, neuropsychological and neuroradiological depth in accordance with the criteria for inclusion and exclusion-specific population, that is to say:.
+ - Healthy young volunteers: between 18 and 40 years old; normal performances compared to the age and the educational level for all tests of the diagnostic battery ( 1.65 SD ).
+ - Healthy Middle-aged volunteers: between 40 and 60 years old; without memory complaints, normal performances compared to the age and the educational level for all tests of the diagnostic battery ( 1.65 SD ).
+ - Healthy Elderly volunteers: over 60 years old, living at home, without memory complaints, normal performances compared to the age and the educational level for all tests of the diagnostic battery ( 1.65 SD ).
+ - SCI patients: over 60 years old ; memory complaints; memory complaint ; normal performances compared to the age and the educational level for all tests of the diagnostic battery ( 1.65 SD ).
+ - MCI patients: presenting the current criteria for amnestic MCI including: i ) memory complaint, ii ) deficits of the episodic memory ( lower performance of at least 1.65 SD from the norm for age and cultural level for one or more scores of episodic memory and iii ) normal performances compared to the age and the educational level of all other cognitive functions as memory, including tests to assess cognitive abilities.
+ - Alzheimer's patients: presenting the standard criteria of NINCDS-ADRDA probable Alzheimer's disease, including abnormal global cognitive function and deficits in at least two cognitive domains identified by the diagnostic battery and a mild to moderate Alzheimer's disease ( MMSE >= 15 ).
+ Exclusion Criteria :.
+ - The sudden onset of cognitive impairments ( as opposed to their slow and gradual installation in Alzheimer's disease ).
+ - A chronic neurological, psychiatric, endocrine, hepatic or infectious complaint.
+ - A history of major disease ( an uncontrolled diabetes, a lung, heart, metabolic, hematologic, endocrine disease or a severe cancer ).
+ - A medication that may interfere with memory or metabolic measures.
+ - A alcohol or drugs abuse.
+ - The cons-indications to MRI ( claustrophobia, metallic object in the body ).
+ - A predominantly left-hand ( score below 50% in Edinburgh Inventory ).
+ - Protected adults and persons not affiliated with a social security system will not participate in this study.
+ - The inclusion of a participant in another biomedical research protocol.
+
+>>NCT01962753
+Inclusion Criteria.
+ - Adult 60 years or older.
+ - Native language : french.
+ - Study period > 7 years.
+ - Major depression defined on the DSM-IV criteria assessed by MINI and HDRS score of 10 or over.
+ - Affiliation to the national health insurance system.
+ - Signed informed consent.
+ Exclusion Criteria.
+ - History of alcoholism or drug addiction.
+ - MMSE less than or equal to 17.
+ - Major depression with psychotic features.
+ - Depressive episode resistant, patient who received two different antidepressants well conducted without significant therapeutic response.
+ - Any current or past episode of mania, schizophrenia or any other psychotic disorder.
+ - Any past history of stroke or Parkinson's disease.
+ - Any current significant unstable illness.
+ - Any past diagnosis of Alzheimer's disease.
+ - Any current treatment by AcethylCholinesterae inhibitor, memantine or antidepressant therapy.
+ - Contraindications to MRI in patients with:.
+ 1. Metallic foreign body eye.
+ 2. Any implanted electronic medical irremovably ( pacemaker, neurostimulator, cochlear implants ...).
+ 3. Metal heart valve,.
+ 4. Vascular clips formerly located on cranial aneurysm.
+ - Contraindications to antidepressants.
+ - History of progressive disease that can affect the central nervous system such as uncontrolled diabetes, blood pressure greater than or equal to 180 - 100; chronic lung disease with hypoxia, head trauma with loss of consciousness greater than or equal to 15 minutes; brain surgery, encephalitis, recently treated cancer ( < 1 year ), altered cerebral metabolism including subjects with stroke sequelae extended. Patients with lacunar stroke without thalamic or striatal may be included.
+
+>>NCT01982578
+Inclusion Criteria:.
+ - Patients with mild cognitive impairment ( MCI ) compatible with prodromal AD.
+ - Mini-Mental State Examinations ( MMSE ) score between over 24 inclusive.
+ - CSF levels of AB, p-TAU compatible with AD.
+ - 18 years or older.
+ - Must have a study partner who is able and willing to comply with all required study procedures.
+ - Willing and able to provide informed consent by either the subject or subject's legal representative.
+ Exclusion Criteria:.
+ - Patient who does not meet the inclusion criteria.
+ - Thyroid abnormalities with or without treatment.
+ - Immune abnormalities in blood analyses.
+ - Patient suffers hormone dependent neoplasia.
+ - Take a diet rich on isoflavones.
+
+>>NCT00480220
+Inclusion Criteria:.
+ - patient seen in consultation in one of the centres participating in the study.
+ - patient with probable or possible AD according to NINCDS-ADRDA criteria.
+ - patient with an MMSE score between 12 and 26 ( mild to moderate disease ).
+ - patient capable of understanding and responding to the evaluations made.
+ - patient who is not confined to bed or chair.
+ - patient living at home with an informal caregiver.
+ - informed consent of the patient ( or legal representative ) and of the caregiver agreeing to take part in the study.
+ Exclusion Criteria:.
+ - patient with an MMSE score of less than 12 or over 26.
+ - patient incapable of understanding and responding to the evaluations made.
+ - patient confined to bed or chair.
+ - patient living at home without an informal carer or in an institution.
+ - patient with a concomitant disorder threatening the vital prognosis at two years.
+ - patient with a dementia other than AD.
+ - patient already included in another research programme.

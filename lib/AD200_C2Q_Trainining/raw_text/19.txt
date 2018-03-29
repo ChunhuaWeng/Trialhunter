@@ -1,0 +1,203 @@
+>>NCT02137460
+Participants will be classified as either Alzheimer's disease ( AD ) group, mild cognitive impairment ( MCI ) group, elderly normal controls or young normal controls. Specific inclusion criteria for each group is described below.
+ [Inclusion criteria: AD].
+ - Age : 55 - 90.
+ - Clinical Dementia Rating ( CDR )= 0.5 or 1.
+ - Diagnostic and Statistical Manual-IV ( DSM-IV ) criteria for dementia.
+ - National Institute of Aging and the Alzheimer's Association ( NIA-AA ) Probable AD dementia.
+ - Study partner or caregiver to accompany patient to all scheduled visits.
+ - Written informed consent.
+ [Inclusion criteria: MCI ( amnestic )].
+ - Age : 55 - 90.
+ - Clinical Dementia Rating ( CDR )= 0.5.
+ - Concern regarding a change in cognition ( obtained from the subject, from an informant who knows the subject or from a skilled clinician observing the subject ).
+ - Lower performance in episodic memory domains that is greater than would be expected for the subject's age and educational background.
+ - Preservation of independence in functional abilities.
+ - Study partner or caregiver to accompany subject to all scheduled visits.
+ - Written informed consent.
+ [Inclusion criteria: Elderly normal controls].
+ - Age : 55 - 90.
+ - Clinical Dementia Rating ( CDR )= 0.
+ - Those with contactable Informant.
+ - Written informed consent.
+ [Inclusion criteria: Young normal controls].
+ - Age : 20 - 55.
+ - Clinical Dementia Rating ( CDR )= 0.
+ - Written informed consent.
+ [Exclusion criteria: general].
+ - Past history or presence of major psychiatric illness ( e.g. schizophrenia, bipolar disorder, alcohol/substance abuse or dependence, delirium ).
+ - Significant neurologic or medical condition that can influence the mental state.
+ - Contraindications for MRI scan ( e.g. pacemaker, claustrophobia ).
+ - Illiteracy.
+ - Significant visual or hearing difficulty.
+ - Taking investigational drug.
+ - In pregnancy or breast-feeding.
+
+>>NCT00082602
+Inclusion Criteria:.
+ - Male or female outpatients diagnosed with Alzheimer's Disease.
+ - Age >= 60 years.
+ - Presence of mild to moderate dementia as evidenced by Mini Mental State Examination ( MMSE ) score of 10 - 24 inclusive at screening.
+ - History of cognitive decline that had been gradual in onset and progressive over a period of at least six months.
+ Exclusion Criteria:.
+ - Neurodegenerative disorders.
+ - One of the following conditions possibly resulting in cognitive impairment: Acute cerebral trauma or injuries secondary to chronic trauma ( such as boxing ), hypoxic cerebral damage, whether or not due to acute or chronic cerebral hypoperfusion.
+ - Vitamin deficiency states, such as folate, vitamin B12 or other B complex deficiencies.
+ - Neurosyphilis or other infections resulting in cerebral abscesses, meningitis or encephalitides such as AIDS.
+ - Primary or metastatic cerebral neoplasia.
+ - Significant endocrine or metabolic disease e.g., untreated or uncontrolled thyroid, parathyroid or pituitary disease, Cushing's syndrome, severe renal failure or uncontrolled diabetes mellitus.
+ - Mental retardation or oligophrenia.
+ - Multi-infarct dementia or clinically active cerebrovascular disease as evidenced by: a history of a significant cerebrovascular event yielding a physical or neurologic deficit likely to confound the assessment of the subject's intellectual function, multiple focal signs on neurological examination indicative of multiple ischemic attacks, significant findings on an available CT or MRI scan taken within the last 12 months.
+ - Subjects with the following co-existing medical conditions: Any history of epilepsy or convulsions except for febrile convulsions during childhood.
+ - Current clinically significant psychiatric disease, in particular current major depression, schizophrenia, bipolar disorder, moderate to severe or uncontrolled behavioral disturbances.
+ - Peptic ulcer disease: if the ulcer is considered to be still active or if treatment is not successful ( symptoms present ).
+ - Clinically significant hepatic, renal, pulmonary, metabolic or endocrine disturbances.
+ - Clinically significant urinary outflow obstruction.
+ - Current, clinically significant cardiovascular disease that would be expected to limit the subject's ability to participate in and complete a 12 -Week trial. The following would usually be considered clinically significant cardiovascular diseases: cardiac surgery or myocardial infarction within the past 6 months, angina or coronary artery disease that required a change in anti-angina medication within the last 3 months, decompensated congestive heart failure, cardiac disease potentially resulting in syncope, near syncope or other alterations of mental status, atrial fibrillation, bradycardia < 50/min., atrio-ventricular block > first degree.
+ - Severe mitral or aortic valvular disease.
+ - Uncontrolled high blood pressure ( systolic blood pressure > 170 mmHg or diastolic blood pressure > 110 mmHg ) or sustained hypotension.
+ - Any agent being used for the treatment of dementia ( approved, experimental or over the counter agents.
+ - Subjects who have previously received Cognex, Aricept, metrifonate, Exelon, Reminyl or Namenda for treatment of Alzheimer's disease, no matter if approved or experimental can be included in this trial provided that during the 30 days prior to baseline they were not taking these agents.
+ - O History of drug or alcohol abuse within the last year or prior prolonged history of the same.
+ - Female subjects of childbearing potential.
+ - Subjects who in the opinion of the investigator are otherwise unsuitable for a trial of this type.
+ - History of severe drug allergy or hypersensitivity, including recorded hypersensitivity to cholinesterase inhibitors, choline agonists or identical agents or bromide.
+ - Subjects who have previously been enrolled in other galantamine trials.
+ - Subjects who have received an investigational medication within the last 30 days.
+ - Conditions that could interfere with the absorption of the compound or with the evaluation of the disease.
+ - Employees of the investigator.
+
+>>NCT01320527
+Inclusion Criteria:.
+ - Clinical diagnosis of Alzheimer's disease or Mild Cognitive Impairment.
+ - must be able to swallow pills.
+ Exclusion Criteria:.
+ - known or suspected bipolar disorder.
+
+>>NCT01434940
+Inclusion Criteria:.
+ - subject whose visual acuity > 9 - 10.
+ - subject without a diagnosis of eye disease.
+ - subject without a neuropsychological sequelae.
+ - for depressed patients :subject with a diagnosis of depression confirmed by a psychiatric evaluation and MADRS ( Montgomery and Asberg Depression Rating Scale ) score  > 25 and without cognitive impairment or any other psychiatric pathology and MMSE ( Mini Mental State Examination ) >= 18 and without symptoms of AD.
+ - for Alzheimer patients :subject with AD diagnosed according to NINCDS-ADRDA ( National Institute of Neurological and Communicative Disorders and Stroke -Alzheimer's Disease and Related Disorders Association ) criteria and MMSE  >= 18 and without psychiatric disorder and MADRS score < 25.
+ - for control patients : subject without AD, depression or any other psychiatric condition identified by the diagnostic criteria or cognitive disorders and MADRS score  < 25 and MMSE > 20.
+ Exclusion Criteria:.
+ - subject age under 60.
+
+>>NCT00408525
+Inclusion Criteria:.
+ - Subjects may report experiencing subjective memory dysfunction, however they must be found by clinical evaluation to have no memory dysfunction.
+ - Neuropsychological test battery in the normal range.
+ - Ages 40 - 85.
+ Exclusion Criteria:.
+ - Dementia ( Mini-Mental State Exam less than 25 - 30 ).
+ - Left-handedness.
+ - Current medication that could influence cognition.
+ - Medical, psychiatric and neurologic conditions, including cerebrovascular disease or uncontrolled hypertension.
+ - Claustrophobia.
+ - Surgical clips or implants.
+ - Pacemakers or other implanted electronic devices.
+ - History of sheet metal work.
+
+>>NCT01054976
+Inclusion Criteria:.
+ - Alzheimer's disease according to the criteria of DSM-IV, NINCDS-ADRDA.
+ - K-MMSE ( Korean - Mini Mental State Exam ) is 10 to 24.
+ - Reliable Guardian available to the patients.
+ - Patient or guardian provided written informed consent before entering into the clinical trial.
+ Exclusion Criteria:.
+ - Acetylcholine esterase inhibitors used to treat dementia taken within 30 days of the beginning in this clinical trial.
+ - Neurodegenerative diseases ( eg Parkinson's disease, Pick's disease, Huntington's disease, Down syndrome ).
+ - Dementia related to head trauma and dementia related to brain damage due to cerebral hypoxia ( hypoxic brain damage after cardiopulmonary resuscitation, hypoxic brain damage after surgery, hypoxic brain damage due to addiction, hypoxic brain damage due to shock ).
+ - brain tumor, nerve syphilis, meningitis, encephalitis.
+ - epilepsy.
+
+>>NCT02349191
+Inclusion Criteria:.
+ 1. Male or female subjects between 60 to 85 years of age.
+ 2. Montreal Cognitive Assessment ( MoCA ) score of 11 to 18 ( mild AD ).
+ 3. Healthy enough to undergo the surgical procedure based on surgical risk factor definitions ( ASA <= 3, using the ASA classification ).
+ 4. Must be able to read and understand English in order to complete all AD assessments.
+ 5. All medical illnesses other than dementia must be well controlled.
+ 6. Must have legally authorized caregiver if incapable of making their own decisions who is willing and able to perform the following:.
+ 1. provide informed consent if the subject is unable to do so;.
+ 2. monitor the subject;.
+ 3. answer informant based questionnaires;.
+ 4. provide transportation and accompany the subject to all visits.
+ 7. Subject or caregiver is willing and able to provide written informed consent and assent ( if applicable ).
+ 8. Subject and/or caregiver are willing to comply with the study procedures and complete the entire study as specified in the protocol.
+ Exclusion Criteria:.
+ 1. Life expectancy < 2 years.
+ 2. Subject who had or has cancer and is undergoing cancer therapy.
+ 3. Previous course of abdominal, cranial or neck radiotherapy or chemotherapy.
+ 4. Patients with neck calcifications may be excluded.
+ 5. Subject with uncontrolled heart disease, renal disease or liver disease.
+ 6. Subject with diabetes mellitus whose glycoslated Hb ( A1C ) > 7.
+ 7. Complete blood count ( CBC ) with white blood cell  < 4000 or platelets  > 125000.
+ 8. Subject with uncontrollable hypertension ( HTN ).
+ 9. Subject with previous abdominal surgery or disorder that could negatively influence the outcome of the OT surgery.
+ 10. Subject who has had a craniotomy in the past.
+ 11. Recent major surgery within the past 6 months.
+ 12. Use of cholinesterase inhibitors within the last 30 days and inability to not take cholinesterase inhibitors throughout the length of the study ( about 25 mos ).
+ 13. Subject uses non-prescribed drugs of abuse or has a history of drug or alcohol abuse/dependence.
+ 14. Use of anticoagulants other then anti-platelet medications.
+ 15. Subject has significant central nervous system ( CNS ) disorder other than Alzheimer's disease.
+ 16. Subject has clinical evidence or history of stroke, transient ischemic attack, significant head injury or other unexplained or recurrent loss of consciousness  >= 15 minutes.
+ 17. Major depressive disorder, schizophrenia, other psychotic disorders or bipolar disorder.
+ 18. Subject has epilepsy.
+ 19. Patients with severe extra pyramidal signs.
+ 20. Patients with plastic surgery of the neck or face.
+ 21. Subject resides in hospital or moderate to high dependency continuous care facility.
+ 22. Non-English speaking subjects and/or caregivers.
+ 23. Subject has any condition that, in the opinion of the Investigator would preclude the use of the study procedure, may interfere with the evaluation of the procedure-related outcomes or preclude the subject from completing the follow-up requirements.
+
+>>NCT01430286
+Inclusion criteria :.
+ - Family caregivers of AD patients DSM IV-TR ( American Psychiatric Association 2004 ) or NINCDS/ADRDA ( McKhann et al. 1984 ).
+ - Age: over 18 years old.
+ - score 12 or over on the Perceived Stress Scale 14 items ( PSS- 14, Cohen ) Need for information or help.
+ - Sign informed consent.
+ Exclusion criteria :.
+ - Professional or paid caregiver.
+ - Physical or mental disease incompatible with patient's management.
+ - Impossibility to participate in the educational program.
+ - Absence of perceived stress.
+ - Ongoing psychotherapy or a similar program in parallel.
+
+>>NCT01600469
+Inclusion Criteria:.
+ - Clinical diagnosis of mild cognitive impairment or mild Alzheimer's.
+ - MMSE between 17 - 26.
+ - CDR 0.5 or 1.
+ Exclusion Criteria:.
+ - Hachinski Ischemic Score > 4.
+ - substance abuse/dependence.
+ - Parkinson disease.
+ - epilepsy.
+ - major depressive disorder.
+ - dementia with psychotic features.
+ - major physical illnesses.
+ - severe visual or hearing impairment.
+
+>>NCT00814801
+Inclusion Criteria:.
+ - Outpatients with a diagnosis of Alzheimer's disease according to the National Institute of Neurological and Communicative Disorders and the Alzheimer's Disease and Related Disorders Association ( NINCDS-ADRDA ) criteria.
+ - Having a Mini-Mental Status Examination ( MMSE ) score of 10 - 22 inclusive.
+ - Having an Alzheimer's Disease Assessment Scale - Japan cognitive subscale ( ADAS-J cog ) score of at least 18.
+ - Exhibiting an onset and progression of cognitive dysfunction during at least 6 months prior to the screening period.
+ Exclusion Criteria:.
+ - Patients with neurodegenerative diseases other than Alzheimer's disease, such as Lewy bodies disease, ( dementia due to tiny round structures made of proteins that develop within nerve cells in the brain ), Parkinsonism, etc.
+ - Patients with cognitive dysfunction due to cerebral damage resulting from a lack of oxygen, a brain injury, etc.
+ - Patients with multi-infarct dementia ( brought on by a series of strokes ) or active cerebrovascular disease.
+ - Patients with clinically significant cardiovascular disease.
+ - Patients currently taking drugs such as a cholinesterase inhibitors, which improve cerebral circulation/metabolism.
+
+>>NCT02518412
+Inclusion Criteria:.
+ - Alzheimers disease according to ( National Institute of Neurological and Communicative Disorders and Stroke and the Alzheimer's Disease and Related Disorders Association ).
+ - The cognitive impairment and decline must be documented by cognitive / neuropsychological testing and from an informant.
+ Exclusion Criteria:.
+ - Stroke,.
+ - Cancer,.
+ - Psychiatric disorders ( major depression, psychosis ) or diseases / injuries in the central nervous system.

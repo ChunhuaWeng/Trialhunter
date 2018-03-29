@@ -1,0 +1,149 @@
+>>NCT00702780
+Inclusion Criteria :.
+ - Age : 40 - 90 years.
+ - Education : not illiterate.
+ - Clinical Dementia Rating ( CDR ): 0.5 - 2.
+ - Modified Hachinski Ischemic Score ( Rosen et al., 1979 ): less than 4.
+ - Dementia according to DSM-IV criteria.
+ - Probable Alzheimer's disease according to NINCDS-ADRDA criteria.
+ - Current ongoing donepezil medication at stable doses ( 5 - 10 mg/day ) for at least 2 months.
+ Exclusion criteria :.
+ - Evidence of delirium, confusion or altered consciousness.
+ - Evidence of Parkinson's disease, stroke, brain tumor and normal pressure hydrocephalus.
+ - Evidence of infectious or inflammatory brain disease.
+ - Evidence of serious cerebrovascular diseases.
+ - Current major depressive disorder or other major psychiatric illnesses.
+ - Evidence of serious or unstable medical illnesses which can significantly change cognitive state.
+ - History of alcohol or other substance dependence.
+ - Any antidepressant medications within the previous 4 weeks.
+ - Absence of a reliable and cooperative collateral informant.
+ - Any conditions which prohibit MRI scan, such as presence of pacemaker or cerebrovascular clip and claustrophobia.
+ - Evidence of focal brain lesions on MRI including lacunes and white matter hyperintensity lesions of grade 2 or more by Fazeka scale.
+
+>>NCT00285025
+Inclusion Criteria :.
+ - Male / female outpatients.
+ - Age > 50 years at screening.
+ - Dementia of Alzheimers Type ( DSM-IV 290.0 ) according to DSM-IV criteria, Probable AD according to NINCDS-ADRDA criteria, Mini-Mental State Examination score > 12 and < 26.
+ - Untreated or treated for a minimum of 6 months before randomization with a stable dose of the cholinesterase inhibitors.
+ - Generally healthy and ambulatory or ambulatory-aided ( i.e., walker or cane ).
+ - Presence of a reliable caregiver.
+ - Patient, identified caregiver and, if applicable, patient surrogate ( primary relative, legal guardian, medical proxy ) have given their informed written consent and are capable of following study procedures.
+ Exclusion Criteria :.
+ - Any cause of dementia not due to Alzheimers disease, Delusions, delirium, psychosis, depression or other significant psychiatric disorder.
+ - Treatment with any registered or putative cognitive enhancer or disease modifier other than donepezil, rivastigmine or galantamine.
+ - Females who are pregnant or breast-feeding. Females of child bearing potential ( premenopausal female biologically capable of becoming pregnant ) must have a confirmed negative serum bHCG pregnancy test at the screening visit and must use an acceptable method of birth control.
+ - Severe or unstable cardiovascular, respiratory, renal, hematological, endocrinological, neurological or other somatic disease.
+ - Use of CYP3A4 strong inhibitors.
+ - Evidence ( detected by history, physical examination and / or laboratory / ECG tests ) of any clinically significant or unstable medical disorder that could interfere with the subject's participation in the clinical trial; interfere with the absorption, metabolism or excretion of the study medication; or interfere with the evaluation of the study drug. Alterations of laboratory tests or ECG findings of potential clinical significance.
+
+>>NCT01126099
+Inclusion Criteria :.
+ - No age limit.
+ - Probable or Possible Alzheimer's Disease.
+ - Disruptive agitated behaviors at least twice a week ( overly anxious or excited, making offensive comments.....).
+ - Stable medications for 2 weeks.
+ - Must have a caregiver who spends 10 hours per week caring for the participant and agrees to participate in all evaluation sessions.
+ Exclusion Criteria :.
+ - Cardiovascular : unstable angina, recent myocardial infarction, preexisting hypotension ( systolic BP less than 110 ) or orthostatic hypotension ( >= 20 mmHg drop in systolic BP following 2 minutes of standing posture ).
+ - Any unstable medical condition.
+ - Exclusionary medications : current treatment with prazosin, other alpha- 1 blockers ( trazodone, sildenafil, vardenafil or tadalafil ).
+ - Psychoactive medications : subjects may be psychoactive medication-free or be partial responders ( by subjective assessment of referring health care professional ) to one psychoactive medication from any of the following classes : antipsychotics, anticonvulsants, mood stabilizers, antidepressants, benzodiazepines or buspirone. Partial response is defined as some improvement in agitated behavior but persistence of agitated behaviors severe enough to cause patient distress and/or difficulty with caregiving. Although not formally rated, this improvement is equivalent to a Clinical Global Impression of Change rating of no more than minimal improvement ( improvement is noticed by not enough to improve patient function or caregiver's practical management of the patient ).
+ - Psychiatric/behavioral : lifetime schizophrenia; current delirium, mania, depression or uncontrolled persistent distressing psychotic symptoms ( hallucinations, delusions ), substance abuse, panic disorder or any behavior which poses an immediate danger to patient or others or which results in the patient being too uncooperative to meet the requirements of study participation.
+
+>>NCT01388478
+Inclusion Criteria :.
+ - Informed consent provided by the participant or the participant's legally acceptable representative.
+ - Age 55 years or older.
+ - Possible/probable Alzheimer's Disease ( AD ).
+ - Community dwelling with a caregiver able and willing to accompany the participant on all visits, if necessary. Caregiver must visit with the subject  > 5 times per week.
+ - Rosen Modified Hachinski score of 4 or less.
+ - Imaging Study ( CT or MRI ) compatible with AD or age-related changes ( absence of significant abnormalities that may explain cognitive decline, such as multiple lacunar infarcts or a single prior infarct  > 1 cubic cm, microhemorrhages or evidence of a prior hemorrhage > 1 cubic cm, evidence of cerebral contusion encephalomalacia, aneurysm, vascular malformation or space occupying lesion such as an arachnoid cyst or brain tumor ).
+ - Adequate visual and auditory abilities to perform all aspects of the cognitive and functional assessments.
+ Exclusion Criteria :.
+ - Significant neurological disease, other than AD, that may affect cognition.
+ - Current clinically-significant systemic illness that is likely to result in deterioration of the patient's condition or affect the patient's safety during the study.
+ - History of clinically-evident stroke.
+ - Clinically-significant infection within the last 30 days.
+ - Myocardial infarction or symptoms of active coronary artery disease ( e.g., angina ) in the last two years.
+ - Uncontrolled hypertension within the last 6 months.
+ - History of cancer within the last 5 years ( except non-metastatic basal or squamous cell carcinoma ).
+ - History of drug or alcohol abuse as defined by DSM-IV criteria within the last 2 years.
+ - Insulin dependent diabetes mellitus.
+ - Significant pain or musculoskeletal disorder that would prohibit participation in metabolic testing.
+
+>>NCT01707719
+Inclusion Criteria :.
+ - Outpatients of both sexes diagnosed with Alzheimer's disease according to NINCDS-ADRDA criteria.
+ - Age and sex-matched elderly subjects without dementia.
+ Exclusion Criteria :.
+ - Recent neoplasia ( < 1 year ).
+ - Vitamin B12 deficiency, positive serology for syphilis, thyroid function abnormalities considered to be significant by the care provider.
+ - Use of vitamin or mineral supplements.
+ - Diagnosis of malnutrition ( based on body mass index and total protein levels ).
+ - Metabolic syndrome or diabetes.
+ - Hormonal replacement therapy.
+ - Smoking.
+ - Chronic inflammatory disease ( e.g. rheumatoid arthritis ) and any other acute illness.
+
+>>NCT00299988
+Inclusion Criteria :.
+ 1. Diagnosis of probable Alzheimer's disease ( AD ) of mild to moderate severity ( as determined by a Mini Mental State Examination ( MMSE ) score of 14 - 26 inclusive ).
+ 2. Ability to give informed consent, designate a decision-maker or have an already recognized decision-maker ( such as a legal guardian or health care proxy ).
+ 3. Ability to comply with testing and infusion regimen.
+ 4. An able caregiver willing to participate ( such as a spouse, child, other relative, close friend, aide or other professional caregiver closely involved in helping the patient take care of himself/herself ).
+ 5. Venous access suitable for repeated infusion and phlebotomy.
+ 6. On stable doses of approved AD medications for at least 3 months.
+ 7. As applicable, on stable doses of psychoactive medications ( e.g. antidepressants, antipsychotics ) for at least 6 weeks.
+ 8. Neuroimaging performed after symptom onset consistent with the patient's diagnosis.
+ 9. Clinical laboratory values within normal limits or if abnormal, judged clinically insignificant by the Principal Investigator.
+ 10. Women who want to take part in this study must either be post-menopausal, surgically sterilized or agree to avoid becoming pregnant during the entire period of their participation in this study.
+ Exclusion Criteria :.
+ 1. Non-Alzheimer dementia.
+ 2. Active renal disease.
+ 3. Abnormally high serum viscosity levels.
+ 4. Immunoglobulin A ( IgA ) deficiency.
+ 5. Untreated congestive heart failure, unstable angina or a history of recent myocardial infarction.
+ 6. Unstable arrhythmia.
+ 7. Untreated or poorly controlled hypercholesterolemia.
+ 8. Untreated or poorly controlled hypertension.
+ 9. Poorly controlled diabetes.
+ 10. Thrombosis ( central or peripheral ) in the past year.
+ 11. Modified Hachinski score > 5.
+ 12. Active cancer diagnosis, except basal cell carcinoma.
+ 13. Active autoimmune or neuroimmunologic disorder.
+ 14. History of IVIg treatment in past 6 months.
+ 15. Untreated major depression or other major psychiatric disorders.
+ 16. Known coagulopathy or platelet counts < 100000.
+ 17. Positive serology for Hepatitis B or C or HIV.
+ 18. Active migraines or frequent headaches ( 3 or more times per week ).
+ 19. Taking immunosuppressive drugs.
+ 20. Chronic ( more than thrice weekly ) use of non-steroidal anti-inflammatory drugs ( NSAIDs ), excluding aspirin 81 milligrams daily.
+ 21. Received an investigational treatment for AD within 3 months of study entry.
+ 22. A history of or current disorder or disease that in a physician co-investigator's judgment may impede the subject's participation in the study, pose immoderate risk to the patient or confound the results of the study.
+
+>>NCT01049555
+Inclusion Criteria :.
+ - male or female, > 65 years ;.
+ - Alzheimer's disease according to the NINCDS-ADRDA criteria ( McKhann,Drachman et al. 1984 ) ;.
+ - Mini Mental Test Examination ( MMSE ) > 20 ;.
+ - no motor anomaly according to UPDRS III ( tremblements, rigidit musculaire ) ;.
+ - no depression criteria according to DSM IV-R criteria ;.
+ - patient with a cholinergic treatment at dose stable since 3 months ;.
+ - patient with social insurance ;.
+ - signature of informed consent.
+ Exclusion Criteria :.
+ - neuropsychologics assessment impossible due to sensorial and disrupt ;.
+ - prescription of psychotrop treatment ( hypnotic, anxiolytic, antidepressant, antipsychotic ) in the week previous actigraphy recording.
+
+>>NCT01481558
+Inclusion criteria :.
+ 1. Dementia defined by DSM-IV ( Diagnostic and Statistical Manual version IV ).
+ 2. Possible Alzheimer's Disease defined by NINCDS-ADRDA ( National Institute for Neurological and Communicative Disorders and Stroke and the Alzheimer's Disease and Related Disorders Association ).
+ 3. Mini Mental State Examination scores from 10 to 20.
+ 4. Apathy defined by a score equal or higher to 14 in Apathy Scale.
+ Exclusion criteria :.
+ 1. Clinical instability.
+ 2. Epilepsy.
+ 3. Metallic clip in the head.
+ 4. Use of alcohol and psychotropic drugs.

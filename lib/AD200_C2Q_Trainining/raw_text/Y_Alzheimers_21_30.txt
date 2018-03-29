@@ -1,0 +1,209 @@
+>>NCT00015548
+Inclusion Criteria:.
+- Diagnosis of Dementia of the Alzheimer's Type.
+- Ambulatory, Outpatients who have an informant living/visiting at least 8 hours/week over 3 - 4 days.
+- Presence of delusions, hallucinations, agitation impacting functioning and requiring medication treatment.
+- Agitation or psychotic symptoms began after signs or symptoms of dementia.
+Exclusion ( prospective participants must not:).
+- Be benefiting from psychotropic medication, antidepressants or anticonvulsants.
+- Be diagnosed with schizophrenia, schizoaffective disorder, delusional disorder or mood disorder with psychotic features.
+- Have severe or unstable medical illness requiring active treatment.
+- Have hypersensitivity or intolerance of any of the study medications.
+
+>>NCT02267057
+Inclusion Criteria:.
+- Patients residing in long term nursing home units for at least 4 weeks prior to study.
+- Diagnosed with probable or possible dementia according to Diagnostic and Statistical Manual of Mental Disorders ( DSM-IV ), FAST score > 4.
+- Diagnosed with depression >= 4 week duration as measured by CSDD >= 8.
+- Written, informed consent provided by the participant ( if they have capacity ) or assent ( if they do not have capacity ) and a written proxy informed consent from a legally authorized representative empowered to make health-related decisions for the potential study participant.
+Exclusion Criteria:.
+- The patient is contra-indicated to study drugs of pain treatment, in another trial or had no carer.
+- Participants are ineligible if they are clinical critical ( e.g. suicide risk ).
+- Clinician responsible for care or study clinician considers that the patient suffers from any physical condition, which would make participation in the trial distressing or likely to increase suffering.
+- Advanced severe medical disease/disorder with expected survival less than 6 months or that could interfere with participation.
+- Psychosis or other severe mental disorder prior to dementia diagnosis.
+- Severe aggression ( >= 8 ) on item 3 of the NPI subscale, with aggression as the predominant symptom.
+- Schizophrenia, schizoaffective disorder and bipolar disorder.
+- Uncontrolled epilepsy.
+- Severe liver impairment.
+- Renal failure.
+- Severe injury or anaemia ( Hb < 8.5 mmol/l ), comatose state, current enrolment in another experimental protocol.
+- Known allergy or adverse reaction to paracetamol or buprenorphine transdermal patch.
+- Advanced severe medical disease with expected survival of less than six months, severe psychiatric or neurological disorder.
+- Patients with diseases that make it impossible to follow the research schedule are excluded.
+
+>>NCT01023685
+Inclusion Criteria:.
+- Patients who have completed the core study with no significant safety concerns.
+Exclusion Criteria:.
+- Diagnosis of other neurodegenerative disease and/or psychiatric disorders ( with the exception of successfully treated depression ).
+- Diagnosis or presence of an active, uncontrolled seizure disorder and/or cerebrovascular disease.
+- Diagnosis or presence of an active autoimmune and/or with an acute or chronic inflammation.
+Other protocol-defined inclusion/exclusion criteria may apply.
+
+>>NCT01600469
+Inclusion Criteria:.
+- Clinical diagnosis of mild cognitive impairment or mild Alzheimer's.
+- MMSE between 17 - 26.
+- CDR 0.5 or 1.
+Exclusion Criteria:.
+- Hachinski Ischemic Score > 4.
+- substance abuse/dependence.
+- Parkinson disease.
+- epilepsy.
+- major depressive disorder.
+- dementia with psychotic features.
+- major physical illnesses.
+- severe visual or hearing impairment.
+
+>>NCT00056524
+Inclusion Criteria:.
+- 18 to 75 years of age, inclusive.
+- Clinical diagnosis of PBA ( pseudobulbar affect ).
+- If female, must not be pregnant or breast feeding.
+Exclusion Criteria:.
+- Sensitivity to quinidine or any opiate drugs.
+- Current or prior history of major psychiatric disturbance.
+- Currently participated in a trial within the past 30 days.
+
+>>NCT01354444
+Inclusion Criteria:.
+1. Diagnosis of AD by NINCDS/ADRDA criteria ( 47 ).
+2. Mini-Mental State Exam ( MMSE ) 16 - 26. This range corresponds roughly to "mild" AD as rated by CDR below and provides a rapid test for efficient screening of potential participants.
+3. Clinical Dementia Rating ( CDR ) < 1 ( mild dementia ). This corresponds with "early" AD ( see D.2.5 above ). Participants will be eligible if they have AD diagnosis and CDR of 0.5 or 1.0. The category of CDR 0.5 AD is particularly important to include as these participants are in the earliest stage that can be diagnosed as dementia ( as opposed to mild cognitive impairment ) and thus are in the "earliest" clinical stage of AD.
+4. Patients will be allowed to remain on current FDA-approved Alzheimer's treatments including cholinesterase inhibitors and memantine, so long as the dose has been stable for >= 3 months. These medications lack any notable effects on amyloid synthesis or metabolism and thus there is no reason to exclude them. The rationale behind requiring a stable dose is so that change in the trial can be attributed to the study intervention rather than recent changes of other medications affecting cognition.
+5. Patients will be allowed to remain on antidepressant and antipsychotics medications so long as the dose has been stable for >= 3 months. The rationale is the same as item 5.
+6. Knowledgeable informant available for all study visits. This is standard practice in AD research because many standard instruments ( in this trial including CDR, NPI, ADCS-ADL ) require a knowledgeable informant.
+Exclusion criteria.
+1. Evidence of non-AD dementias including Huntington's disease, Parkinson's disease or frontotemporal dementia.
+2. Current DSM-IV Axis I diagnoses other than dementia, including major depression, bipolar disorder, schizophrenia, anxiety disorders, alcohol abuse or other substance abuse. These diagnoses would merit their own treatment plans and changes in these conditions could significantly affect cognitive and functional outcomes, confounding our efforts to study the efficacy of the study intervention.
+3. Any clinically significant medical condition that could interfere with the subject's ability to safely participate in the study or to be followed.
+4. Current use of Beta-blocking agents.
+5. Contraindications to use of Beta-blocking agents, to be determined in consultation with the patient's primary care physician or ( if appropriate ) cardiologist.
+6. Clinically significant hepatic or renal insufficiency.
+
+>>NCT01926691
+Inclusion Criteria:.
+- Age >= 50 years.
+- Israeli residents.
+- Acute stroke that occurred within the last 3 days as defined by:.
+- acute focal neurological deficit.
+- Written informed consent by patient prior to study participation.
+- Willingness to participate in follow-up.
+Exclusion Criteria:.
+- patients presenting with a primary hemorrhagic stroke ( intracerebral or subarachnoid ).
+- history of any preceding cerebral vascular event ( excluding TIA (.
+- imminent death or unconscious state.
+- patients unlikely to be released from hospital following the qualifying stroke or have a severe disability after the.
+- qualifying stroke which makes follow-up unlikely.
+- known malignant disease or other chronic disease with poor prognosis ( predicted survival less than two-years ).
+- stroke resulting from trauma or invasive procedure.
+- patients with a prestroke history consistent with dementia.
+- severe aphasia.
+
+>>NCT01423396
+Inclusion criteria.
+- Subjects aged 60 or over.
+- Subjects with Alzheimer's disease, according to the NINCDS/ADRDA diagnostic criteria 71.
+- MMSE > 18.
+- Subjects with at least one VRF ( whether treated or not ): arterial hypertension ( defined as SBP/DBP >= 140 - 90 mmHg in at least three different consultations or, for ambulatory measurements, > 130 - 80 mmHg with a Holter recorder or > 135 - 85 mmHg with a self-measurement device ), type 2 diabetes ( defined as a glycaemia value over 1.26 g/l ( 7 mmol/l ) after an 8 -hour fast ( confirmed on two occasions ), dyslipidaemia ( defined as an LDL cholesterol level > 1.6 g/l or 1.3 or 1 g/l, depending on the patient's risk level ).
+- Subjects having agreed to participate in the study ( provision of informed consent ).
+- Subjects accompanied by a person likely to provide information on the patient ( during the visit or over the phone ).
+Exclusion criteria.
+- Any other disease that might interfere with the evaluation of cognitive disorders.
+- No formal education or a poor understanding of French ( interfering with administration of the neuropsychological tests ).
+- Major physical problems likely to interfere with administration of the tests ( poor eyesight, hearing, etc.).
+- Non-Alzheimer's dementia ( isolated vascular dementia, Lewy body dementia, frontotemporal dementia, etc.).
+- Psychotropic drugs likely to modify the patient's non-stabilized cognitive state.
+- Patients with a history of cardiovascular events can be included ( randomization will be balanced in terms of this criterion ).
+- Participation in a therapeutic clinical trial during the study period.
+
+>>NCT02579252
+Inclusion criteria ( abbreviated ):.
+- Diagnosis of probable Alzheimer's disease according to the revised National Institute on Aging-Alzheimer's Association ( NIA-AA ) criteria ( McKhann 2011 ).
+- Mini Mental State Examination ( MMSE ) score >= 20 and <= 26.
+- Brain MRI finding consistent with the diagnosis of Alzheimer's disease.
+- Medial temporal lobe atrophy: Scheltens score of >= 2 ( on a scale of 0 - 4 on the more atrophied side ).
+- At least 6 years of formal elementary education.
+- Age 50 - 85 years.
+- Fluency in the local language and sufficient auditory and visual capacities to allow neuropsychological testing.
+- Ability to read and understand the informed consent.
+- Stable therapy with an acetylcholinesterase inhibitor for at least 3 months prior to screening.
+- If the patient is on memantine treatment, the dose regimen must be stable for at least 3 months prior to screening.
+- Hachinski Ischemia Scale score <= 4.
+- Availability of a caregiver.
+- Female patients must be either surgically sterile or at least 2 years postmenopausal.
+- Male patients must either be surgically sterile or he and his female spouse/partner who is of childbearing potential must be using highly effective contraception starting at screening and continuing throughout the study period.
+- Patient provides written informed consent.
+Exclusion criteria ( abbreviated ):.
+- Participation in another clinical study within 3 months prior to screening.
+- Pregnant or breastfeeding female.
+- Not expected to complete the clinical study.
+- Known allergy to components of the vaccine.
+- Contraindication for MRI imaging.
+- Any of the following detected by brain MRI:.
+- Infarction in the territory of large vessels.
+- More than one lacunar infarct.
+- Any lacunar infarct in a strategically important location.
+- Confluent hemispheric deep white matter lesions ( Fazekas grade 3 ).
+- Other focal lesions which may be responsible for the cognitive status of the patient or any other abnormalities associated with significant central nervous disease other than Alzheimer's disease.
+- Surgery ( under general anaesthesia ) within 3 months prior to screening and/or scheduled surgery during the whole study period.
+- Patient has a history and/or currently suffers from a clinically significant autoimmune disease or is expected to receive immunosuppressive or immunomodulatory treatment at the present or in the future.
+- Recent history of cancer ( last specific treatment <= 5 years prior to Screening ).
+- Myocardial infarction within 2 years prior to screening.
+- Hepatitis B, C, HIV or Syphilis.
+- Active infectious disease.
+- Presence and/or history of immunodeficiency.
+- Patient currently suffering from a clinically important systemic illness:.
+- poorly controlled congestive heart failure ( NYHA >= 3 ).
+- BMI > 40.
+- poorly controlled diabetes ( HbA1c > 7.5%).
+- severe renal insufficiency ( eGFR < 30 mL/min ).
+- chronic liver disease - ALT ( alanine aminotransferase ) > 66 U/L in females or > 80 U/L in males, AST ( aspartate aminotransferase ) > 82 U/L.
+- QTc interval prolongation in ECG (> 450 ms ).
+- other clinically significant systemic illness, if considered relevant by the investigator.
+- Hypothyroidism, defined as TSH ( thyroid-stimulating hormone ) elevation > 5.000 mcIU/mL, and/or FT4 levels < 0.7 ng/dL. Patients with corrected hypothyroidism are eligible for the study provided that treatment has been stable for 3 months before study entry.
+- History or presence of a significant psychiatric illness.
+- Current depressive episode ( Geriatric Depression Scale GDS >= 6 ) or major depressive episode within the last 2 years.
+- Metabolic or toxic encephalopathy or dementia due to a general medical condition.
+- History of alcohol or drug abuse or dependence within the past 2 years.
+- Wernicke's encephalopathy.
+- History or evidence of any CNS disorder other than AD that could be the cause of dementia.
+- Cerebrovascular disease ( ischemic or haemorrhagic stroke ) or diagnosis of possible, probable or definite vascular dementia.
+- Epilepsy.
+- Treatment with experimental immunotherapeutics including intravenous immunoglobulin within 3 months prior to screening.
+- Treatment with experimental therapies for AD aiming at disease-modification within 3 months prior to screening.
+- Patient is currently being treated or was treated in the past with any active vaccines for AD.
+- Treatment with immunosuppressive drugs.
+- Change in dose of previous and current medications within the last 30 days prior to Screening ( V01 ), if considered clinically relevant by the investigator.
+- Vitamin B12 or folic acid deficiency ( serum vitamin B12 < 191 pg/mL; folic acid < 5.39 ng/mL ).
+- Pathogenic mutation in the MAPT gene.
+
+>>NCT02380573
+Inclusion Criteria for all subjects:.
+1. 45 - 89 years old.
+2. All genders.
+3. All minorities.
+4. English, Spanish or multilingual speakers.
+5. Postmenopausal or surgically sterile females only.
+6. Inclusion for MCI group only: participants will meet the criteria for amnestic and non-amnestic MCI such as those currently used by Texas Alzheimer's Research and Care Consortium ( TARCC ) consensus diagnosis.
+7. Inclusion for AD group only: Alzheimer's Early-stage, sporadic-type.
+Exclusion Criteria:.
+1. Pregnancy or breastfeeding.
+2. Contraindication for MRI ( Claustrophobia and magnetic metal implants ).
+3. Glucose- 6 -phosphate deficiency, methemoglobinemia.
+4. Allergy to MB.
+5. Color-blindness.
+6. Craniotomy, craniectomy or endovascular neurosurgery.
+7. A current diagnosis of stroke, transient ischemic attack ( TIA ), any primary neurodegenerative disorder or any other causes of neuropsychologic disturbances or secondary dementia ( MCI or AD does not exclude subject ).
+8. A serious intercurrent illness likely to cause death within the next 5 years, such as terminal cancer.
+9. Alcohol and/or drug abuse.
+10. Any detection of an unknown disease process ( eg. new tumor ) on the study's neuroimaging at the discretion of the investigators.
+11. A systolic blood pressure  >= 180 mmHg and/or a diastolic blood pressure  >= 105 mmHg.
+12. Severe difficulty or an inability to perform any one of the 6 Katz Activities of Daily Living.
+13. Patients who are unlikely to comply with trial visit schedule or with trial medication,.
+14. On any psychiatric serotonergic antidepressant medication or psychotropic medication within the last 5 weeks.
+15. Diagnosis of epilepsy, traumatic brain injury with loss of consciousness, psychosis, panic attacks,.
+16. Chronic kidney disease, cirrhosis, liver or renal transplants.
+17. Known hypersensitivity to thiazide diuretics and phenothiazines.
+18. Any other condition, which in the opinion of the investigator, would put the participant at risk and warrant exclusion from the study.

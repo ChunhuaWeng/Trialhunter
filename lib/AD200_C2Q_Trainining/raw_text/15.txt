@@ -1,0 +1,117 @@
+>>NCT01703117
+Inclusion Criteria:.
+ - Male or female; 60 - 85 years old with mild Alzheimer's disease determined after neurological and neuropsychological evaluation following the National Institute on Aging - Alzheimer's disease Association criteria that recently revisited the NINCDS-ADRDA criteria. For mild Alzheimer's disease, Clinical Dementia Ratings Scale ( CDR ) should be 0.5 or 1 and Mini Mental State Examination ( MMSS ) between 19 and 27.
+ - Must be on donepezil ( Aricept ) or rivastigmine ( Exelon ) or galantamine ( Razadyne ) at a consistent dose for at least 2 months.
+ - Must be fluent in English.
+ - The subject will appoint or have previously appointed a health care proxy specifically designated for research consent and that this be documented.
+ Exclusion Criteria:.
+ - Moderate-Severe Alzheimer's disease and other dementias as determined by neuropsychological testing and neurological evaluation.
+ - Previous riluzole treatment.
+ - MRI contra-indication ( severe claustrophobia, metal implants, shunts, pacemaker, joint implants, metal valves ).
+ - Currently taking medications that either have evidence of glutamatergic activity or has previous MRS evidence of effects on brain glutamate levels at the discretion of the PI such as memantine, lamotrigine, lithium, opiates, bupropion, psychostimulants such as amphetamines and methylphenidates, tricyclic antidepressants, benzodiazepines and any other drug that the investigators judge might interfere with the study. ( subjects on those medications may still be included in the study however only the values of NAA from MRS will be utilized and not the glutamate measurements ).
+ - Currently a user of the following illicit drugs: cocaine, MDMA ("ecstasy"), heroin and other opioids ( as verified by urine drug test ) or has a history of drug or alcohol abuse within the past 5 years.
+ - Serum creatinine  > 1.5 times the upper limit of normal.
+ - Abnormal liver function test ( greater than 2 times the upper limit of normal for alanine aminotranferase ( ALT ) or aspartate aminotransferase ( AST ); or bilirubin  > 1.5 times the upper limit of normal.
+ - History of brain disease including Parkinson's Disease, severe brain trauma, seizures, history of stroke,clinically significant lacunar infarct in a region important for cognition or multiple lacunes or a cortical infarct or focal lesions of clinical significance, multiple sclerosis, mental retardation, normal pressure hydrocephalus, CNS tumor, Huntington's disease, subdural hematoma or other serious neurological disorder.
+ - Uncontrolled diabetes mellitus ( Hba1c higher than 7 ) or chronically uncontrolled hypertension.
+ - Subject must not be taking Namenda ( memantine ) for at least 2 months.
+ - Currently taking any concomitant hepatotoxic drugs such as allopurinol, methyldopa and sulfasalazine.
+ - Any unstable serious co-existing medical condition( s ) including but not limited to myocardial infarction, coronary artery disease requiring coronary bypass surgery, unstable angina, clinically evident congestive heart failure within 6 months prior to the screening visit.
+ - Current smoker or user of nicotine-containing products, such as chewing tobacco, nicotine patch or gum for the past 2 months.
+ - Current major depression defined by Hamilton Psychiatric Rating Scale  > 18.
+ - Participation in any investigational or marketed drug or device trial within 30 days prior to the screening visit.
+ - Significant neuropsychiatric illnesses such as bipolar disorder, schizophrenia, moderate-severe anxiety, vascular dementia, Creutzfeldt-Jakob dementia, HIV dementia and dementia in other specified diseases.
+ - Subjects who have been on donepezil for longer than 5 years.
+ - Weight > 300 pounds.
+ - Lactose intolerance.
+ - Any medical or social condition that, in the opinion of the Investigator, might pose additional risk to the participant or confound the results of the study.
+
+>>NCT00039702
+INCLUSION CRITERIA - ALZHEIMER'S DISEASE PATIENTS:.
+ All AD patients will meet NINCDS-ADRDA criteria for probable AD with age of onset between 50 and 65 years of age.
+ The AD patients will be mild to moderately demented as assessed by the Mattis Dementia Rating Scale and Mini-Mental State Examination.
+ In particular, the AD patients will be nonsmokers because of known effects of smoking on nAChRs.
+ Patients will be characterized by their APOE genotype as nAChR changes might be different with differing doses of this allele.
+ We will not exclude AD patients from participating while they are on AChe inhibitors.
+ EXCLUSION CRITERIA - ALZHEIMER'S DISEASE PATIENTS:.
+ We will exclude patients who are on galanthamine ( Reminyl ).
+ We will exclude patients on antidepressants and/or psychotropic drugs.
+ INCLUSION CRITERIA - CONTROLS:.
+ Nonsmoking healthy individuals who satisfy the inclusion and exclusion criteria.
+
+>>NCT01555827
+Inclusion Criteria:.
+ - Inclusion criteria for AD cases:.
+ - Diagnosis of probable AD, defined according to the NINCDS-ARDRA criteria51.
+ - Light to moderate severity of the disease, defined by a MMSE score  > 10 ( global evaluation of cognition ).
+ - Patient aged 50 years or more.
+ - Patient benefiting from social insurance.
+ Inclusion criteria for controls:.
+ - Absence of suspicion of dementia, based on normal performance according to age and educational level at neuropsychological testing defined as:.
+ - Free recall  >= 17 and total recall  >= 40 for the Free and Cued Selective Reminding Test ( Grober and Buschke test 52 ) MMSE >= norm for age and educational level ( defined by mean - 1 SD ).
+ - Isaac's set test >= norm for age and educational level ( defined by mean - 1 SD ).
+ - Matched to age and gender of the cases.
+ - Patient benefiting from social insurance.
+ Exclusion Criteria:.
+ Exclusion criteria for all patients :.
+ - History of Parkinson's disease or other neurodegenerative disorder.
+ - History of Horton's disease.
+ - History of inflammatory neuropathies ( in particular Devic's disease, multiple sclerosis ).
+ - History of vascular ischemic neuropathies and chronic intracranial hypertension.
+ - History of pituitary tumors.
+ - Presence of diseases ( systemic and/or ocular diseases ) or behavioural or cognitive symptoms incompatible with eye examination.
+ - Known diabetes.
+ - Person under tutorship or curatorship, person unable to express consent.
+ Additional exclusion criteria for AD cases:.
+ - Dementia of other cause than AD.
+ - Severe AD, defined by MMSE score <= 10.
+ Additional exclusion criteria for controls:.
+ - Presence of dementia, of whatever cause.
+
+>>NCT01504854
+Inclusion Criteria:.
+ - Diagnosis of probable AD ( NINDS-ADRDA criteria ).
+ - Age must be 50 years or older.
+ - Able to ingest oral medications.
+ - Caregiver/Study Partner who has direct contact with the participant more than 2 days per week to accompany participant to all visits.
+ - MMSE score between 14 and 26 ( inclusive ).
+ - Modified Hachinski score of less than or equal to 4.
+ - Able to abstain from ingesting large quantities of resveratrol-containing foods ( including red wine ). 1 - 2 glasses of red wine or red grape juice daily acceptable; 1 serving of red grapes daily acceptable.
+ - Able to abstain from ingesting herbal/natural preparations or dietary supplements containing resveratrol.
+ Exclusion Criteria:.
+ - Non-AD dementia.
+ - Probable AD with Down syndrome.
+ - History of clinically significant stroke.
+ - Current evidence or history in past two years of epilepsy, focal brain lesion, head injury with loss of consciousness or DSM-IV criteria for any major psychiatric disorder including psychosis, major depression, bipolar disorder, alcohol or substance abuse.
+ - Sensory impairment that would preclude the participant from participating in or cooperating with the protocol.
+ - Use of investigational agent within two months of Screening.
+ - Evidence of any significant clinical disorder or laboratory finding that renders the participant unsuitable for receiving an investigational drug including clinically significant or unstable hematologic, hepatic, cardiovascular, pulmonary, gastrointestinal, endocrine, metabolic, renal or other systemic disease or laboratory abnormality.
+ - Active neoplastic disease, history of cancer five years prior to screening, including breast cancer ( history or skin melanoma or stable prostate cancer are not excluded ).
+ - History of seizure within past five years.
+ - Pregnancy or possible pregnancy.
+ - Use of resveratrol containing supplements.
+
+>>NCT01172145
+Inclusion Criteria:.
+ - diagnosis of mild to moderate stage Probable Alzheimer's disease.
+ - on a stable dose of a cholinesterase inhibitor medication for at least 30 days.
+ - clinically elevated levels of apathy as measured by the Frontal Systems Behavior Scale.
+ Exclusion Criteria:.
+ - diagnosis of Major Depression.
+ - focal brain lesion on neuroimaging.
+ - history of significant substance abuse.
+ - history of significant head trauma with loss of consciousness  > 10 minutes.
+
+>>NCT02360657
+Inclusion Criteria:.
+ - Participant must have had sufficient education or work experience to exclude mental retardation based on Diagnostic and Statistical Manual of Mental Disorders 4th edition, Text Revision ( DSM-IV-TR ) and must be able to read and write and must have adequate hearing and visual acuity to complete the required psychometric tests.
+ - Participant must have a Clinical Dementia Rating Scale- Japanese version ( CDR-J ) score of '0' and as such rated as normal.
+ - Participant must have evidence of amyloid deposition as demonstrated by low Cerebrospinal Fluid ( CSF ) Amyloid ( A )-beta 1 - 42 levels at Screening.
+ - Participant must have a body mass index between 18 and 35 kilogram per square meter, inclusive, at Screening.
+ - Participant must be otherwise healthy for their age group or medically stable with or without medication on the basis of physical examination, medical history, vital signs and 12 -lead electrocardiogram ( ECG ) performed at Screening or at Baseline.
+ Exclusion Criteria:.
+ - Participant has evidence of any brain disease other than potential very early signs of Alzheimer's disease ( AD ) or typical age related changes or any other abnormality that could explain a possible cognitive deficit.
+ - Participant has been diagnosed with dementia due to AD, due to other diseases or with AD and contribution of other disorders ( mixed dementia ).
+ - Participant has evidence of familial autosomal dominant AD.
+ - Participant has any contra-indications for Magnetic Resonance Imaging ( MRI ) ( for example, prostheses, implants, claustrophobia, pacemakers and others ).
+ - Participant has a clinically significant abnormal physical- or neurological examination, vital signs or 12 -lead ECG ( including QTc greater than 450 millisecond for males and females, left bundle branch block, atrio-ventricular [AV] block second degree or higher, permanent pacemaker or implantable cardioverter defibrillator [ICD]) at Screening or Baseline, which in the opinion of the investigator is not appropriate and reasonable for the population under study.

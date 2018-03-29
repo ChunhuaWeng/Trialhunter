@@ -1,0 +1,121 @@
+>>NCT00105547
+Inclusion Criteria :.
+ - Have had a diagnosis of probable Alzheimer's disease.
+ - Men or women ages 55 years or greater and living in the community at the time of enrollment ( i.e., not living in a rest home or nursing care facility ).
+ - Signed the subject Informed Consent Form and is willing and able to participate for the duration of the study.
+ - Ability to read and understand English or Spanish to ensure compliance with cognitive testing and study visit procedures.
+ - Female subjects must be surgically sterile or postmenopausal for > 1 year.
+ - Subjects currently taking approved medication for Alzheimer's disease for at least six months prior to day 1 may be enrolled.
+ - Subjects must have a reliable caregiver who can read, understand and speak English or Spanish.
+ Exclusion Criteria :.
+ - Current evidence of other causes of dementia.
+ - History or evidence of, active malignancy, except for basal cell carcinoma or squamous cell carcinoma of the skin, within the 24 months prior to entry. Men with prostate cancer may be enrolled at the discretion of the sponsor.
+ - Chronic or acute renal, hepatic or metabolic disorder.
+ - Use of any investigational therapy within 30 days or 5 half-lives, whichever is longer, and/or use of AD immunotherapy prior to screening.
+ - Major surgery and related complications not resolved within 12 weeks prior to Day 1.
+
+>>NCT00401167
+Inclusion Criteria :.
+ - Signed informed consent obtained from a legally acceptable representative.
+ - Male or female > 65 years of age, residing in long-term care.
+ - Diagnosis and Statistical Manual of Mental Disorders ( DSM-IV-TR ) diagnosis of Dementia of the Alzheimer's type ( code 290.1 ).
+ - Mini Mental State Examination total score <= 15.
+ - Neuropsychiatric Inventory-Nursing Home Version total score > 10 and a score > 1 on the agitation/aggression subscale.
+ - A current order for any prescription medication for behavioral and psychological symptoms of dementia ( e.g. benzodiazepine, antipsychotic, trazodone ), with at least 1 dose used in the prior 3 months.
+ - Patients with a current order for any regularly administered psychotropic ( example, selective serotonin reuptake inhibitors, serotonin-norepinephrine reuptake inhibitors, trazodone, atypical antipsychotics, typical antipsychotics or cholinesterase inhibitors ) must have been on a stable dose for 3 months prior to entry.
+ Exclusion Criteria :.
+ - Current evidence of any uncontrolled medical illness that would interfere with the subject's participation in the study.
+ - Dementia due to any etiology other than Alzheimer's Disease.
+ - Subjects experiencing significant difficulties ingesting oral medications.
+
+>>NCT01689246
+Inclusion Criteria :.
+ - Diagnosis of all cause dementia and probable Alzheimer's disease.
+ - Clinical Dementia Rating ( CDR ) total score of 1 ( mild ) to 2 ( moderate ) and MMSE score of 14 - 26 ( inclusive ).
+ - Age < 90 years.
+ - Modified Hachinski ischemic score of <= 4.
+ - Females, if of child-bearing potential, must practice true abstinence or be competent to use adequate contraception and agree to maintain this throughout the study.
+ - Subject, and/or, in the case of reduced decision-making capacity, legally acceptable representative ( s ) consistent with national law is/are able to read, understand and provide written informed consent.
+ - Has one ( or more ) identified adult caregiver who is willing to provide written informed consent for his/her own participation; is able to read, understand and speak the designated language at the study site; either lives with the subject or sees the subject for  >= 2 hours/day  >= 3 days/week; agrees to accompany the subject to each study visit; and is able to verify daily compliance with study drug.
+ - If currently taking an acetylcholinesterase inhibitor and/or memantine at the time of Screening, the subject must have been taking such medication ( s ) for  >= 3 months. The dosage regimen must have remained stable for  >= 6 weeks and it must be planned to remain stable throughout participation in the study.
+ - Able to comply with the study procedures.
+ Exclusion Criteria :.
+ - Significant central nervous system ( CNS ) disorder other than Alzheimer's disease.
+ - Significant focal or vascular intracranial pathology seen on brain MRI scan.
+ - Clinical evidence or history of stroke, transient ischemic attack, significant head injury or other unexplained or recurrent loss of consciousness  >= 15 minutes.
+ - Epilepsy.
+ - Major depressive disorder, schizophrenia or other psychotic disorders, bipolar disorder or substance ( including alcohol ) related disorders.
+ - Metal implants in the head ( except dental ), pacemaker, cochlear implants or any other non-removable items that are contraindications to MRI.
+ - Resides in hospital or moderate to high dependency continuous care facility.
+ - History of swallowing difficulties.
+ - Pregnant or breastfeeding.
+ - Glucose-6-phosphate dehydrogenase deficiency.
+ - History of significant hematological abnormality or current acute or chronic clinically significant abnormality.
+ - Abnormal serum chemistry laboratory value at Screening deemed to be clinically relevant by the investigator.
+ - Clinically significant cardiovascular disease or abnormal assessments.
+ - Preexisting or current signs or symptoms of respiratory failure.
+ - Concurrent acute or chronic clinically significant immunologic, hepatic or endocrine disease ( not adequately treated ) and/or other unstable or major disease other than Alzheimer's disease.
+ - Diagnosis of cancer within the past 2 years prior to Baseline ( other than basal cell or squamous cell skin cancer or Stage 1 prostate cancer ) unless treatment has resulted in complete freedom from disease for at least 2 years.
+ - Prior intolerance or hypersensitivity to methylthioninium-containing drug, similar organic dyes or any of the excipients.
+ - Treatment currently or within 3 months before Baseline with any of the following medications :.
+ - Tacrine.
+ - Clozapine, olanzapine ( and there is no intent to initiate therapy during the course of the study ).
+ - Carbamazepine, primidone.
+ - Drugs associated with methemoglobinemia.
+ - Current or prior participation in a clinical trial as follows :.
+ - Clinical trial of a product for cognition within 3 months ( unless confirmed to have been randomized to placebo ).
+ - A clinical trial of a drug, biologic, therapeutic device or medical food in which the last dose/administration was received within 28 days prior to Baseline.
+
+>>NCT00501111
+Inclusion Criteria :.
+ - Provision of informed consent from patient and caregiver.
+ - Clinical prognosis of probable Alzheimer's disease.
+ - Patient must have a caregiver visiting the patient at least three times weekly.
+ Exclusion Criteria :.
+ - Significant neurologic disease or dementia other than Alzheimer's disease.
+ - Major depressive disorder, other major psychiatric disorder.
+ - Use of acetylcholinesterase inhibitor or memantine for treatment of Alzheimer's disease within 8 weeks prior to enrollment.
+ - Impaired vision and/or hearing making cognitive testing difficult.
+
+>>NCT00448318
+Inclusion Criteria :.
+ - Clinical diagnosis of dementia.
+ Exclusion Criteria :.
+ - delirium.
+ - acute medical conditions ( eg pneumonia, cardiac failure ).
+ - primary psychiatric conditions ( eg schizophrenia ).
+ - severe hearing impairment.
+
+>>NCT00355498
+Inclusion Criteria :.
+ - Agreement to participate in a clinical and brain imaging study.
+ - Age 30 years or older.
+ - No significant cerebrovascular disease - modified Ischemic Score of <= 4.
+ - For volunteers with MCI or dementia, there must be a family member or potential caregiver available.
+ - Adequate visual and auditory acuity to allow neuropsychological testing.
+ - Screening laboratory tests and ECG without significant abnormalities that might interfere with the study.
+ Exclusion Criteria :.
+ - Evidence of neurologic or other physical illness that could produce cognitive deterioration; in addition to a physical and neurological examination, volunteers will be screened for Parkinson's disease.
+ - History of myocardial infarction within the previous year or unstable cardiac disease.
+ - Uncontrolled hypertension ( systolic BP > 170 or diastolic BP > 100 ), history of significant liver disease, clinically significant pulmonary disease, diabetes or cancer.
+ - Major psychiatric disorders, such as bipolar disorder or schizophrenia.
+ - Because medications can affect cognitive functioning, volunteers needing medicines that could influence psychometric test results will be excluded; use of any of the following drugs will also exclude volunteers : centrally active beta-blockers, narcotics, clonidine, anti-Parkinsonian medications, benzodiazepines, systemic corticosteroids and medications with significant cholinergic or anticholinergic effects, anti-convulsants or warfarin.
+ - Current diagnosis or history of alcoholism or drug dependence.
+ - Evidence of untreated depression as determined by a HAM-D ( Hamilton, 1960 ) score of >= 12 ( 17 -item version ) or untreated anxiety by a score of >= 8 on the Hamilton Anxiety Scale ( HAM-A; Hamilton, 1959 ).
+ - Use of any investigational drugs within the previous month or longer, depending on drug half-life.
+ - Contraindication for MRI scan ( e.g., metal in body, claustrophobia ).
+
+>>NCT00551772
+Inclusion criteria :.
+ - Men or surgically sterile or post-menopausal women.
+ - Healthy as judged by a responsible physician. No clinically significant abnormality identified on the medical or lab evaluation.
+ - BMI between 18.5 and 32.0 kg/m2.
+ Exclusion criteria :.
+ - A positive pre-study urine screen for drugs of abuse.
+ - Abuse of alcohol.
+ - Subjects who smoke more than 10 cigarettes or equivalent a day.
+ - Use of prescription drugs as well as herbal and dietary supplements within 7 days prior to the first dose of study medication, unless in the opinion of the Investigator and sponsor the medication will not interfere with the study procedures or compromise subject safety.
+ - Where participation in the study would result in donation of blood in excess of 500ml within a 56 day period.
+ - Has a history or presence of gastro-intestinal, hepatic or renal disease or other condition known to interfere with the absorption, distribution, metabolism or excretion of drugs.
+ - The subject has received an investigational drug or participated in another research trial within 30 days or 5 half-lives or twice the duration of the biological effect of any drug ( whichever is longer ) prior to the first dose of current study medication.
+ - Known or suspected history of seizures, including febrile seizures, unexplained recent loss of consciousness or history of significant head trauma with loss of consciousness.

@@ -1,0 +1,392 @@
+T1	Observation 111 114	age
+T2	Measurement 86 107	>= 21 and <= 45 years
+T3	Observation 118 156	Mini-mental state examination ( MMSE )
+T5	Measurement 157 162	>= 29
+T6	Observation 233 236	age
+T7	Measurement 218 229	>= 50 years
+T8	Condition 187 189	AD
+T9	Condition 267 275	dementia
+T10	Qualifier 283 291	probable
+T11	Condition 292 294	AD
+T12	Measurement 303 318	>= 16 and <= 26
+T13	Observation 298 302	MMSE
+T14	Qualifier 322 330	Possible
+T15	Condition 331 333	AD
+T16	Observation 377 380	age
+T17	Measurement 362 373	>= 50 years
+T18	Condition 411 419	dementia
+T19	Qualifier 427 435	possible
+T20	Condition 436 438	AD
+T21	Observation 442 446	MMSE
+T22	Measurement 447 462	>= 16 and <= 26
+T23	Condition 466 469	MCI
+T24	Observation 513 516	age
+T25	Measurement 498 509	>= 60 years
+T26	Condition 522 542	cognitive impairment
+T27	Condition 549 557	dementia
+T28	Negation_cue 545 548	not
+T29	Observation 563 567	MMSE
+T30	Measurement 569 583	> 24 and  < 29
+T31	Observation 699 702	age
+T32	Measurement 684 695	>= 75 years
+T33	Condition 614 632	Cognitively normal
+T34	Observation 38 49	Cognitively
+T35	Observation 706 710	MMSE
+T36	Measurement 711 716	>= 27
+T37	Condition 784 811	neurodegenerative disorders
+T38	Condition 823 825	AD
+T39	Temporal_measurement 836 843	current
+T40	Qualifier 844 863	serious or unstable
+T41	Condition 864 871	illness
+T43	Condition 945 957	brain lesion
+T42	Condition 959 968	pathology
+T44	Condition 972 994	traumatic brain injury
+T45	Drug 1044 1071	investigational medications
+T46	Temporal_measurement 1072 1091	in the past 30 days
+T47	Procedure_Device 1106 1146	radiopharmaceutical imaging or treatment
+T48	Temporal_measurement 1157 1170	within 7 days
+T52	Observation 1389 1392	Age
+T53	Measurement 1393 1406	50 - 80 years
+T54	Condition 1466 1485	Alzheimer's disease
+T55	Observation 1440 1462	NINDNDS-ARDRA criteria
+T56	Observation 1554 1592	mini-mental state examination ( MMSE )
+T58	Measurement 1520 1545	between 15 - 24 inclusive
+T59	Condition 1983 1996	Schizophrenia
+T60	Condition 1998 2023	Schizo-affective disorder
+T61	Condition 2027 2044	paranoid disorder
+T62	Observation 2058 2064	DSM IV
+T63	Condition 2087 2104	cognitive decline
+T64	Negation_cue 2065 2072	without
+T65	Qualifier 2077 2086	suspicion
+T66	Condition 2185 2193	seizures
+T68	Condition 2198 2209	Brain tumor
+T69	Condition 2220 2230	meningeoma
+T70	Qualifier 2235 2257	Clinically significant
+T71	Condition 2258 2320	hepatic, renal, pulmonary, metabolic or endocrine disturbances
+T72	Qualifier 2325 2347	Clinically significant
+T73	Condition 2348 2357	back pain
+T74	Condition 2362 2380	Bleeding disorders
+T75	Condition 2554 2586	dementia of the Alzheimer's type
+T76	Condition 2588 2602	mixed dementia
+T77	Condition 2606 2623	vascular dementia
+T78	Observation 2646 2722	Diagnostic and Statistical Manual of Mental Diseases, 4th edition ( DSM-IV )
+T79	Observation 2754 2792	Functional Assessment Staging ( FAST )
+T81	Measurement 2737 2746	4 or more
+T83	Measurement 2864 2875	23 or lower
+T84	Observation 2883 2921	Mini-Mental State Examination ( MMSE )
+T82	Observation 2974 2995	BEHAVE-AD total score
+T86	Measurement 3002 3009	least 8
+T87	Observation 3016 3039	BEHAVE-AD global rating
+T88	Measurement 3043 3053	at least 1
+T89	Qualifier 3200 3209	untreated
+T90	Condition 3211 3240	reversible causes of dementia
+T92	Condition 3257 3291	medical or neurological conditions
+T93	Qualifier 3340 3349	untreated
+T94	Condition 3350 3368	vitamin deficiency
+T95	Qualifier 3370 3376	severe
+T96	Condition 3377 3405	liver or kidney malfunctions
+T97	Condition 3407 3418	brain tumor
+T98	Condition 3434 3442	dementia
+T99	Condition 3454 3500	HIV infection ( human immunodeficiency virus )
+T101	Condition 3511 3548	substance-induced persisting dementia
+T102	Condition 3557 3578	psychiatric disorders
+T103	Condition 3606 3627	behavior disturbances
+T104	Condition 3637 3650	schizophrenia
+T105	Observation 3701 3704	age
+T106	Measurement 3708 3710	21
+T107	Measurement 3692 3696	over
+T108	Condition 3868 3879	atypical AD
+T109	Observation 3911 3926	chief complaint
+T110	Condition 4001 4028	primary progressive aphasia
+T111	Condition 4045 4077	visuospatial/perceptual deficits
+T112	Condition 4103 4129	posterior cortical atrophy
+T113	Procedure_Device 4283 4286	MRI
+T114	Procedure_Device 4291 4303	PET scanning
+T115	Observation 4353 4367	pregnancy test
+T116	Temporal_measurement 4368 4389	no more than 48 hours
+T117	Procedure_Device 4401 4410	PET scans
+T118	Temporal_measurement 4452 4462	concurrent
+T119	Condition 4463 4472	illnesses
+T120	Condition 4529 4551	traumatic brain injury
+T121	Condition 4553 4560	strokes
+T122	Condition 4564 4587	developmental syndromes
+T123	Condition 4511 4519	syndrome
+T124	Condition 4630 4655	neurodegenerative disease
+T125	Condition 4678 4698	Alzheimer's dementia
+T126	Condition 4718 4726	pregnant
+T127	Condition 4730 4741	post-partum
+T128	Condition 4746 4760	breast-feeding
+T129	Procedure_Device 4799 4802	MRI
+T130	Condition 4806 4821	contraindicated
+T131	Procedure_Device 4824 4829	metal
+T132	Anatomic_location 4833 4837	head
+T133	Procedure_Device 4839 4857	cardiac pace maker
+T134	Qualifier 4880 4886	severe
+T135	Condition 4887 4901	claustrophobia
+T136	Condition 4919 4929	conditions
+T137	Condition 4977 5001	structural abnormalities
+T138	Condition 5013 5030	subdural hematoma
+T139	Condition 5034 5055	intracranial neoplasm
+T140	Observation 5312 5315	age
+T141	Measurement 5316 5327	60 and over
+T142	Condition 5336 5361	Alzheimer's-like dementia
+T143	Observation 5502 5540	Mini Mental State Examination ( MMSE )
+T145	Measurement 5541 5551	24 or less
+T146	Observation 7223 7226	age
+T147	Measurement 7198 7219	Between 60 - 80 years
+T148	Qualifier 7332 7338	Normal
+T149	Qualifier 7261 7265	good
+T150	Condition 7266 7280	general health
+T151	Procedure_Device 7339 7365	Electrocardiograph ( ECG )
+T153	Condition 7368 7371	MCI
+T154	Condition 7175 7182	Healthy
+T155	Condition 7402 7405	MCI
+T156	Observation 7575 7578	age
+T157	Measurement 7550 7571	Between 60 - 80 years
+T158	Observation 7629 7663	Global Deterioration Scale ( GDS )
+T160	Measurement 7606 7621	between 2 and 3
+T161	Qualifier 7668 7674	Normal
+T162	Procedure_Device 7675 7678	ECG
+T163	Condition 7681 7692	Alzheimer's
+T164	Condition 7723 7725	AD
+T165	Observation 7739 7747	ICD - 10
+T166	Observation 7492 7545	International Classification of Diseases ( ICD ) - 10
+T167	Measurement 7825 7846	Between 60 - 80 years
+T168	Observation 7850 7853	age
+T169	Observation 7902 7905	GDS
+T170	Measurement 7881 7894	between 3 - 5
+T171	Qualifier 7910 7916	Normal
+T172	Procedure_Device 7917 7920	ECG
+T173	Drug 7938 7945	Reminyl
+T174	Condition 7954 7971	Alzheimer disease
+T175	Observation 7999 8006	Smoking
+T176	Drug 8027 8034	tobacco
+T177	Drug 8046 8058	neuroleptics
+T178	Drug 8062 8077	benzodiazepines
+T179	Drug 8096 8104	oxazepam
+T180	Drug 8108 8112	vesp
+T181	Condition 8119 8195	Neurological-, cardiovascular-, gastrointestinal- or genitourinary disorders
+T182	Condition 8222 8230	Glaucoma
+T185	Observation 8261 8281	intraocular pressure
+T186	Condition 8286 8319	Impaired liver or kidney function
+T187	Condition 8324 8340	Hypersensitivity
+T188	Drug 8344 8355	Scopolamine
+T190	Condition 8414 8445	drug, alcohol or medicine abuse
+T189	Qualifier 8555 8571	Mild to moderate
+T191	Condition 8572 8592	Alzheimer's dementia
+T192	Observation 8612 8633	NINCDS/ADRDA criteria
+T193	Observation 8775 8800	Marin/Starkstein criteria
+T194	Condition 8672 8678	apathy
+T195	Qualifier 8652 8671	clinically relevant
+T196	Observation 8694 8740	Neuropsychiatric Inventory ( NPI ) apathy item
+T197	Measurement 8752 8764	>/= 4 points
+T198	Observation 8816 8820	MMSE
+T199	Measurement 8823 8830	10 - 25
+T200	Qualifier 8915 8921	Stable
+T201	Drug 8937 8955	antidementia drugs
+T202	Temporal_measurement 8960 8981	at least three months
+T203	Drug 9018 9036	antidementia drugs
+T204	Negation_cue 9000 9002	no
+T205	Condition 9070 9078	Dementia
+T206	Condition 9086 9103	vascular dementia
+T207	Condition 9105 9123	Lewy-body dementia
+T208	Condition 9125 9149	fronto-temporal dementia
+T209	Qualifier 9064 9069	Other
+T210	Qualifier 9170 9189	clinically relevant
+T211	Condition 9190 9200	depression
+T212	Observation 9223 9242	NPI depression item
+T213	Measurement 9251 9263	>/= 4 points
+T214	Observation 9269 9284	DSM-IV criteria
+T215	Condition 9289 9313	major depressive episode
+T217	Condition 9342 9352	Alcoholism
+T218	Condition 9357 9381	Benzodiazepine addiction
+T219	Temporal_measurement 9386 9393	Current
+T220	Drug 9409 9423	antipsychotics
+T221	Drug 9428 9443	antidepressants
+T222	Temporal_measurement 9478 9485	Current
+T223	Drug 9501 9520	dopaminergic agents
+T224	Drug 9524 9533	Amantadin
+T225	Temporal_measurement 9538 9545	Current
+T226	Drug 9561 9576	benzodiazepines
+T227	Temporal_measurement 9581 9588	Current
+T228	Drug 9604 9617	MAO inhibitor
+T229	Drug 9620 9629	Bupropion
+T230	Condition 9630 9646	contraindication
+T231	Condition 9659 9670	sensibility
+T232	Drug 9674 9693	Bupropion treatment
+T233	Qualifier 9698 9704	Severe
+T234	Condition 9705 9724	psychiatric disease
+T235	Temporal_measurement 9755 9775	in the last 6 months
+T236	Condition 9777 9792	suicide attempt
+T237	Qualifier 9794 9799	acute
+T238	Condition 9800 9818	psychotic symptoms
+T239	Qualifier 9823 9829	Severe
+T240	Condition 9830 9846	physical illness
+T242	Condition 9940 9948	seizures
+T244	Condition 9974 9980	tumors
+T245	Anatomic_location 9988 10010	central nervous system
+T246	Qualifier 10015 10021	Severe
+T247	Condition 10022 10043	craniocerebral injury
+T249	Condition 10069 10094	cerebral substance defect
+T251	Condition 10119 10132	renal disease
+T252	Condition 10134 10153	liver insufficiency
+T253	Drug 10225 10239	antipsychotics
+T254	Drug 10241 10256	antidepressants
+T255	Drug 10258 10277	antimalarial agents
+T256	Drug 10279 10287	Tramadol
+T257	Drug 10289 10300	Theophyllin
+T258	Drug 10302 10319	systemic steroids
+T259	Qualifier 10323 10329	higher
+T260	Procedure_Device 10330 10334	dose
+T261	Drug 10336 10345	Chinolone
+T262	Drug 10347 10370	sedative antihistamines
+T263	Drug 10171 10180	treatment
+T264	Drug 10390 10399	treatment
+T266	Drug 10471 10484	beta blockers
+T267	Drug 10487 10497	Metoprolol
+T268	Drug 10499 10508	Proanolol
+T269	Drug 10510 10517	Timolol
+T270	Drug 10519 10528	Carvediol
+T271	Drug 10530 10539	Nebivolol
+T272	Drug 10541 10563	Typ-1C-Antiarrhyhtmics
+T273	Drug 10605 10614	Donepezil
+T274	Drug 10619 10629	Galantamin
+T275	Negation_cue 10598 10604	except
+T276	Drug 10573 10583	Propafenon
+T277	Drug 10585 10593	Flecinid
+T278	Drug 10649 10658	treatment
+T279	Drug 10718 10727	Bupropion
+T280	Drug 10735 10747	Carbamazepin
+T281	Drug 10749 10758	Phenytoin
+T282	Drug 10760 10768	Valproat
+T283	Drug 10770 10779	Ritonavir
+T284	Drug 10781 10790	Lopinavir
+T285	Condition 10797 10814	Diabetes mellitus
+T286	Drug 10918 10938	appetite depressants
+T289	Condition 11040 11059	lactose intolerance
+T291	Observation 11113 11116	age
+T292	Measurement 11101 11109	18 years
+T293	Measurement 11121 11126	older
+T294	Condition 11576 11591	memory disorder
+T295	Condition 11600 11632	Age Associated memory Impairment
+T296	Condition 11634 11653	Alzheimer's disease
+T297	Condition 11655 11672	Parkinson disease
+T298	Condition 11674 11692	Huntington disease
+T299	Condition 11694 11711	vascular dementia
+T300	Condition 11713 11727	mixed dementia
+T301	Condition 11729 11754	dementia with Lewy Bodies
+T302	Condition 11758 11781	frontotemporal dementia
+T303	Observation 11842 11845	age
+T304	Measurement 11820 11838	less than 18 years
+T305	Temporal_measurement 754 763	currently
+T51	Condition 3301 3310	cognition
+T91	Qualifier 3314 3324	diminished
+T306	Procedure_Device 4948 4969	brain imaging studies
+T307	Condition 6761 6765	deaf
+T308	Condition 6769 6774	blind
+T309	Anatomic_location 6749 6760	bilaterally
+T310	Drug 6796 6822	anti-psychotic medications
+T311	Temporal_measurement 6779 6788	currently
+T312	Qualifier 8254 8260	raised
+T216	Drug 9456 9471	St. John's wart
+T313	Temporal_measurement 10158 10170	Simultaneous
+T314	Temporal_measurement 10377 10389	Simultaneous
+T315	Temporal_measurement 10636 10648	Simultaneous
+T316	Drug 10903 10913	stimulants
+T317	Condition 11012 11029	Suicidal tendency
+T287	Observation 11285 11313	Mini Mental State Exam score
+T288	Measurement 11318 11322	< 24
+T290	Qualifier 50 56	Normal
+R1	modified_by Arg1:T34 Arg2:T290	
+R2	has_value Arg1:T1 Arg2:T2	
+R3	has_value Arg1:T3 Arg2:T5	
+R4	has_value Arg1:T6 Arg2:T7	
+R5	modified_by Arg1:T11 Arg2:T10	
+R6	has_value Arg1:T13 Arg2:T12	
+R7	modified_by Arg1:T15 Arg2:T14	
+R8	has_value Arg1:T16 Arg2:T17	
+R9	modified_by Arg1:T20 Arg2:T19	
+R10	has_value Arg1:T21 Arg2:T22	
+R11	has_value Arg1:T24 Arg2:T25	
+R12	has_value Arg1:T29 Arg2:T30	
+R13	has_value Arg1:T31 Arg2:T32	
+R14	has_value Arg1:T35 Arg2:T36	
+R15	has_TempMea Arg1:T37 Arg2:T305	
+R16	modified_by Arg1:T41 Arg2:T40	
+R17	has_TempMea Arg1:T41 Arg2:T39	
+R18	has_TempMea Arg1:T45 Arg2:T46	
+R19	has_TempMea Arg1:T47 Arg2:T48	
+R20	has_value Arg1:T52 Arg2:T53	
+R21	has_value Arg1:T56 Arg2:T58	
+R22	modified_by Arg1:T63 Arg2:T65	
+R23	modified_by Arg1:T71 Arg2:T70	
+R24	modified_by Arg1:T73 Arg2:T72	
+R25	has_value Arg1:T79 Arg2:T81	
+T4	Condition 2841 2849	dementia
+T49	Condition 2959 2968	cognition
+R26	has_value Arg1:T84 Arg2:T83	
+R27	has_value Arg1:T82 Arg2:T86	
+R28	has_value Arg1:T87 Arg2:T88	
+R29	modified_by Arg1:T90 Arg2:T89	
+R30	modified_by Arg1:T51 Arg2:T91	
+R31	modified_by Arg1:T94 Arg2:T93	
+R32	modified_by Arg1:T96 Arg2:T95	
+R33	has_value Arg1:T105 Arg2:T107	
+R34	has_value Arg1:T105 Arg2:T106	
+R35	has_TempMea Arg1:T115 Arg2:T116	
+R36	has_TempMea Arg1:T119 Arg2:T118	
+T50	Qualifier 4670 4677	typical
+R37	modified_by Arg1:T125 Arg2:T50	
+T57	Qualifier 4622 4629	another
+R38	modified_by Arg1:T124 Arg2:T57	
+R39	modified_by Arg1:T135 Arg2:T134	
+R40	has_value Arg1:T140 Arg2:T141	
+R41	has_value Arg1:T143 Arg2:T145	
+T67	Observation 5407 5456	International Codes for Diagnosis ( ICD-9 ) codes
+R42	has_TempMea Arg1:T310 Arg2:T311	
+R43	has_value Arg1:T146 Arg2:T147	
+R44	modified_by Arg1:T150 Arg2:T149	
+R45	modified_by Arg1:T151 Arg2:T148	
+R46	has_value Arg1:T156 Arg2:T157	
+R47	has_value Arg1:T158 Arg2:T160	
+R48	modified_by Arg1:T162 Arg2:T161	
+R49	has_value Arg1:T168 Arg2:T167	
+R50	has_value Arg1:T169 Arg2:T170	
+R51	modified_by Arg1:T172 Arg2:T171	
+R52	modified_by Arg1:T185 Arg2:T312	
+R53	modified_by Arg1:T191 Arg2:T189	
+R54	modified_by Arg1:T194 Arg2:T195	
+R55	has_value Arg1:T196 Arg2:T197	
+R56	has_value Arg1:T198 Arg2:T199	
+R57	modified_by Arg1:T201 Arg2:T200	
+R58	has_TempMea Arg1:T200 Arg2:T202	
+R59	modified_by Arg1:T205 Arg2:T209	
+R60	modified_by Arg1:T211 Arg2:T210	
+R61	has_value Arg1:T212 Arg2:T213	
+R62	has_TempMea Arg1:T220 Arg2:T219	
+R63	has_TempMea Arg1:T221 Arg2:T219	
+R64	has_TempMea Arg1:T223 Arg2:T222	
+R65	has_TempMea Arg1:T224 Arg2:T222	
+R66	has_TempMea Arg1:T226 Arg2:T225	
+R67	has_TempMea Arg1:T228 Arg2:T227	
+R68	modified_by Arg1:T234 Arg2:T233	
+R69	has_TempMea Arg1:T234 Arg2:T235	
+R70	modified_by Arg1:T238 Arg2:T237	
+R71	modified_by Arg1:T240 Arg2:T239	
+R72	modified_by Arg1:T247 Arg2:T246	
+R73	has_TempMea Arg1:T263 Arg2:T313	
+R74	modified_by Arg1:T260 Arg2:T259	
+R75	has_TempMea Arg1:T264 Arg2:T314	
+R76	has_TempMea Arg1:T278 Arg2:T315	
+T80	Drug 10430 10457	Cytochrom P450-Isoenzym 2D6
+R77	has_value Arg1:T291 Arg2:T292	
+R78	has_value Arg1:T291 Arg2:T293	
+R79	has_value Arg1:T287 Arg2:T288	
+R80	has_value Arg1:T303 Arg2:T304	
+R81	is_negated Arg1:T27 Arg2:T28	
+T85	Negation_cue 812 822	other than
+R82	is_negated Arg1:T38 Arg2:T85	
+R83	is_negated Arg1:T63 Arg2:T64	
+R84	is_negated Arg1:T203 Arg2:T204	
+R85	is_negated Arg1:T273 Arg2:T275	
+R86	is_negated Arg1:T274 Arg2:T275	

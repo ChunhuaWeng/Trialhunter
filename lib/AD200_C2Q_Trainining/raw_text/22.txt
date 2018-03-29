@@ -1,0 +1,135 @@
+>>NCT00811122
+Inclusion Criteria :.
+ 1. All participants will be between 30 - 90 years old, inclusive, clinically characterized as having AD, having FTD or being cognitively normal controls ( NC ).
+ 2. All subjects must be willing and able to undergo testing procedures.
+ 3. Cholinesterase inhibitors and memantine - symptomatic drugs approved for AD - will be allowed since these drugs are not expected to significantly affect amyloid load.
+ General inclusion criteria are shown below :.
+ 1. Normal subjects : Healthy individuals aged to match AD and FTD groups, who are non-depressed, non-demented and without a complaint of memory loss. A brief neuropsychological test, the 3MS-R or Modified Mini-Mental State Examination, Revised ( Tschanz et al., 2002 ), will be given to confirm that the subject is not cognitively impaired.
+ 2. FTD subjects : Patients seen in the University of Utah ( UU ) Cognitive Disorders Clinic ( CDC ) who have been clinically characterized and meet Neary criteria for frontotemporal dementia ( Neary et al., 1998 ).
+ 3. AD subjects : Patients seen in the UU CDC who have been clinically characterized to meet NINCDS-ADRDA criteria for probable AD ( McKhann et al., 1984 ). These criteria were established in 1984 for diagnosis of AD by the National Institute of Neurological and Communicative Disorders and Stroke ( NINCDS ) and Alzheimer's Disease and Related Disorders Association ( ADRDA ).
+ Exclusion Criteria :.
+ 1. Subjects with medical conditions that have a high risk of associated cognitive symptoms such as transient ischemic attack ( TIA ), stroke, seizures or head injury with loss of consciousness within five years.
+ 2. Subjects with Axis I psychiatric diagnoses other than treated depression.
+ 3. Subjects who are not medically stable will be excluded from the study. Examples of medically unstable patients include uncontrolled hypertension, heart/liver/renal failure and other conditions requiring acute medical attention.
+ 4. Subjects cannot have a serum glucose level greater than 180 mg/dl for FDG-PET imaging.
+ 5. Subjects who are too claustrophobic to undergo FDG-PET or 11C PIB-PET imaging.
+ 6. Subjects who require conscious sedation or anesthesia to undergo FDG-PET or 11C PIB-PET imaging.
+ 7. Subjects who are unable to follow instructions to urinate after completing scanning procedures.
+
+>>NCT01428453
+Inclusion Criteria :.
+ 1. A clinical diagnosis of possible Alzheimer's disease in accordance with the National Institute of Neurological and Communicative Diseases and Stroke/Alzheimer's Disease and Related Disorders Association ( NINCDS-ADRDA ) criteria, with radiological ( Magnetic Resonance Imaging [MRI] or Computed Tomography [CT]) evidence of significant cerebrovascular disease ( CVD ), assessed within the last 12 months.
+ 2. Male or female between 50 and 80 years of age inclusive, at the time of signing the informed consent.
+ 3. Subject has a documented history of at least 6 months of ongoing Alzheimer's disease therapy ( AChEIs and/or memantine ) with stable dosing for at least the last 2 months ( and with no intent to change for the duration of the study ).
+ 4. Mini-Mental Status Examination ( MMSE ) score between 20 and 26 at Screening.
+ 5. Clinical Dementia Rating Scale ( CDR ) score of 0.5 or 1.0 at Screening.
+ 6. A female subject is eligible to participate if she is of non-childbearing potential defined as pre-menopausal females with a documented tubal ligation or hysterectomy; or postmenopausal defined as 12 months of spontaneous amenorrhea; or of child-bearing potential and agrees to use acceptable contraception methods.
+ 7. Subject has provided full written informed consent prior to the performance of any protocol-specified procedure; or if the subject is unable to provide informed consent due to cognitive status, the subject will provide assent and full written informed consent will be provided by a legally acceptable representative.
+ 8. The subject has a dedicated caregiver who is willing to supervise participation in the study.
+ 9. In the opinion of the investigator, the subject has the ability to comply with study procedures ( cognitive and other testing ) and is fluent in the language used for the administration of the cognitive tests.
+ Exclusion Criteria :.
+ 1. History and/or evidence of any other CNS disorder that could be interpreted as a cause of dementia : e.g. structural or developmental abnormality, epilepsy, infectious, degenerative or inflammatory/demyelinating CNS conditions such as, Parkinson's disease and frontotemporal dementia.
+ 2. History of significant psychiatric illness such as schizophrenia or bipolar affective disorder that in the opinion of the Investigator would interfere with participation in the study; major depressive disorder ( according to DSM-IV ) in the past year; current active depression requiring initiation of treatment ( or is believed to account for substantial degree of cognitive impairment ).
+ 3. Evidence of the following disorders : current vitamin B12 deficiency, positive syphilis serology ( unless neurosyphilis was ruled out ) or active thyroid dysfunction ( particularly suggestive of hypothyroidism ), including abnormally high or low serum levels of thyroid stimulating hormone ( TSH ), where this is thought to be the cause of or to contribute to the severity of the subject's dementia.
+ 4. History of alcohol or other substance abuse, according to the DSM-IV criteria or recent or remote history of the same if that could be a contributing factor to dementia.
+ 5. History of intra cerebral haemorrhage due to any of the following causes : cerebral amyloid angiopathy, uncontrolled hypertension, cerebral arteriovenous malformation, coagulopathy, CNS vasculitis or any other condition that the investigator and/or medical monitor considers as a relevant risk factor for intracerebral haemorrhage.
+ 6. Recent ( i.e., < 6 months from Screening Visit ) cardiovascular event defined as :.
+ 1. ST-elevation MI or non-ST-elevation MI, confirmed by cardiac enzyme elevation and ECG changes.
+ 2. coronary revascularization ( percutaneous coronary intervention or coronary artery bypass graft ).
+ 3. stroke of any etiology.
+ 4. resuscitated sudden death.
+ 5. prior carotid surgery or stenting procedure.
+ 7. Poorly controlled hypertension despite lifestyle modifications and pharmacotherapy ( either systolic blood pressure  > 160mmHg or diastolic blood pressure  > 110mmHg ).
+ 8. QTcB interval  > 450 msec; or QTcB > 480 msec in subjects with bundle branch block based on ECG assessment at the Screening visit.
+ 9. HbA1c  > 12.0 at Screening or uncontrolled diabetes in the opinion of the investigator.
+ 10. History of glaucoma or any other findings in the baseline eye exam that, in the opinion of the investigator, would exclude the subject from participation in the study.
+ 11. History of adult asthma ( or reactive airway disease ) manifested by bronchospasm in the past 6 months or currently taking regular anti-asthmatic medication ( s ).
+ 12. Previous history of anaphylaxis, severe allergic reaction or history of hypersensitivity to any of the components of the formulation.
+ 13. Significant abnormalities on clinical chemistry, haematology or urinalysis at Screening, including clinically significant anaemia.
+ 14. History of chronic viral hepatitis ( including presence of B surface antigen or hepatitis C antibody ) or other chronic hepatic disorders.
+ 15. Abnormal Screening blood tests exceeding any of the limits defined below :.
+ 1. Alanine transaminase ( ALT ) or aspartate transaminase ( AST )  > 1.5 x the upper limit of normal ( ULN ).
+ 2. Alkaline phosphatase ( AP ) and bilirubin  > 1.5X ULN ( isolated bilirubin  > 1.5x ULN is acceptable if bilirubin is fractionated and direct bilirubin  < 35%).
+ 3. Calculated creatinine clearance < 30 ml/min ( per Cockcroft & Gault ) at Screening.
+ 16. Other clinically significant abnormality on physical ( including neurological ), laboratory or ECG examination that could be detrimental to the subject in the opinion of the Investigator or could compromise the integrity of the study.
+ 17. Planned major surgery within the study period.
+ 18. Use of systemic steroids or other immunosuppressants within the last 30 days prior to screening.
+ 19. Current treatment with barbiturates, MAO inhibitors, butyrophenones, phenothiazines and other "conventional" antipsychotic within 30 days or 5 half-lives prior to Screening, whichever is longer.
+ 20. Treatment with antidepressants, ( other than MAO inhibitors ), thyroid hormones, atypical antipsychotics ( e.g. risperidone ), benzodiazepines and other sedatives / hypnotics unless prescribed at a stable dose for at least 2 months prior to Screening. Note : Benzodiazepines or other sedatives/hypnotics ( including antihistamines ) with half-life less than 6 hours can be taken on a prn ( as needed ) basis but must not be taken within 5 half lives prior to cognitive testing.
+ 21. Current treatment with known potent inhibitors of CYP3A4 ( e.g. ketoconazole, rifampin, modafinil ).
+ 22. Current treatment with known potent Pgp inhibitors ( itraconazole, ketoconazole, cyclosporin, loperamide, diltiazem, verapamil, spironolactone, quinidine, bepridil, quinine, carvedilol ).
+ 23. Cognitive tasks prescribed for cognitive rehabilitation and performed under medical supervision in the 6 months prior to screening and/or during study.
+ 24. Investigational medications or devices including symptomatic AD treatment during the 60 days prior to the Screening visit or within 5 half-lives of use of the investigational drug prior to the Screening Visit, whichever is longer.
+ 25. Participation in another investigational drug ( with the exception of anti-amyloid monoclonal antibodies [mAbs]) or device study where subject was treated chronically ( i.e. > 1 single dose ) with a study agent intended to impact AD progression during the 12 months prior to the Screening visit.
+ 1. Subjects who participated in an investigational drug study that involved chronic dosing with a monoclonal antibody at any time in the past are excluded from this study, unless it is known that they received placebo during the previous study.
+ 2. Subjects who participated in previous single-dose studies of anti-amyloid mAbs will be permitted provided the subject's dose of the mAb is at least 5 half-lives removed; the subjects did not experience any moderate adverse events classified as possibly drug-related or any serious adverse event during that study; the subject did not drop out of the previous study ( i.e. completed all safety assessments ).
+ 26. Subjects, who in the investigator's judgement, pose a significant suicide risk ( e.g. history of suicidal behaviour in the last 6 months and/or any suicidal ideation of type 4 or 5 on the C-SSRS in the last 2 months ).
+ 27. Subject or caregiver is an immediate family member or employee of the participating Investigator, any of the participating site staff or GSK staff.
+ 28. Any contraindication to lumbar puncture or insertion of CSF catheter, including but not limited to.
+ 1. Thrombocytopenia or other coagulation disorders ( including subjects receiving coumarin-derived anti-coagulants or low-molecular-weight heparin ).
+ 2. The presence of cutaneous or soft tissue infection overlying or adjacent to the site of lumbar puncture.
+ 3. Previous spinal surgery that could complicate access to the subarachnoid space.
+ 4. Suspicion of increased intracranial pressure due to a cerebral mass.
+
+>>NCT00469456
+Inclusion Criteria :.
+ - Male and female outpatients, 50 years or older, native English speakers, meeting National Institute of Neurological and Communicative Disorders and Stroke--Alzheimer's Disease and Related Disorders Association ( NINCDS-ADRDA ) criteria for probable AD with a Mini Mental State Examination ( MMSE ) score of 10 to 19 at Screening and Baseline.
+ Exclusion Criteria :.
+ - Current Diagnostic and Statistical Manual of Mental Disorders--Fourth Edition ( DSM-IV ) Axis I disorder other than AD.
+ - Previous imaging results not consistent with the diagnosis of AD.
+ - Modified Hachinski Ischemia Score greater than 4.
+ - Evidence of other neurologic disorders.
+ - Clinically significant systemic disease.
+ - A known or suspected history of alcohol or drug abuse in the past 5 years.
+ - Taking excluded medication.
+ - Previous treatment with commercial memantine.
+>>NCT00814697
+Inclusion Criteria :.
+ - Subjects must have a diagnosis of probable or possible Alzheimer's disease, diagnosed using standardized criteria.
+ - If subjects are determined by the PI to lack decisional capacity to consent to the study, a legally authorized representative must be available to sign the informed consent on behalf of the subject. In this case the assent of each subject will be obtained as well. If at any time the subject withdraws his or her assent, the subject will be disenrolled from the study.
+ - Subjects will score at or below 30 on the 60 item naming section of the Boston Diagnostic Aphasia and/or below 50% on the Controlled Word Association ( CFL ) Category Naming.
+ Exclusion Criteria :.
+ - Subjects newly diagnosed with AD and not yet receiving usual care are not eligible.
+ - Subjects must not have pacemakers.
+ - They must not have a history of implanted metal objects.
+ - They must not have a history of seizures or epilepsy.
+ - There must not be any recent history of migraines.
+ - There must not be any history of uncontrolled depression.
+ - They must not be on any medications that will significantly lower the seizure threshold.
+ - Any other medical condition that is judged by the PI to make rTMS unsafe for the subject.
+
+>>NCT00034762
+Inclusion Criteria :.
+ - A diagnosis of dementia of the Alzheimer's type with or without a vascular component, a score of 2 or more on any item of the BEHAVE-AD psychosis subscale at screening and a Mini-Mental State Examination ( MMSE ) score of 5 to 23.
+ - Residents of nursing homes or long-term care facilities and deemed in need of treatment with an atypical antipsychotic medication.
+ Exclusion Criteria :.
+ - Disease that could significantly diminish cognitive function.
+ - history of neuroleptic malignant syndrome.
+ - hypersensitivity to risperidone.
+
+>>NCT00087789
+Inclusion Criteria :.
+ - Alzheimer's disease as determined by NINCDS/ADRDA criteria.
+ - Score of <= 4 on a modified Hachinski Ischemia Scale.
+ - Mini-Mental State Exam ( MMSE ) score in the range of 16 to 28, inclusive.
+ - No significant neurological or medical abnormalities contraindicating surgery, MRI/PET imaging or study participation.
+ - Subjects stable on standard-of-care medications ( i.e., acetylcholinesterase inhibitors ) for Alzheimer's disease for 3 months prior to entry.
+ - A Hamilton Depression Scale score of <= 12 on a 17 -item scale and no history of major depressive episode within the last 2 years.
+ - A score of < 15 on the Beck Depression Inventory.
+ - Adequate visual and auditory acuity to allow neuropsychological testing.
+ - Good health with no clinically significant medical or psychological conditions.
+ - An MRI of the head at screen that is negative for evidence of infection, tumor, infarction or other focal ( e.g., subdural hematoma ) or generalized lesions ( e.g., v hydrocephalus ) and without clinical symptoms suggestive of intervening neurological disease.
+ - Normal serum B12, thyroid function tests and negative syphilis antibody test.
+ - The informed consent document must be signed by both :.
+ a competent and willing subject and a surrogate identified by the participant or a legally authorized power of attorney for Health Care or a family member.
+ Exclusion Criteria :.
+ - History of cancer within the last five years, except superficial basal or squamous cell skin cancer or cervical carcinoma in situ.
+ - History of alcohol abuse or dependence within the last two years.
+ - Liver serum transaminases ( AST and/or ALT ) > 5 times the upper limit of normal; total and/or direct bilirubin > 1.5 mg/dL, hemoglobin < 9mg/dL; PT and PTT > 2 times the upper limit of normal; creatinine clearance < 30 mL/min; positive serology for HBV or HCV; absolute neutrophil count < 1500 cells/mm3 and a platelet count < 100000/mm3.
+ - Any significant systemic illness, unstable or severe medical condition ( s ) that could put the subject at risk during the study, interfere with outcome measures or affect compliance with the protocol procedures.
+ - Centrally active beta-blockers, anti-Parkinsonian medications, psychostimulants, antipsychotics, neuroleptics or narcotic analgesics, long-acting benzodiazepines or barbiturates, hypertensive agents with a CNS effect, short-acting anxiolytics or sedative hypnotics more frequently than two times per week within 14 days of screening, herbal products for Alzheimer's disease, antidepressants with significant cholinergic side effects ( e.g., tricyclics ), initiation or change in dose of standard treatment for Alzheimer's disease.
+ - Other medication with significant cholinergic or anticholinergic side effects.
+ - Warfarin ( coumadin ), nonsteroidal anti-inflammatory drugs, aspirin, Prozac or Ginkgo biloba within 14 days of surgery.
+ - Subjects who have received investigational agents or been exposed to investigational devices for 30 days prior to enrollment.
+ - Subjects with a history of receiving gene transfer products of any kind.
+ - Subjects who cannot undergo MRI or PET screening.

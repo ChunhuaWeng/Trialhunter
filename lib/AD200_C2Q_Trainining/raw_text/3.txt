@@ -1,0 +1,129 @@
+>>NCT02180269
+Inclusion Criteria :.
+ - Signed an informed consent document indicating they understand the purpose of and procedures required for the study and are willing to participate in the study.
+ - A man, who is sexually active with a woman of child-bearing potential and has not had a vasectomy, must agree to use an adequate contraception method as deemed appropriate by the investigator and must not donate sperm during the study and for 90 days after receiving the study drug.
+ - Body mass index between 18 and 30 kilogram ( kg ) per square meter.
+ - Blood pressure ( supine for 5 minutes ) between 90 and 150 millimeter of mercury ( mm Hg ) systolic and no higher than 90 mm Hg diastolic.
+ - Must be healthy on the basis of physical and neurological examination, medical history, vital signs and 12 -lead electrocardiogram ( ECG ) performed at screening or admission ( up to Day 1 predose ).
+ Exclusion Criteria :.
+ - History of or current liver or renal impairment, significant cardiac, vascular, pulmonary, gastrointestinal, endocrine, neurologic, hematologic, rheumatologic, psychiatric, dermatological ( at the puncture site ) or metabolic disturbances.
+ - History of spontaneous, prolonged and severe bleeding of unclear origin.
+ - History of epilepsy or fits.
+ - History of human immunodeficiency virus ( HIV ) antigen/antibody positive or tests positive for HIV at screening.
+
+>>NCT01887535
+Inclusion Criteria :.
+ - Good general health.
+ - Body mass index ( BMI ) between 18 and 32 kg/m2, inclusive.
+ - Women must be postmenopausal, permanently sterilized or otherwise be incapable of pregnancy.
+ - Must adhere to required contraception during and for 3 months after study.
+ Exclusion Criteria :.
+ - Clinically significant medical or psychiatric illness.
+ - Alcohol or substance abuse; excessive nicotine or caffeine use.
+ - Recently received an investigational drug, vaccine or invasive medical device.
+ - Unable to abide by protocol restrictions on use of other medications.
+ - Relevant history of lower back pain or scoliosis and/or major ( lumbar ) back surgery.
+ - Allergic to local anesthetics and/or iodine.
+
+>>NCT01827982
+Inclusion Criteria :.
+ - Good general health.
+ - Must adhere to required contraception during and for 3 months after study.
+ Specific Inclusion Criteria for Part 1 :.
+ - Body mass index between 18 and 30 kg/m2.
+ - Male volunteers, between 18 and 54 years of age, inclusive.
+ Specific Inclusion Criteria for Part 2 :.
+ - Body mass index between 18 and 32 kg/m2.
+ - Women must be postmenopausal, permanently sterilized or otherwise be incapable of pregnancy.
+ - Healthy male or female volunteers, between 55 and 75 years of age, inclusive.
+ Specific Inclusion Criteria for Part 3 :.
+ - Male volunteers.
+ - If participated in Parts 1 or 2, specific inclusion criteria for Part 1 ( young ) or Part 2 ( elderly ) may apply.
+ Exclusion Criteria :.
+ - Clinically significant medical or psychiatric illness.
+ - Alcohol or substance abuse; excessive nicotine or caffeine use.
+ - Recently received an investigational drug, vaccine or invasive medical device.
+ - Unable to abide by protocol restrictions on use of other medications.
+ - History or family history of spontaneous, prolonged or severe bleeding of unclear origin or of blood clotting.
+ - Current anemia.
+ Specific Exclusion Criteria for Part 2 :.
+ - History of lower back pain or scoliosis and/or major ( lumbar ) back surgery.
+ - Allergic to local anesthetics and/or iodine.
+ - Increased intracranial pressure based on fundoscopy.
+
+>>NCT01029132
+Inclusion Criteria :.
+ 1. A diagnosis of probable AD according to the criteria of the NINCDS-ADRDA.
+ 2. Korean version Mini-Mental State Examination scores between 10 and 26.
+ 3. History of cognitive decline that had been gradual in onset and progressive over at least 6 months.
+ 4. A caregiver who could assist the patient with medication, attend the assessment and provide information about the patient.
+ Exclusion Criteria :.
+ 1. they had evidence of any neurodegenerative diseases other than AD ( i.e. Parkinson's disease, Huntington's disease ).
+ 2. Psychiatric disorder or severe behavioral disturbances that required psychotropic medications.
+ 3. Cerebral injuries induced by trauma, hypoxia, and/or ischemia.
+ 4. Clinically active cerebrovascular disease; History of seizure disorder.
+ 5. Other physical conditions that required acute treatment.
+
+>>NCT02518243
+Inclusion Criteria :.
+ - Subjects with a diagnosis of Alzheimer's disease according to NINCDS-ADRDA ( McKhann, Drachman et al. 1984 ) or typical or atypical Alzheimer's disease ( Dubois B. et al. 2007 ).
+ - Score at Mini Mental Test ( MMSE )  >= 16.
+ - Subjects residing in nursing homes.
+ - Subjects beneficiaries of a social security scheme.
+ - Signature of free and informed consent.
+ Exclusion Criteria :.
+ - Failure to pass the neuropsychological tests because of a sensory or motor deficit.
+ - Sensory deficit ( olfactory or visual ) preventing the patient made perfectly meet the therapeutic solutions.
+ - Prescription of a new treatment psychotropic ( hypnotic, anxiolytic, antidepressant, antipsychotic ) in the week before the evaluation;.
+ - Persons deprived of liberty ( administrative or judicial ).
+
+>>NCT02008357
+Inclusion Criteria :.
+ - Has a Mini-Mental State Examination ( MMSE ) score at screening of 25 to 30.
+ - Has a global Clinical Dementia Rating ( CDR ) scale score at screening of 0.
+ - Has a Logical Memory II score at screening of 6 to 18.
+ - Has a florbetapir positron emission tomography ( PET ) scan that shows evidence of brain amyloid pathology at screening.
+ - Has a study partner that is willing to participate as a source of information and has at least weekly contact with the participant ( contact can be in-person, via telephone or electronic communication ).
+ Exclusion Criteria :.
+ - Is receiving a prescription acetylcholinesterase inhibitor ( AChEI ) and/or memantine at screening or baseline.
+ - Lacks good venous access, such that intravenous drug delivery or multiple blood draws would be precluded.
+ - Has current serious or unstable illness including cardiovascular, hepatic, renal, gastroenterologic, respiratory, endocrinologic, neurologic, psychiatric, immunologic or hematologic disease or other conditions that, in the investigator's opinion, could interfere with the analyses of safety and efficacy in this study.
+ - Has had a history within the last 5 years of a serious infectious disease affecting the brain ( including neurosyphilis, meningitis or encephalitis ) or head trauma resulting in protracted loss of consciousness.
+ - Has had a history within the last 5 years of a primary or recurrent malignant disease with the exception of resected cutaneous squamous cell carcinoma in situ, basal cell carcinoma, cervical carcinoma in situ or in situ prostate cancer with normal prostate-specific antigen posttreatment.
+ - Has a known history of human immunodeficiency virus ( HIV ), clinically significant multiple or severe drug allergies or severe post-treatment hypersensitivity reactions ( including but not limited to, erythema multiforme major, linear immunoglobulin A dermatosis, toxic epidermal necrolysis or exfoliative dermatitis ).
+ - Is clinically judged by the investigator to be at serious risk for suicide.
+ - Has a history within the past 2 years of major depression or bipolar disorder as defined by the most current version of the Diagnostic and Statistical Manual of Mental Disorders ( DSM ).
+ - Has a history within the past 5 years of chronic alcohol or drug abuse/dependence as defined by the most current version of the DSM.
+
+>>NCT02434393
+Inclusion Criteria :.
+ 1. Current DSM-IV diagnosis of Major Depressive Disorder, unipolar type, without psychotic features and six week minimum duration of current depressive episode.
+ 2. English Speaking.
+ 3. 65+ years of age.
+ 4. Hamilton Depression Rating Scale score  >=  15.
+ 5. Able to give informed consent.
+ 6. Willing to undergo one MRI ( 3 Tesla ) and one PET scan ( Amyloid imaging ).
+ 7. Able to fit in an MRI machine comfortably ( BMI  <=  38 ).
+ 8. Agrees to collection of blood for GWAS, apolipoprotein E ( APOE ) testing and DNA and RNA testing.
+ 9. Agrees to collection of blood for biomarker testing.
+ 10. Agrees to collection of additional blood sample for to-be-determined assays and telomere length measurement.
+ 11. Visual and auditory acuity adequate for neuropsychological testing.
+ 12. Completed six grades of education or has established work history ( sufficient to exclude mental retardation ).
+ 13. Study partner is available who has frequent contact with the subject ( e.g. an average of 10 hours per week or more ) and can accompany the subject to clinical visits for the duration of the protocol.
+ Exclusion Criteria :.
+ 1. Current diagnosis of other axis 1 psychiatric disorders ( with the exception of Simple Phobias and Generalized Anxiety Disorder ).
+ 2. Evidence of Dementia ( MMSE  < 25 ).
+ 3. Any electroconvulsive therapy within the past 6 months.
+ 4. Undergoing anti-depressant or psychotherapy treatment ( exceptions listed 4.3. Treatment Exclusion Exceptions ).
+ 5. Any significant neurological diseases ( i.e. Parkinson's disease, epilepsy, cortical stroke, traumatic brain injury ).
+ 6. History of alcohol or substance abuse or dependence within the past 2 years ( DSM-IV criteria ).
+ 7. Any active and serious suicidal ideation, including ideation, plan and intent to carry out that plan, as assessed by the Hamilton Depression Rating Scale ( HDRS ).
+ 8. Any significant systemic illness or unstable medical condition which could lead to difficulty complying with the protocol.
+ 9. History of surgical procedures effecting study outcomes.
+ 10. Residence in skilled nursing facility.
+ 11. Participation in clinical studies involving the same neuropsychological measures used in ADNI-D that may impact study outcomes.
+ 12. Investigational agents are prohibited one month prior to entry and for the duration of the trial.
+ 13. Exclusion for amyloid imaging with florbetapir : Current or recent participation in any procedures involving radioactive agents such that the total radiation dose exposure to the subject in any given year would exceed the limits of annual and total dose commitment set forth in the US Code of Federal Regulations ( CFR ) Title 21 Section 361.1.
+ 14. Known history of MRI scans with evidence of infection, infarction or other focal lesions. Subjects with multiple lacunes or lacunes in a critical memory structure are excluded.
+ 15. Presence of pacemakers, aneurysm clips, artificial heart valves, ear implants, metal fragments or foreign objects in the eyes, skin or body, claustrophobia.
+ 16. Pregnant, lactating or of childbearing potential ( i.e. women must be two years post-menopausal or surgically sterile ).

@@ -1,0 +1,70 @@
+>>NCT00088751
+- INCLUSION CRITERIA:.
+ 1. FTD as diagnosed by the Lund-Manchester criteria including patients with diagnoses of Semantic Dementia or Primary Progressive Aphasia.
+ 2. Ages 45 to 95 years old.
+ 3. Mild-to-moderate ( CDR 1 to 2 ) FTD with an assigned durable power of attorney.
+ EXCLUSION CRITERIA:.
+ 1. Diagnosis of any form of dementia besides FTD, including AD, Lewy body dementia, vascular dementia, dementia associated with Parkinson's disease, Corticobasal Degeneration and Progressive Supranuclear Palsy.
+ 2. Severe dementia ( CDR 3 ).
+ 3. Known allergy or serious adverse reaction to quetiapine or dextroamphetamine.
+ 4. Patient is already receiving a stimulant ( methylphenidate, dextroamphetamine, pemoline or modafinil ) or an antipsychotic medication, typical or atypical, including prochlorperazine and metoclopromide.
+ 5. Patients taking any of the following medications because of their potential interaction with dextroamphetamine: MAO use currently or within 14 days prior to start of study, Furazolidone, Guanethidine, norepinephrine, sibutramine, tricyclic antidepressants, carbonic anhydrase inhibitors.
+ 6. Patients taking the following medications because of their potential interaction with quetiapine: Carbamazepine, clozapine, lithium, thioridazine.
+ 7. History of CVA or at significantly increased risk for CVA ( e.g., atrial fibrillation, recent TIA etc.).
+ 8. Symptomatic cardiovascular disease ( i.e., angina, claudication, TIAs, syncope ), uncontrolled hyper or hypotension or a tic disorder.
+ 9. Any medical contraindication to performing the procedures involved in the study including blood draws or lumbar puncture.
+ 10. We will require a woman of child-bearing age to have a pregnancy test prior to starting the study medications and to use contraception during the course of the study.
+ 11. Patients with a previous negative trial of a stimulant.
+ 12. Patients with a history of severe psychosis.
+ 13. Patients with a history of recent substance abuse.
+ 14. Patients with QTc prolongation on a baseline EKG.
+ 15. A score of 2 or less on the Communication Functional Ratings - Swallowing Domain.
+
+>>NCT01979432
+Inclusion Criteria:.
+ - free-living community-dwelling men and women aged  >=  70 years,.
+ - subjects free of clinical CVD related to atherosclerosis.
+ - preserved basic activities of daily living ( ADL = 6 ).
+ - without cognitive impairment ( MMSE >= 24 ).
+ Exclusion Criteria:.
+ - subjects with clinical history of any of the following CVD diseases : coronary artery disease ( angina, myocardial infarction, coronary revascularization ), cerebrovascular disease ( stroke, TIA, carotid revascularization ), clinical peripheral artery disease ( claudication, critical limb ischemia ).
+ - subjects with neurodegenerative, locomotor and ophtalmological diseases unable to perform the cognitive tests.
+ - subjects unable to give written informed consent.
+
+>>NCT02608021
+Inclusion Criteria:.
+ 1. Clinical diagnosis based on recent ( within 1 year ) consensus meeting, cross-referenced with standard neuropsychological scores:.
+ - Cognitively Normal ( CN ) Subjects: based on MMSE scores, CDR and GDS.
+ - Amnestic Mild Cognitive Impairment ( aMCI ) Subjects: Diagnosis of aMCI, based on MMSE scores, CDR and GDS.
+ 2. Normal or corrected-to-normal vision and hearing ( able to see images on computer screen and hear auditory events delivered through the computer speaker ).
+ Exclusion Criteria:.
+ 1. Significant history of mental illness, drug or alcohol abuse; severe trauma preventing normal use of dominant hand ( needed to move the mouse cursor ); clinical depression ( unless medically controlled ); other neurologic conditions ( i.e. stroke ) or learning disability; ophthalmologic/visual problems that prevent viewing a computer screen at a normal distance ( such as legal blindness, detached retinas, occlusive cataracts ).
+ 2. Having pacemakers, aneurysm clips, cochlear implants, pulse oximeters, EKG leads, tattoos or other metal/foreign objects in body or face and therefore unable to receive MRI.
+ 3. Lack the capacity to give informed consent and lack of an authorized surrogate to provide consent if the prospective subject is found to lack adequate consent capacity.
+ 4. Pregnancy, breastfeeding or planning to have a baby.
+
+>>NCT02509117
+Inclusion Criteria:.
+ - Healthy male and/or female subjects of non-childbearing potential between the ages of 18 and 55 years or between the ages of 65 and 85 years, inclusive.
+ - Body Mass Index ( BMI ) of 17.5 to 30.5 kg/m2; and a total body weight  > 50 kg ( 110 lbs ) at Screening.
+ - Evidence of a personally signed and dated informed consent document indicating that the subject or a legally acceptable representative has been informed of all pertinent aspects of the study.
+ Exclusion Criteria:.
+ - Evidence or history of clinically significant hematological, renal, endocrine, pulmonary, gastrointestinal, cardiovascular, hepatic, psychiatric, neurologic or allergic disease ( including drug allergies but excluding untreated, asymptomatic, seasonal allergies at the time of dosing ).
+ - Male subjects with partners currently pregnant; male subjects able to father children who are unwilling or unable to use a highly effective method of contraception as outlined in this protocol for the duration of the study and for at least 28 days after the last dose of investigational product.
+ - Unwilling or unable to comply with the Lifestyle Guidelines described in this protocol.
+ - Subjects who are investigational site staff members directly involved in the conduct of the study and their family members, site staff members otherwise supervised by the Investigator or subjects who are Pfizer employees directly involved in the conduct of the study.
+ - Any severe acute or chronic medical or psychiatric condition including recent ( within the past year ) or active suicidal ideation or behavior or laboratory abnormality that may increase the risk associated with study participation or investigational product administration or may interfere with the interpretation of study results and, in the judgment of the Investigator, would make the subject inappropriate for entry into this study.
+
+>>NCT02260700
+Inclusion Criteria:.
+ - Body mass index ( BMI; weight [kilogram ( kg )]/height^2 [meter square ( m^2 )]) between 18 and 30 kg/m^2, ( inclusive ).
+ - Be healthy for their age group with or without medication on the basis of physical examination, medical history, vital signs and 12 -lead electrocardiogram ( ECG ) performed at Screening or admission. Minor deviations in ECG, which are not considered to be of clinical significance to the investigator, are acceptable.
+ - Be healthy on the basis of clinical laboratory tests performed at Screening. If the results of the serum chemistry panel [including liver enzymes], hematology or urinalysis are outside the normal reference ranges, the participant may be included only if the investigator judges the abnormalities or deviations from normal to be not clinically significant. This determination must be recorded in the participants' source documents and initialed by the investigator.
+ - Men who are sexually active with a woman of childbearing potential and have not had a vasectomy must agree to use a barrier method of birth control for example, either condom with spermicidal foam/gel/film/cream/suppository or partner with occlusive cap ( diaphragm or cervical/vault caps ) with spermicidal foam/gel/film/cream/suppository and all men must also not donate sperm during the study and for 3 months after receiving the last dose of study drug. In addition, their female partners should also use an appropriate method of birth control for at least the same duration.
+ - Participants' must have signed an informed consent document indicating that they understand the purpose of and procedures required for the study and are willing to participate in the study.
+ Exclusion Criteria:.
+ - Participant has a clinically significant abnormal physical examination, vital signs or 12 lead ECG ( including QTc greater than (>) 450msec, Left Bundle Branch Block, permanent pacemaker or implantable cardioverter defibrillator ) at Screening or admission.
+ - Participant has a history of or current liver or renal insufficiency; significant cardiac, vascular, pulmonary, gastrointestinal, endocrine, neurologic, hematologic, rheumatologic, psychiatric or metabolic disturbances.
+ - Use of any prescription or over-the-counter medication, herbal medication, vitamins or mineral supplements within 14 days prior to study drug administration ( not including paracetamol ). Medication for chronic use in age related disease will be allowed after approval by both the investigator and to the sponsor. No change in dose or regimen will be permitted during the study that is, from the Screening visit until the follow-up visit.
+ - Participant has a history of spontaneous, prolonged or severe bleeding of unclear origin.
+ - Participant has a history of epilepsy or fits or unexplained black-outs other than vasovagal collapse.

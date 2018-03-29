@@ -1,0 +1,101 @@
+>>NCT01227252
+Inclusion Criteria:.
+ - Healthy men and non-childbearing potential women.
+ - Body mass index between 18.0 - 32.0 kg/m2.
+ - Are reliable and willing to make yourself available for the duration of the study and are willing to follow study procedures and research unit policies.
+ Exclusion Criteria:.
+ - Taking over-the-counter or prescription medication with the exception of vitamins or minerals.
+ - Smoke more than 10 cigarettes per day.
+ - Drink more than 5 cups of caffeine containing beverages ( e.g., coffee, tea ) per day.
+
+>>NCT01203384
+Inclusion Criteria:.
+ - Subject is judged to be in good health on the basis of medical history, complete physical examination including vital signs, 12 -lead electrocardiogram ( ECG ) and standard laboratory tests.
+ Exclusion Criteria:.
+ - Medical history ( within the last 10 years ) of major cardiovascular, hepatic or renal disease.
+ - Abnormal results of liver function tests, renal function tests or thyroid tests performed at screening.
+ - Significant allergic conditions that require medical treatment.
+ - Use of any psychoactive, recreational or prescription drug within the 4 weeks prior to study drug administration.
+ - Use of ibuprofen, sulindac sulfide, indomethacin, flurbiprofen within 2 weeks prior to study drug administration.
+
+>>NCT01079819
+Inclusion Criteria:.
+ - Healthy male subjects 18 - 45 yrs old and 65 yrs or older inclusive and postmenopausal female 65 yrs or older.
+ Exclusion Criteria:.
+ - Women of childbearing potential.
+ - Gastrointestinal disorders.
+ - Bleeding disorders.
+ - Peptic ulcer disease.
+ - Abnormal ECG.
+ - Abnormal Clinical laboratory tests.
+ - Abnormal Thyroid.
+ - Congestive heart failure.
+ - Cholecystectomy.
+ - Asthma.
+ - Hypertension.
+ - Inability to tolerate oral medication.
+ - Inability to be venipunctured and/or tolerate venous access.
+
+>>NCT01023425
+Inclusion Criteria:.
+ 1. A diagnosis of probable AD according to the criteria of the NINCDS-ADRDA.
+ 2. Korean version Mini-Mental State Examination scores between 10 and 26.
+ 3. History of cognitive decline that had been gradual in onset and progressive over at least 6 months.
+ 4. A caregiver who could assist the patient with medication, attend the assessment and provide information about the patient.
+ Exclusion Criteria:.
+ 1. they had evidence of any neurodegenerative diseases other than AD ( i.e. Parkinson's disease, Huntington's disease ).
+ 2. Psychiatric disorder or severe behavioral disturbances that required psychotropic medications.
+ 3. Cerebral injuries induced by trauma, hypoxia, and/or ischemia.
+ 4. Clinically active cerebrovascular disease; History of seizure disorder.
+ 5. Other physical conditions that required acute treatment.
+
+>>NCT00987220
+Inclusion Criteria:.
+ - Healthy male and/or female subjects between the ages of 18 and 55 years, inclusive ( Healthy is defined as no clinically relevant abnormalities identified by a detailed medical history, full physical examination, including blood pressure and pulse rate measurement, 12 -lead ECG and clinical laboratory tests ).
+ - Body Mass Index ( BMI ) of approximately 18 to 33 kg/m2; and a total body weight  > 50 kg ( 110 lbs ).
+ - Subject has the ability to understand the requirements of the study, provide written informed consent and abide by the requirements of the study.
+ Exclusion Criteria:.
+ - Evidence or history of clinically significant hematological, renal, endocrine, pulmonary, gastrointestinal, cardiovascular, hepatic, psychiatric, neurological or allergic disease ( including drug allergies but excluding untreated, asymptomatic, seasonal allergies at time of dosing ).
+ - History of febrile illness within 5 days prior to the first study period.
+ - History of regular alcohol consumption exceeding 14 drinks/week ( 1 drink = 5 ounces ( 150 mL ) of wine or 12 ounces ( 360 mL ) of beer or 1.5 ounces ( 45 mL ) of hard liquor ) within 6 months of screening.
+ - A positive urine drug screen at screening.
+ - Use of tobacco- or nicotine-containing products in excess of the equivalent of 5 cigarettes per day.
+ - Use of prescription or nonprescription drugs, vitamins and dietary supplements within 7 days or 5 half-lives ( whichever is longer ) prior to the first study period. As an exception, analgesics, caffeine and non-pharmacological methods may be used on the discretion of the investigator to manage symptoms related to the lumbar catheterization. Aspirin, aspirin containing products and non-steroidal anti-inflammatory agents that affect platelet function should not be used. Other exceptions may be granted by a qualified member of Pfizer study management.
+ - Treatment with an investigational drug within 30 days preceding the first study period.
+ - Pregnant or nursing females; females of childbearing potential who are unwilling or unable to use an acceptable method of non-hormonal contraception ( as will be outlined in the protocol ) from at least 14 days prior to enrollment in the study until completion of the study.
+ - Blood donation of approximately 1 pint ( 500 mL ) within 56 days prior to dosing.
+ - Subjects with papilledema on exam at screening or on Day 0.
+ - Subject has any laboratory values outside the normal ranges on screening or on Day 0 which are deemed clinically significant by the investigator. Coagulation indices, including PT/aPTT and platelet count must be normal.
+ - Subjects with lower spinal malformations, local infection or other abnormalities that would exclude lumbar puncture ( LP ).
+ - Subjects who are unwilling or unable to comply with the Lifestyle guidelines presented in the protocol.
+ - Other severe acute or chronic medical or psychiatric condition/status or laboratory abnormality that may increase the risk associated with trial participation or investigational product administration or may interfere with the interpretation of trial results and in the judgment of the investigator, would make the subject inappropriate for entry into this trial.
+
+>>NCT00966017
+Inclusion Criteria:.
+ - Age 45 years or older.
+ - No significant cerebrovascular disease - modified Ischemic Score of < 4.
+ - Adequate visual and auditory acuity to allow neuropsychological testing.
+ - Screening laboratory tests and ECG without significant abnormalities that might interfere with the study.
+ Additional Inclusion Criteria for Controls.
+ - MMSE score between 24 and 30 ( unless < 8 years of educational achievement ).
+ - The following medications are allowed if stable for > 1 month: antidepressants ( without anticholinergic effects ) if not currently depressed and no history of major depression for 2 years; estrogen replacement therapy; thyroid replacement therapy as long as individual is euthyroid; antihypertensives that do not influence cognitive function.
+ Additional Inclusion Criteria for Individuals with Down syndrome.
+ - Family member or caregiver available; caregiver relationship 2 years or longer.
+ - Karyotype DX of trisomy or translocation DS Mosaic form of Down syndrome.
+ - English-speaking.
+ Exclusion Criteria:.
+ - Evidence of neurological or other physical illness that could produce cognitive deterioration; volunteers with a history of TIAs, carotid bruits or lacunes on MRI scan will be excluded.
+ - Parkinson's Disease.
+ - History of myocardial infarction within the previous year or unstable cardiac disease.
+ - Uncontrolled hypertension ( systolic BP > 170 or diastolic BP > 100 ), history of significant liver disease, clinically significant pulmonary disease, diabetes or cancer.
+ - Major psychiatric disorders, such as bipolar disorder or schizophrenia.
+ - Medicines that could influence psychometric test results.
+ - Use of any of the following drugs: centrally active beta-blockers, narcotics, clonidine, anti-Parkinsonian medications, benzodiazepines, systemic corticosteroids, medications with significant cholinergic or anticholinergic effects, anti-convulsants or warfarin.
+ - Current diagnosis or history of alcoholism or drug dependence.
+ - Evidence of untreated depression or untreated anxiety.
+ - Use of any investigational drugs within the previous month or longer, depending on drug half-life.
+ - Contraindication for MRI scan ( e.g., metal in body, claustrophobia ).
+ - Diagnosis of possible or probable AD or any other dementia ( e.g., vascular, Lewy body, frontotemporal ) or MCI.
+ Additional Exclusion Criteria for Individuals with Down syndrome.
+ - Mosaic form of Down syndrome.
+ - History of clinically significant neurological disorder or disease and Psychiatric diagnosis or treatment within 3 months prior to screening.

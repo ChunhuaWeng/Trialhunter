@@ -1,0 +1,113 @@
+>>NCT00678431
+Inclusion Criteria :.
+ 1. Consenting individuals as defined by IRB guidelines.
+ 2. NINCDS/ADRDA criteria for probable AD.
+ 3. Community dwelling.
+ 4. Age : greater than or equal to 50 years.
+ 5. MMSE between 12 and 26, inclusive.
+ 6. Stable medical condition for 3 months prior to screening visit.
+ 7. Stable doses of ( non excluded ) medications with central nervous system activity for 4 weeks prior to the screening visit ( For cholinesterase inhibitors there should be no plan of dose escalation ).
+ 8. Physically acceptable for this study as confirmed by medical history, physical exam, neurologic exam and clinical laboratory tests.
+ 9. Supervision available for administration of study medications.
+ 10. Study partner to accompany subject to all scheduled visits and complete informant-based assessments.
+ 11. Fluent in English or Spanish.
+ 12. Modified Hachinski < 4.
+ 13. CT or MRI since onset of memory impairment demonstrating absence of clinically significant focal lesion ( One lacune in a non-critical brain region is acceptable ).
+ 14. Able to complete baseline assessments.
+ 15. 6 years of education or work history sufficient to exclude mental retardation.
+ 16. Able to ingest oral medication.
+ Exclusion Criteria :.
+ 1. Active liver disease or persistent elevation in serum transaminase.
+ 2. Severe renal disease.
+ 3. - Hx of diabetes mellitus ( both insulin-dependent and non-insulin-dependent ) or blood glucose  > 150 mg/dl.
+ 4. Active neoplastic disease ( skin tumors other than melanoma are not exclusionary; subjects with stable prostate cancer or other stable cancers may be included at the discretion of the PI ( Sano ).
+ 5. Use of another investigational agent within 2 months of the screening visit.
+ 6. History of clinically significant stroke.
+ 7. Current evidence or history in the past 2 years of seizures, head injury with loss of consciousness and/or immediate confusion after the injury.
+ 8. Current DSM-IV criteria-based diagnosis for major psychiatric disorder including psychosis, major depression, bipolar disorder, alcohol or substance abuse.
+ 9. Blindness, deafness, language difficulties or any other disability which may interfere with testing ability.
+ 10. In female subjects, no history of menopause.
+ 11. Use of medications containing aluminum hydroxide, including anti-ulcer antacids such as Alternagel, Amphojel, Alu-tab, Maalox and Mylanta.
+
+>>NCT00551161
+Inclusion Criteria :.
+ - Written informed consent must be obtained from either the subject ( if they have decisional capacity ) or a Legally Authorized Representative ( LAR ) ( as required by state or local law and the IRB ), prior to the initiation of any study-specific procedures. ( If a subject is unable to fully consent for himself/herself but has capacity to appoint a research proxy, the legally authorized research proxy will be asked to sign consent, with the subject signing assent.).
+ - Male or female outpatients at least 50 years of age at Screening.
+ - If female, the patient must be at least two years postmenopausal or surgically sterile at Screening.
+ - The patient has a current diagnosis of probable Alzheimer's disease consistent with NINCDS-ADRDA criteria.
+ - The patient has a knowledgeable and reliable caregiver who will accompany the patient to all clinic visits during the course of the study.
+ - Mini-Mental State Examination ( MMSE ) score of at least 15 and not greater than 26 at Screening.
+ - Ongoing therapy with a stable dose of donepezil, rivastigmine or galantamine for at least three months at the time of Screening.
+ - Physical examination, laboratory evaluations and EKG results at Screening must be normal or abnormal findings must be judged not clinically significant by the Investigator.
+ - The patient's MRI scan conducted as part of Screening ( Visit 1 ) must be consistent with a diagnosis of Alzheimer's disease and must not include any findings that could confound the spectroscopic analysis of subsequent MRIs ( e.g., large cortical stroke, tumor or other space-occupying brain lesions ).
+ - Vision and hearing ( hearing aid permissible ) must be sufficient for compliance with testing procedures.
+ - The patient and/or their Legally Authorized Representative and their caregiver must be able to speak, read and understand English sufficiently to understand the nature of the study, to provide written informed consent and to allow completion of all study assessments.
+ Exclusion Criteria :.
+ - Clinically significant vitamin B12 deficiency at Screening.
+ - Patients with a modified Hachinski ischemia score greater than 4 at Screening.
+ - Patients with evidence of clinically significant and active pulmonary, gastrointestinal, renal, hepatic, endocrine or cardiovascular system disease. Patients with controlled hypertension and right bundle branch block ( complete or partial ) may be included in the study. Patients with thyroid disease may also be included in the study provided they are euthyroid on treatment. Patients with controlled diabetes may also be included.
+ - Patients with severe renal impairment ( estimated creatinine clearance < 35 mL/min ).
+ - Patients with systolic blood pressure ( while sitting ) greater then than 180 mm Hg or less then 90 mm Hg or diastolic blood pressure ( while sitting ) greater than 100 mm Hg or less than 50 mm Hg at Screening.
+ - Patients with evidence of other neurological disorders including but not limited to, stroke, Parkinson's disease, seizure disorder, hydrocephalus or head injury with loss of consciousness within the past five years at Screening.
+ - Patients with a current DSM-IV Axis I disorder other than Alzheimer's disease, including schizophrenia or schizoaffective disorder, bipolar disorder, current major depressive episode, psychosis, panic disorder or post-traumatic stress disorder.
+ - Patients with dementia complicated by other organic disease.
+ - Patients who have had a previous brain scan ( MRI or CT ) with results inconsistent with a diagnosis of probable Alzheimer's disease.
+ - Patients with an oncological diagnosis ( hematological or solid tumor ) which is currently being treated or for which there has been treatment within the year preceding Screening or for which there is still evidence of active disease. ( Note : Patients with local dermatological tumors at such as basal or squamous cell carcinoma may be included.).
+ - Patients with an object in the head or neck which would invalidate or obstruct the successful completion of an MRI scan or patients who have other contraindications to MRI, including those with implanted ferromagnetic material or devices such as cardiac pacemakers, deep brain stimulators, cochlear implants or intraocular metallic shards.
+ - Patients who are claustrophobic and/or unable to tolerate MRI at Screening or whom the Investigator believes will not be able to tolerate further scans scheduled during the course of the study.
+ - Patients with a known or suspected history ( within the past 5 years at Screening ) of alcoholism or drug abuse.
+ - Patients who are on an unstable dose of a cholinesterase inhibitor ( donepezil, rivastigmine or galantamine ), are currently taking more than one cholinesterase inhibitor at Screening, who are likely to require a change in cholinesterase drug dose during the course of the study or for whom a cholinesterase inhibitor therapy is contraindicated.
+ - Patients with a history of severe drug allergy or hypersensitivity or patients with known hypersensitivity to memantine, amantadine, rimantadine or lactose.
+ - Patients who have been previously treated with or have participated in an investigational study of neramexane, memantine or amantadine.
+ - Patients previously treated with commercial memantine.
+ - Patients who have been in an investigational drug study or who have received treatment with an investigational drug within 30 days or 5 half-lives ( whichever is longer ) of Screening.
+ - Patients or caregivers who are unwilling or unable to abide by the visit schedule and other requirements of the study.
+ - Any condition which would make the patient or caregiver unsuitable for the study in the opinion of the Investigator.
+
+>>NCT01119638
+Inclusion Criteria :.
+ Eligible participants will fulfill criteria for dementia of the Alzheimer's type ( according to the Diagnostic and Statistical Manual of Mental Disorders, fourth edition ). The score on the Mini-Mental State Examination ( MMSE ) has to be between 5 and 26.
+ Eligible patients will suffer from delusions, hallucinations, aggression or agitation that developed after the onset of dementia and is severe enough to disrupt their functioning and, in the opinion of the study physicians, to justify treatment with antipsychotic drugs.
+ Signs and symptoms of psychosis, aggression or agitation will have to occur nearly daily during the week prior to enrollment.
+ A frequency rating of "often" or "more frequently" and a severity rating of at least "moderate" are required for delusions, hallucinations, agitation or "aberrant motor behavior" in the Neuropsychiatric Inventory ( NPI ).
+ Exclusion Criteria :.
+ Patients will be excluded if they had received a diagnosis of a primary psychotic disorder ( e.g., schizophrenia ), delirium, other dementia. Patients will also be excluded if they were going to receive treatment with a cholinesterase inhibitor or antidepressant medication, had previously been treated with escitalopram for BPSD or had contraindications to the two study drugs.
+
+>>NCT00857649
+Inclusion Criteria :.
+ Outpatients who :.
+ - had a primary diagnosis of probable Alzheimer's Disease ( AD ) according to National Institute of Neurological and Communicative Disorders and Stroke and the Alzheimer's Disease and Related Disorders Association ( NINDS-ADRDA ) criteria and with Diagnostic and Statistical Manual of Mental Disorders, 4th edition, text revised ( DSM IV TR ) criteria for dementia of the Alzheimer's type.
+ - had moderate to severe dementia, defined as a Mini Mental State Examination ( MMSE ) total score  >= 5 and  <= 15 at screening. Before substantial protocol amendment SA04 ( dated 7 October 2004 ) was implemented, the MMSE total score range at screening was  >= 8 and  <= 18. Substantial protocol amendment SA07 ( dated 4 September 2009 ) allowed patients who had previously had an MMSE score of 16 or 17 to be re-screened  > 6 months after their initial screening and, if there was documented evidence of cognitive decline, to be enrolled in the study.
+ - had a Neuropsychiatric Inventory ( NPI ) total score  >= 13 and an NPI agitation/aggression subitem score  >= 1 at screening and baseline.
+ - did not have vascular dementia or a modified Hachinski Ischaemia Scale score  > 4 at screening.
+ Exclusion Criteria :.
+ - Evidence of clinically significant active disease, evidence of other neurological disorders and previous treatment with memantine.
+
+>>NCT00456417
+Inclusion Criteria :.
+ - The participant is 50 years or older.
+ - Written informed consent is obtained.
+ - Participants have a clinical diagnosis of Alzheimer's disease based on National Institute of Neurological and Communicative Disorders and Stroke/Alzheimer's Disease and Related Disorders Association ( NINCDS/ADRDA ) criteria.
+ - Mini-Mental Status Exam score  > 16 and < 25.
+ - Modified Hachinski Ischemia Scale score of <= 4.
+ - Geriatric Depression Scales ( GDS ) <= 10.
+ - For females, non-child bearing potential or negative urine or blood pregnancy test on day of 123 -I MNI- 187 injection.
+ Exclusion Criteria :.
+ - The subject has signs or symptoms of another neurodegenerative disease including Parkinson's disease, diffuse Lewy body dementia or history of significant cerebrovascular disease.
+ - The subject has a clinically significant abnormal laboratory value and/or clinically significant unstable medical or psychiatric illness.
+ - The subject has any disorder that may interfere with drug absorption distribution, metabolism or excretion ( including gastrointestinal surgery ).
+ - The subject has evidence of clinically significant gastrointestinal, cardiovascular, hepatic, renal, hematological, neoplastic, endocrine, neurological, immunodeficiency, pulmonary or other disorder or disease.
+ - Pregnancy.
+
+>>NCT00842673
+Inclusion Criteria :.
+ - Diagnostic evidence of mild to moderate Alzheimer's disease.
+ - CT or MRI results within the past 12 months that rule out dementia due to non-Alzheimer's etiology.
+ - A reliable and capable caregiver.
+ Exclusion Criteria :.
+ - Subjects who reside in a skilled nursing facility.
+ - Subjects with B12 or folate deficiency.
+ - Subjects with chronic hepatic disease.
+ - Subjects with a recent history of hematologic/oncologic disorders.
+ - Subjects who have experienced a myocardial infarction with the past year.
+ - Dementia caused or complicated by other organic disease.

@@ -1,0 +1,193 @@
+>>NCT00006187
+Inclusion Criteria:.
+- Patient is male or female and at least 50 years of age or older.
+- Female patients must be postmenopausal or surgically sterilized.
+- Clinical diagnosis of AD.
+- Patient must be in good health except for AD diagnosis.
+- Patient must have informant/caregiver who can monitor and assist patient during the study.
+Exclusion Criteria:.
+- Patient is living in a nursing home or skilled nursing facility.
+- Women will be ineligible if not postmenopausal or surgically sterilized.
+- Site physician or Sponsor may exclude patients with serious medical problems such as cancer, cardiovascular disease, major neurological or psychiatric illness, thyroid disease or major head trauma.
+
+>>NCT00546767
+Inclusion Criteria:.
+- Age 75 and older.
+- Willing to sign consent.
+- Willing to take multi-vitamins provided by the study.
+- Minimal computer skills or willingness to learn ( as demonstrated by completion during screening of a demonstration module for each arm ).
+- English fluency.
+- MMSE greater than 26.
+- Able to answer and dial a telephone.
+- Able to complete the in-person assessment.
+- Able to complete the computerized assessment including adequate speech, hearing and vision.
+- Independently living adults, defined as living in a setting in which the participant can ensure access to the resources for study procedures.
+- Participation of a study partner is desirable and encouraged but not required.
+Exclusion Criteria:.
+- Dementia.
+- Use of prescription cognitive-enhancing drugs at entry ( e.g. Aricept, Razadyne, Exelon, Namenda ).
+- Intent to continue use of own multi-vitamins ( for the duration of the study participants must agree to take only study-distributed multi-vitamins ).
+- History or presence of major psychiatric, neurological or neurodegenerative conditions associated with significant cognitive impairment such as major stroke, Parkinson's disease, Multiple Sclerosis or Huntington's disease. Transient Ischemic Attack ( TIA ) is acceptable if over 6 months ago.
+- Medical conditions associated with life expectancy of less than 5 years.
+- Transient domicile interfering with ability to collect study-related data.
+- Current participation in a clinical trial involving Central Nervous System ( CNS ) medications or cognitive testing that would interfere with the current protocol ( participation in Uniform Data Set ( UDS ) assessments by an ADC is permitted ).
+- Cohabitation with another participant in this particular study.
+
+>>NCT01780519
+Inclusion criteria:.
+- MMSE score of 28 - 30.
+- Hamilton Depression Rating Scale score of less than 10.
+- participants in longitudinal study of aging and have a TOMM40 genotype of S/S, VL/VL, S/VL, L/S or L/VL.
+Exclusion criteria:.
+- Alzheimer's Disease or Mild Cognitive Impairment.
+- any significant medical, psychiatric and neurological illnesses, e.g., impaired liver or kidney function, prior stroke, traumatic brain injury, memory impairment, cognitive impairment, parkinsonism, a lifetime history of schizophrenia, bipolar disorder, a psychoactive substance use disorder or current major depression.
+- known allergy to benzodiazepines.
+- current use ( within the previous four weeks ) of benzodiazepines or other medications known to interact with lorazepam, current use of sedating antihistamines or current use of stimulant medications.
+
+>>NCT00134953
+Inclusion Criteria:.
+- Males or females who are one year post-menopausal or without childbearing potential.
+- Between the ages of 50 and 85 years old.
+- Mild cognitive impairment confirmed by Mini Mental State Examination ( MMSE ) score between 23 and 27.
+- Cooperative, able to ingest oral medication and able to complete all aspects of the study and capable of doing so, either alone or with the aid of a responsible caregiver, according to the investigator's judgement.
+Exclusion Criteria:.
+- A current diagnosis of cerebrovascular disease, any primary neurodegenerative disorder or any other causes of neuropsychologic disturbances or secondary dementia.
+- A current diagnosis of epilepsy or depression or any other diagnosis that may interfere with the patient's response to study medication.
+- An advanced, severe or unstable disease of any type that may interfere with efficacy evaluations.
+Other protocol-defined exclusion criteria may apply.
+
+>>NCT00380302
+Inclusion Criteria:.
+- The diagnosis of Alzheimer's disease.
+- Recent brain image ( Computerized Axial Tomographic Scan -CAT scan or Magnetic Resonance Imaging - MRI ).
+- Mild to moderate range of disease; not too severe.
+Exclusion Criteria:.
+- Severe or unstable medical diseases.
+- Neurological disorder other than Alzheimer's disease.
+- Depression that is not well controlled.
+- Treatment with memantine.
+- Inpatient in a total care facility ( e.g.: Nursing home ).
+- Lack of reliable caregiver.
+
+>>NCT01189084
+Inclusion Criteria:.
+- Individuals with mild to moderate Alzheimer's disease who received three ( 3 ) injections of UB 311 in the initial Phase I V118 -AD trial.
+Exclusion Criteria:.
+- Individuals with Alzheimer's disease who are currently on prohibited medications, have severe or uncontrolled systemic disease or are unable or unwilling to comply with study protocol requirements.
+
+>>NCT01662882
+Inclusion Criteria:.
+Subjects who meet all of the following criteria are eligible to enroll in the arm of this trial reserved for subjects with AD:.
+1. Japanese males or females at least 50 years of age, with probable AD according to the NINCDS-ADRDA criteria ( McKhann et al., 1984 );.
+2. Subjects with mild/moderate dementia as evidenced by a MMSE score ranging from 10 to 24, boundaries included, at screening;.
+3. Subjects whose history of cognitive decline has been gradual in onset and progressive over a period of at least 6 months. Evidence should be present indicating sustained memory deterioration in an otherwise cognitively normal subject, plus additional impairment in another cognitive function such as: orientation, judgment and problem solving or functioning in personal care;.
+4. Subjects who live with or have regular visits from a responsible caregiver willing to provide information about the subject's cognitive status; and.
+5. Subjects who signed an Institutional Review Board/Independent Ethics Committee ( IRB/IEC ) approved informed consent prior to any study procedures. If the subject is incapable of giving informed consent, the caregiver may consent on behalf of the subject ( the subject must still confirm assent ).
+Subjects who meet all of the following criteria are eligible to enroll in the arm of this trial reserved for subjects with mild cognitive impairment:.
+1. Japanese males or females at least 50 years of age;.
+2. Subjects with complaint of memory or cognitive decline corroborated by an informant;.
+3. Subjects with a Clinical Dementia Rating ( CDR ) of 0.5;.
+4. Subjects with objective cognitive impairment or marginally normal cognition with a documented history of high cognitive performance;.
+5. Have no obvious causes for their cognitive impairment ( e.g., onset coincides with recent head trauma or stroke );.
+6. Have sufficiently preserved general cognition and functional performance such that a diagnosis of AD cannot be made at the time of the screening visit;.
+7. Subjects with essentially normal ADL;.
+8. Subjects who are not demented;.
+9. Subjects with an MMSE score > 24;.
+10. Subjects who are presenting for initial diagnosis of cognitive impairment or who have presented for initial diagnosis of cognitive impairment within the past year;.
+11. Subjects who live with or have regular visits from a responsible caregiver willing to provide information about the subject's cognitive status; and.
+12. Subjects who signed an IRB/IEC approved informed consent prior to any study procedures.
+Subjects who meet all of the following criteria are eligible to enroll in the arm of this trial reserved for cognitively normal volunteers:.
+1. Japanese males or females at least 50 years of age;.
+2. Subjects with an MMSE score >= 29 and are cognitively normal based on history and psychometric test battery at screening;.
+3. Subjects who live with or have a reliable person who can verify their cognitive status; and.
+4. Subjects who signed an IRB/IEC approved informed consent prior to any study procedures.
+Exclusion Criteria:.
+Subjects with any of the following are ineligible to enroll in this trial:.
+1. A documented diagnosis of MCI for greater than 1 year ( for subjects considered for the MCI group );.
+2. Neurodegenerative disorders other than AD, including but not limited to Parkinson's disease, Pick's disease, frontotemporal dementia, Huntington's chorea, Down's syndrome, Creutzfeldt-Jacob disease, normal pressure hydrocephalus and progressive supranuclear palsy;.
+3. Have had or currently have a diagnosis of other dementing / neurodegenerative disease ( e.g. Parkinson's disease, dementia with Lewy bodies, Lewy body variant AD, etc.);.
+4. Have had or currently have a diagnosis of mixed dementia;.
+5. Cognitive impairment resulting from:.
+- Acute cerebral trauma or post-traumatic brain injury, subdural hematoma or injuries secondary to chronic trauma ( e.g. sequela from boxing );.
+- Hypoxic cerebral damage regardless of etiology; e.g. cognitive or neurological deficits resulting from cardiac arrest or cardiac surgery, anesthesia or severe self-poisoning episode, secondary to severe hypovolemia ( orthostatic hypotension should not lead to exclusion );.
+- Vitamin deficiency states documented by medical history such as folate, vitamin B 12 and other B complex deficiencies; e.g. thiamin deficiency in Korsakoff's syndrome. ( Note: subjects taking regular B12 and folate are not necessarily excluded );.
+- Cerebral infection including abscess, syphilis, meningitis, encephalitis or AIDS;.
+- Primary or metastatic cerebral neoplasia;.
+- Significant endocrine or metabolic disease; e.g., thyroid, parathyroid or pituitary disease, Cushing's syndrome or severe renal failure; or.
+- Mental retardation. Before enrolling a subject with past or current history of any of the above conditions, the investigator must contact the sponsor to discuss whether the condition could have contributed to the cognitive impairment.
+6. Clinically significant infarct or possible multi-infarct dementia as defined by the NINCDS criteria, including:.
+- A history of a significant cerebrovascular event resulting in a physical or neurologic deficit that may confound the assessment of the subject's intellectual function;.
+- Multiple focal signs on neurologic examination indicative of multiple ischemic episodes;.
+- One or more of the following findings on a MRI scan:.
+- Multiple ( two or more ) infarcts or white matter lacunes;.
+- A single large infarct or a strategically placed infarct in the angular gyrus, the thalamus, the basal forebrain, the posterior cerebral artery ( PCA ) or anterior cerebral artery ( ACA ) territory;.
+- Extensive periventricular white matter disease. Leukoaraiosis ( periventricular white matter, low attenuation ) should be distinguished from multiple infarctions. Leukoaraiosis is common in normal individuals and patients with AD. White matter deterioration should not result in exclusion unless it is abnormal and widespread, e.g., Binswanger's disease;.
+7. Any evidence on screening MRI, computed tomography ( CT ) or other biomarker studies that suggests an alternate etiology ( other than probable AD in subjects with AD ) for cognitive deficit; or in the case of cognitively normal controls any evidence on screening MRI, CT or other biomarker studies that suggests the presence of AD pathology;.
+8. Current clinically significant psychiatric disease, as judged by Diagnostic and Statistical Manual of Mental Disorders, 4th Edition ( DSM-IV ) criteria, particularly current major depression or schizophrenia. Subjects with dementia who are experiencing behavioral disturbances that may require treatment with psychotropic medications may be entered only after discussion and with the approval of the sponsor. The investigator and sponsor should carefully consider whether subjects with behavioral dysfunction will be able to complete the imaging session;.
+9. History of epilepsy or convulsions, except for febrile convulsions during childhood;.
+10. Clinically significant hepatic, renal, pulmonary, metabolic or endocrine disturbances;.
+11. Current clinically significant cardiovascular disease. Clinically significant cardiovascular disease usually includes one or more of the following:.
+- cardiac surgery or myocardial infarction within the last 6 months;.
+- unstable angina;.
+- coronary artery disease that required an increase in medication within the last 3 months;.
+- decompensated congestive heart failure;.
+- significant cardiac arrhythmia or conduction disturbance, particularly those resulting in atrial or ventricular fibrillation or causing syncope, near syncope or other alterations in mental status;.
+- severe mitral or aortic valvular disease;.
+- uncontrolled high blood pressure;.
+- congenital heart disease;.
+- clinically significant abnormal result on ECG, including but not limited to QTc > 450 msec. Before enrolling a subject with any of the above conditions, the investigator must contact the sponsor.
+12. History of drug or alcohol abuse within the last year or prior prolonged history of abuse;.
+13. Clinically significant infectious disease, including Acquired Immune Deficiency Syndrome ( AIDS ) or Human Immunodeficiency Virus ( HIV ) infection or previous positive test for hepatitis;.
+14. Females of childbearing potential who are not surgically sterile, not refraining from sexual activity or not using reliable methods of contraception. Females of childbearing potential must not be pregnant ( negative serum beta-hCG at the time of screening and negative urine beta-hCG on the day of imaging ) or breastfeeding at screening. Females must agree to avoid becoming pregnant and must agree to refrain from sexual activity or to use reliable contraceptive methods such as prescribed birth control or IUD for 24 hours following administration of florbetapir ( 18F );.
+15. Subjects who, in the opinion of the investigator, are otherwise unsuitable for a study of this type;.
+16. History of relevant severe drug allergy or hypersensitivity;.
+17. Subjects who have received an investigational medication within the last 30 days.
+Additionally, the time between the last dose of the previous experimental medication and enrollment ( completion of screening assessments ) must be at least equal to 5 times the terminal half-life of the previous experimental medication. Subjects who have ever participated in an experimental study with an amyloid targeting therapy ( e.g., immunotherapy, secretase inhibitor ) may not be enrolled unless it can be demonstrated that the subject received only placebo in the course of the trial;.
+18. Subjects with current clinically significant medical comorbidities, as indicated by history, physical exam, ECG ( including but not limited to QTc > 450 msec ) or laboratory evaluations, that might pose a potential safety risk, interfere with the absorption or metabolism of the study medication or limit interpretation of the trial results. These include but are not limited to clinically significant hepatic, renal, pulmonary, metabolic or endocrine disease, cancer, HIV infection and AIDS;.
+19. Subjects who have known hypersensitivity to alcohol; and.
+20. Subjects who received a radiopharmaceutical for imaging or therapy within the past 7 days prior to the imaging session for this study.
+
+>>NCT02059356
+Inclusion Criteria:.
+- cognitive decline ( suspected or documented ).
+- able to get blood drawn.
+Exclusion Criteria:.
+- liver disease/cirrhosis.
+
+>>NCT01249196
+Inclusion Criteria:.
+- Clinical diagnosis of probable Alzheimer's disease ( DSM-IV and NINCDS-ADRDA criteria ).
+- MRI within the last 12 months consistent with a diagnosis of AD.
+- MMSE score of 10 to 26 and CDR of 1 or 2.
+- AChEI or memantine was not taken at least 3 months prior to screening.
+Exclusion Criteria:.
+- Other central nervous disease.
+- Hypothyroidism, Vitamin B12/ Folic acid deficiency, Hypercalcemia, Neurosyphilis, AIDS.
+- T.I.A or Major infarction within the last 12 months.
+- Any serious disorder that could limit the ability of the patient to participate in the study.
+- COPD or asthma.
+- Any condition which would make the patient or the caregiver, in the opinion of the investigator, unsuitable for the study.
+
+>>NCT00267163
+Inclusion Criteria:.
+- Agreement to participate in a 18 month clinical trial.
+- NIMH diagnostic criteria for age-associated memory impairment ( AAMI ).
+- Age 40 to 90 years.
+- MMSE score between 24 and 30 ( unless < 8 years of educational achievement ).
+- No significant cerebrovascular disease - modified Ischemic Score of < 4.
+- The following medications are allowed if stable for > 1 month: antidepressants ( without anticholinergic effects ) if not currently depressed and no history of major depression for 2 years; estrogen replacement therapy; thyroid replacement therapy as long as patient is euthyroid.
+- On entering the study, there must be a family member or potential caregiver available in case the patient develops cognitive impairment that interferes with independent study participation.
+- Memory and verbal fluency cut-off scores increasing the probability of incipient dementia ( Buschke-Fuld - 34; verbal fluency - 46 for letters, 7 for categories; Benton Visual Retention - 5 ).
+- Adequate visual and auditory acuity to allow neuropsychological testing.
+- Screening laboratory tests and ECG without significant abnormalities that might interfere with the study.
+Exclusion Criteria:.
+- Diagnosis of possible or probable AD or any other dementia ( e.g., vascular, Lewy body, frontotemporal ).
+- Evidence of neurologic or other physical illness that could produce cognitive deterioration, including Parkinson's disease; volunteers with a history of TIAs, carotid bruits or lacunes on MRI scan will be excluded.
+- History of myocardial infarction within the previous year or unstable cardiac disease.
+- Uncontrolled hypertension, history of significant liver disease, clinically significant pulmonary disease, diabetes or cancer.
+- Such current major psychiatric disorders as mania, according to DSMIV criteria, within the previous two years.
+- Current diagnosis or history of alcoholism or drug dependence.
+- Evidence of untreated depression.
+- Use of any of the following drugs: centrally active beta-blockers, narcotics, clonidine, anti-Parkinsonian medications, antipsychotics, benzodiazepines, systemic corticosteroids, medications with significant cholinergic or anticholinergic effects, anti-convulsants or warfarin; vitamins other than the standard multivitamin supplement, ginkgo biloba and any nutraceuticals will not be allowed; once enrolled in the study, occasional chloral hydrate use will be allowed but discouraged, for insomnia.
+- Use of any investigational drugs within the previous month or longer, depending on drug half-life.
+- Contraindication for MRI scan ( e.g., metal in body, claustrophobia ).

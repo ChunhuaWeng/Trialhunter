@@ -1,0 +1,3138 @@
+Var1	Freq
+ad	175
+dementia	136
+alzheimer's disease	130
+age	128
+history	76
+mri	71
+stroke	60
+schizophrenia	53
+parkinson's disease	47
+memantine	44
+epilepsy	43
+cognitive impairment	42
+mmse	42
+healthy	38
+major depression	38
+depression	35
+antidepressants	34
+medications	34
+mmse score	34
+bipolar disorder	32
+ecg	29
+pregnant	29
+hypersensitivity	28
+hypertension	28
+donepezil	27
+cancer	26
+cholinesterase inhibitors	26
+claustrophobia	26
+contraindication	26
+mci	26
+head trauma	25
+diabetes	24
+dose	24
+mri scan	24
+multiple sclerosis	24
+myocardial infarction	24
+treatment	24
+vascular dementia	24
+benzodiazepines	23
+seizure disorder	23
+agitation	22
+brain tumor	22
+cerebrovascular disease	22
+disease	22
+huntington's disease	22
+medical condition	22
+nincds-adrda criteria	22
+abnormalities	21
+ct	21
+surgically sterile	21
+contraindications	20
+psychosis	20
+drug	19
+cdr	18
+cholinesterase inhibitor	18
+investigational drug	18
+post-menopausal	18
+cardiovascular disease	17
+childbearing potential	17
+cognitive decline	17
+condition	17
+dsm-iv criteria	17
+galantamine	17
+medical history	17
+medication	17
+normal pressure hydrocephalus	17
+postmenopausal	17
+subdural hematoma	17
+antipsychotics	16
+infection	16
+physical examination	16
+ages	15
+allergy	15
+dsm-iv	15
+neuroleptics	15
+pregnancy	15
+psychiatric disorder	15
+rivastigmine	15
+aged	14
+angina	14
+frontotemporal dementia	14
+pacemakers	14
+seizures	14
+vital signs	14
+body mass index	13
+congestive heart failure	13
+diabetes mellitus	13
+abnormality	12
+dementia of the alzheimer's type	12
+liver disease	12
+medical conditions	12
+mild cognitive impairment	12
+multi-infarct dementia	12
+neurological disease	12
+nincds-adrda	12
+progressive supranuclear palsy	12
+systemic illness	12
+visual and auditory acuity	12
+asthma	11
+clinical dementia rating ( cdr )	11
+drugs	11
+general health	11
+hypothyroidism	11
+illness	11
+lacunes	11
+neurologic disease	11
+psychiatric disease	11
+psychiatric disorders	11
+sedative hypnotics	11
+systolic blood pressure	11
+systolic bp	11
+traumatic brain injury	11
+warfarin	11
+alzheimer's	10
+aspirin	10
+cognition	10
+diastolic blood pressure	10
+glaucoma	10
+hiv	10
+loss of consciousness	10
+mental retardation	10
+pacemaker	10
+psychiatric illness	10
+tacrine	10
+alcohol or substance abuse or dependence	9
+alcoholism	9
+alzheimer's disease ( ad )	9
+aneurysm clips	9
+body mass index ( bmi )	9
+clonidine	9
+delirium	9
+disorder	9
+focal lesions	9
+infarction	9
+investigational drugs	9
+lactating	9
+major depressive disorder	9
+medical or psychiatric illness	9
+psychotropic medication	9
+qtc	9
+structural brain abnormalities	9
+substance abuse	9
+trauma	9
+vitamin b12 deficiency	9
+anti-parkinsonian medications	8
+antidepressant	8
+aricept	8
+blood pressure	8
+bmi	8
+breastfeeding	8
+chronic anxiolytics	8
+creatinine clearance	8
+diseases	8
+down syndrome	8
+geriatric depression scale	8
+hallucinations	8
+hypoxic brain damage	8
+malignancy	8
+metal implants	8
+mini-mental state examination ( mmse )	8
+modified hachinski ischemia score	8
+neurodegenerative disorders	8
+neurological disorder	8
+pet	8
+prostate cancer	8
+renal failure	8
+seizure	8
+vitamin e	8
+vitamins	8
+aggression	7
+aids	7
+alcohol	7
+alcohol or substance abuse	7
+alt	7
+alzheimer disease	7
+anti-convulsants	7
+anxiolytics	7
+ast	7
+brain surgery	7
+cardiac disease	7
+clinical dementia rating	7
+clinical laboratory tests	7
+delusions	7
+estrogen replacement therapy	7
+hba1c	7
+head injury with loss of consciousness	7
+infectious disease	7
+investigational medications	7
+lithium	7
+lumbar puncture	7
+major depressive episode	7
+mini mental state examination ( mmse ) score	7
+mixed dementia	7
+neurodegenerative disease	7
+nincds/adrda criteria	7
+pregnancy test	7
+psychoactive medication	7
+surgery	7
+syncope	7
+systemic corticosteroids	7
+thyroid disease	7
+acetylcholinesterase inhibitors	6
+achei	6
+anticholinergic side effects	6
+anticonvulsants	6
+artificial heart valves	6
+basal cell carcinoma	6
+cardiac surgery	6
+coagulopathy	6
+contraindicated	6
+coronary artery disease	6
+dementia with lewy bodies	6
+dementias	6
+diastolic	6
+diastolic bp	6
+drug abuse	6
+drug or alcohol abuse	6
+encephalitis	6
+evidence	6
+excretion	6
+exelon	6
+ftd	6
+head injury	6
+heart disease	6
+hepatic, renal, pulmonary, metabolic or endocrine disturbances	6
+hepatitis	6
+hypnotics	6
+investigational agent	6
+laboratory tests	6
+magnetic resonance imaging	6
+medical illness	6
+memory box score	6
+memory complaints	6
+memory impairment	6
+meningitis	6
+metabolism	6
+mini-mental state exam ( mmse ) score	6
+mini-mental state examination ( mmse ) score	6
+neurodegenerative diseases	6
+neurologic defaults	6
+neurosyphilis	6
+osteoporosis	6
+permitted medications	6
+pet scan	6
+pick's disease	6
+reminyl	6
+renal disease	6
+risk	6
+sedatives	6
+surgically sterilized	6
+venlafaxine	6
+12 -lead ecg	5
+12 -lead electrocardiogram ( ecg )	5
+adverse reaction	5
+alcohol abuse	5
+alcohol or drug abuse	5
+allergic	5
+anaemia	5
+arrhythmias	5
+barbiturates	5
+bilirubin	5
+brain damage	5
+brain disease	5
+carbamazepine	5
+causes of dementia	5
+cochlear implants	5
+cognitive deficit	5
+cognitive function	5
+cognitively normal	5
+conditions	5
+coumadin	5
+diameter	5
+doses	5
+dsm iv - tr	5
+dsm iv criteria	5
+ear implants	5
+gds	5
+infarct	5
+insulin	5
+investigational medication	5
+laboratory abnormality	5
+lewy body dementia	5
+life expectancy	5
+medical or psychiatric condition	5
+memory problems	5
+metal fragments	5
+mini-mental state examination score	5
+modified hachinski score	5
+narcotic analgesics	5
+narcotics	5
+neuroimaging	5
+psychoactive medications	5
+psychotic disorder	5
+psychotic features	5
+radioactive agents	5
+schizoaffective disorder	5
+serum creatinine	5
+suicidal ideation	5
+suicide risk	5
+tia	5
+total bilirubin	5
+transient ischemic attack	5
+trazodone	5
+tricyclic antidepressants	5
+urinalysis	5
+absorption	4
+acheis	4
+amantadine	4
+anticoagulants	4
+antipsychotic	4
+antipsychotic medication	4
+anxiety	4
+anxiety disorder	4
+atrial fibrillation	4
+b12	4
+behavioral disturbances	4
+behavioral problems	4
+bipolar affective disorder	4
+body weight	4
+brain mri	4
+bupropion	4
+cardiac pacemaker	4
+centrally active beta-blockers	4
+cervical carcinoma in situ	4
+clinical dementia rating scale	4
+cns disorder	4
+cognitive deficits	4
+convulsions	4
+csf	4
+demented	4
+depressive disorder	4
+dexa measure	4
+dietary supplements	4
+dosing	4
+drug allergies	4
+drug allergy	4
+dsm-iv-tr	4
+exendin- 4	4
+focal brain lesion	4
+foreign objects	4
+gingko biloba	4
+ginkgo biloba	4
+good health	4
+hb	4
+health	4
+heart rate	4
+hepatitis b	4
+hepatitis c	4
+hydrocephalus	4
+hypoxia	4
+intervention	4
+intolerance	4
+investigational agents	4
+lacunar infarct	4
+left bundle branch block	4
+male	4
+mania	4
+memory function score	4
+metal	4
+mild cognitive impairment ( mci )	4
+mood disorder	4
+multiple lacunes	4
+namenda	4
+neurological disorders	4
+non-childbearing potential	4
+parkinson disease	4
+presence	4
+psychotic disorders	4
+pulmonary disease	4
+selegiline	4
+smoke	4
+smoking	4
+syphilis	4
+systemic disease	4
+tms	4
+total body weight	4
+total radiation dose exposure	4
+urine drug screen	4
+vision and hearing	4
+vitamin deficiency	4
+wechsler memory scale	4
+weight	4
+acetylcholinesterase inhibitor	3
+ad dementia	3
+addiction	3
+alzheimer s disease	3
+alzheimers disease	3
+amci	3
+amnestic mci	3
+antipsychotic treatment	3
+apathy	3
+arrhythmia	3
+beta-blockers	3
+bleeding disorder	3
+brain lesion	3
+brain scan	3
+brain trauma	3
+breast cancer	3
+breast-feeding	3
+bundle branch block	3
+cdr score	3
+child-bearing potential	3
+cholinergic or anticholinergic side effects	3
+cirrhosis	3
+citalopram	3
+clinical dementia rating score	3
+cns infection	3
+cognex	3
+cognitive deterioration	3
+cognitive dysfunction	3
+cognitively	3
+computed tomography	3
+contra-indication	3
+contra-indications	3
+cortical stroke	3
+craniotomy	3
+cromolyn	3
+ct scan	3
+dbp	3
+death	3
+decompensated congestive heart failure	3
+depressive episode	3
+distribution	3
+dosage	3
+drug dependence	3
+dsm-iv tr criteria	3
+ecg abnormalities	3
+endocrine disease	3
+estrogen	3
+excipients	3
+expected survival	3
+fazekas score	3
+female	3
+gastro-intestinal, hepatic or renal disease	3
+gastrointestinal bleeding	3
+gastrointestinal disorder	3
+grapefruit	3
+haematology	3
+hemorrhage	3
+hepatic insufficiency	3
+hepatobiliary disease	3
+high blood pressure	3
+hypodensity	3
+ibuprofen	3
+illicit drugs	3
+immunoglobulin treatment	3
+impairment	3
+implantable cardioverter defibrillator	3
+implants	3
+intracranial pressure	3
+investigational device	3
+laboratory	3
+liver function tests	3
+lorazepam	3
+lumbar puncture ( lp )	3
+major surgery	3
+malignant disease	3
+mao inhibitors	3
+medical disease	3
+medications with significant cholinergic or anticholinergic effects	3
+memory complaint	3
+menopause	3
+mental illness	3
+methylphenidate	3
+mini mental state examination ( mmse )	3
+mini-mental state exam	3
+mini-mental state examination	3
+mitral or aortic valvular disease	3
+moca score	3
+modified hachinski ischemic score	3
+modified ischemic score	3
+mri scans	3
+near syncope	3
+neoplastic disease	3
+neurological examination	3
+neurological or psychiatric illness	3
+nincds criteria	3
+nursing	3
+of childbearing potential	3
+opioids	3
+osteoporosis/osteopenia	3
+paracetamol	3
+parkinsonism	3
+pathology	3
+peptic ulcer	3
+peptic ulcer disease	3
+percutaneous coronary intervention	3
+periventricular hyperintensities	3
+pet scanning	3
+platelet count	3
+pregnancy testing	3
+primary progressive aphasia	3
+procedures	3
+prodromal ad	3
+psychoactive drugs	3
+psychostimulants	3
+psychotropic drugs	3
+psychotropic medications	3
+razadyne	3
+renal impairment	3
+renal insufficiency	3
+risk factors	3
+rivastigmine transdermal system	3
+rosen modified hachinski score	3
+sbp	3
+scopolamine	3
+secondary dementia	3
+serology	3
+sleep disturbance	3
+smoker	3
+subjective memory concern	3
+substances	3
+syphilis serology	3
+t-score	3
+thrombosis	3
+thyroid abnormalities	3
+thyroid dysfunction	3
+tias	3
+tobacco	3
+tsh	3
+tumor	3
+urine pregnancy test	3
+vaccine	3
+visual acuity	3
+visual or hearing impairment	3
+vital sign measurements	3
+vitamin b12	3
+vitamin b12 or folate deficiency	3
+12-lead ecg	2
+abuse	2
+abuse or dependence on alcohol or other substances	2
+acquired immune deficiency syndrome	2
+adjustment disorder	2
+adl	2
+adverse events	2
+age-related macular degeneration	2
+agents	2
+alanine aminotransferase	2
+alcohol breath test	2
+alcohol or other substance abuse	2
+alcohol/drug abuse	2
+aldomet	2
+alkaline phosphatase	2
+alkaline phosphatase values	2
+allergic conditions	2
+allopurinol	2
+alterations in mental status	2
+alzheimer	2
+alzheimer's dementia	2
+alzheimer's diseas	2
+amyloid deposition	2
+amyloid imaging with florbetapir f 18	2
+amyloid targeting agent	2
+analgesics	2
+anaphylaxis	2
+anemia	2
+angiography plus stenting	2
+anti-amyloid immunotherapy	2
+anti-depressants	2
+anticoagulation	2
+anticoagulation therapy	2
+antidementia drugs	2
+antihistamines	2
+anxiolytic	2
+aphasia	2
+arterial hypertension	2
+arthritis	2
+aspartate aminotransferase	2
+aspartate aminotransferase ( ast )	2
+atomoxetine	2
+atrial or ventricular fibrillation	2
+atypical antipsychotics	2
+autoimmune disease	2
+axis i diagnosis	2
+axis i disorder	2
+back pain	2
+back surgery	2
+baseline ekg	2
+beta-blocking agents	2
+biomarker	2
+biomarker studies	2
+bleeding disorders	2
+blindness	2
+blood chemistry	2
+blood donation	2
+blood tests	2
+bone fracture	2
+bone marrow transplant	2
+bradycardia	2
+brain cancer	2
+brain disorder	2
+brain imaging study	2
+brain infection	2
+brain infections	2
+brain injury	2
+brain tumors	2
+breast feeding	2
+brief cognitive screener	2
+bromocriptine	2
+buprenorphine transdermal patch	2
+c-ssrs	2
+caffeinated drinks	2
+caffeine	2
+cardiac arrest	2
+cardiac arrhythmia	2
+cardiac arrhythmias	2
+cardiac pacemakers	2
+cardiopulmonary resuscitation	2
+cardiovascular event	2
+cardiovascular, hepatic or renal disease	2
+carotid bruits	2
+cause of dementia	2
+central nervous disease	2
+central nervous system ( cns ) disorder	2
+central nervous system ( cns ) medications	2
+central nervous system infection	2
+centrally acting antihypertensive agents	2
+cerebral hypoxia	2
+cerebral injuries	2
+cerebral microhemorrhages	2
+cerebral neoplasia	2
+cerebral trauma	2
+cerebrovascular event	2
+chemotherapy	2
+chest x-ray	2
+chf	2
+child bearing potential	2
+child-pugh class b/c	2
+cholinergic side effects	2
+cl	2
+claudication	2
+claustrophobic	2
+clinical dementia rating ( cdr ) score	2
+clinical dementia rating ( cdr ) total score	2
+clinical dementia rating (cdr)	2
+clinical depression	2
+clinical evaluation	2
+clinical laboratory values	2
+clinical stroke	2
+clozapine	2
+co-morbidities	2
+cocaine	2
+cognitive disorders	2
+cognitive performance	2
+cognitively normal ( cn )	2
+comatose state	2
+complete physical examination	2
+conduction defects	2
+conduction disturbance	2
+congenital heart disease	2
+congenital long qt syndrome	2
+congestive heart failure ( chf )	2
+copd	2
+cornell scale	2
+coronary revascularization	2
+cortical infarct	2
+corticobasal degeneration	2
+corticosteroids	2
+cranberry	2
+craniectomy	2
+creatinine	2
+creutzfeldt-jacob disease	2
+csdd	2
+csf examination	2
+cushing's syndrome	2
+cutaneous squamous cell carcinoma in situ	2
+cva	2
+dabigatran	2
+danazol	2
+deafness	2
+deficits	2
+dementia of the alzheimer type	2
+dementia with psychotic features	2
+dementing / neurodegenerative disease	2
+depressed	2
+devices	2
+dextroamphetamine	2
+diagnostic and statistical manual of mental disorders ( dsm-iv )	2
+diagnostic and statistical manual of mental disorders, fourth edition ( dsm-iv )	2
+diffuse lewy body dementia	2
+disability	2
+disorders	2
+donated blood	2
+drug or alcohol abuse or dependence	2
+drug or alcohol abuse/dependence	2
+drug, alcohol or medicine abuse	2
+drugs of abuse	2
+dsm iv	2
+dsm v criteria	2
+dsm-iv categories	2
+dsm-iv-tr criteria	2
+duloxetine	2
+edema	2
+ekg	2
+electrocardiogram	2
+electrocardiograph ( ecg )	2
+electroshock therapy	2
+endocrine or metabolic disease	2
+epileptiform features	2
+euthyroid	2
+exotic citrus fruits	2
+experimental drug	2
+experimental medication	2
+eye disease	2
+familial autosomal dominant ad	2
+fast score	2
+fdg pet scan	2
+febrile convulsions	2
+febrile seizure	2
+febrile seizures	2
+fits	2
+flurbiprofen	2
+focal signs	2
+folic acid deficiency	2
+formulation	2
+fronto-temporal dementia	2
+frontotemporal	2
+full physical examination	2
+gastrectomy	2
+gastrointestinal surgery	2
+gastrointestinal, cardiovascular, hepatic, renal, hematological, neoplastic, endocrine, neurological, immunodeficiency, pulmonary or other disorder or disease	2
+general cognitive function	2
+geriatric depression scale ( 30 -point scale ) score	2
+geriatric depression scales ( gds )	2
+gfr	2
+gleason grade	2
+global deterioration scale ( gds )	2
+goserelin	2
+hachinski ischemia scale score	2
+hachinski ischemic score	2
+haemoglobin	2
+hamd	2
+hamd score	2
+hamilton depression rating scale score	2
+hamilton depression scale score	2
+head trauma with loss of consciousness	2
+heart failure	2
+hematological, renal, endocrine, pulmonary, gastrointestinal, cardiovascular, hepatic, psychiatric, neurologic or allergic disease	2
+hematology	2
+hemispheric stroke	2
+hemoglobin	2
+hepatitis b or c	2
+hepatitis b or c or cirrhosis	2
+hepatitis b surface antigen	2
+hepatitis c antibody	2
+herbal	2
+heroin	2
+hoehn & yahr stage	2
+homocysteine	2
+human blood product	2
+human immunodeficiency virus ( hiv )	2
+human immunodeficiency virus ( hiv ) infection	2
+huntington disease	2
+huntington's chorea	2
+hypnotic	2
+hypoglycemia	2
+hypotension	2
+hypoxic cerebral damage	2
+hypoxic damage	2
+hysterectomy	2
+icd - 10	2
+immunosuppressants	2
+immunosuppression	2
+immunosuppressive drugs	2
+impaired liver or kidney function	2
+in situ prostate cancer	2
+indomethacin	2
+infectious or inflammatory/demyelinating cns conditions	2
+inflammatory disease	2
+injuries	2
+injury	2
+international classification of diseases ( icd ) - 10	2
+intolerability	2
+intra-ocular pressure	2
+intravenous immunoglobulin	2
+invasive medical device	2
+investigational new drug	2
+investigational pharmaceutical product	2
+investigational treatment	2
+iodine	2
+ischemia	2
+ketoconazole	2
+kidney dialysis	2
+korean version mini-mental state examination scores	2
+laboratory evaluations	2
+laboratory test results	2
+laboratory value	2
+laboratory values	2
+lactose intolerance	2
+lacunar infarcts	2
+language difficulties	2
+learning disability	2
+lesions	2
+leukoaraiosis	2
+lewy body	2
+lithium treatment	2
+liver function test	2
+liver impairment	2
+local anesthetics	2
+localized prostate cancer	2
+lower back pain	2
+lung disease	2
+madrs score	2
+magnetic resonance imaging ( mri )	2
+major psychiatric disorder	2
+medical condition/circumstances	2
+medical disease/disorder	2
+medical disorder	2
+medical illnesses	2
+melanoma	2
+memory	2
+memory concern	2
+memory dysfunction	2
+menstrual period	2
+mental disorder	2
+metastases	2
+methemoglobinemia	2
+methyldopa	2
+methylmalonic acid	2
+mi	2
+microhemorrhages	2
+migraines	2
+mineral supplements	2
+minerals	2
+mini mental state examination	2
+mini mental state examination (mmse) score	2
+mini-mental state examination (mmse) score	2
+mini-mental status exam score	2
+mini-mental status examination ( mmse ) score	2
+mmse scores	2
+mmse total score	2
+modafinil	2
+modified hachinski ischemia scale	2
+modified hachinski ischemia scale score	2
+modified hachinski ischemic scale score	2
+montreal cognitive assessment ( moca ) score	2
+mood stabilizers	2
+mri brain imaging	2
+mri scanning	2
+ms	2
+multi-vitamins	2
+myelosuppression	2
+national institute of neurological and communicative disorders and stroke/alzheimer's disease and related disorders association ( nincds/adrda ) criteria	2
+national institute of neurological disorders-alzheimer's disease and related disorders association ( ninds-adrda ) criteria	2
+nerve syphilis	2
+neurodegenerative disorder	2
+neurologic deficits	2
+neurologic disorders	2
+neurological exam	2
+neurological or psychiatric condition	2
+neurological or psychiatric conditions	2
+neurological-, cardiovascular-, gastrointestinal- or genitourinary disorders	2
+neuropsychiatric inventory ( npi )	2
+neuropsychologic disturbances	2
+neutropenia	2
+new york heart association criteria	2
+nia-aa criteria	2
+nicotine	2
+nicotine or caffeine use	2
+nicotine-containing products	2
+non q-wave myocardial infarction	2
+non-ad dementia	2
+non-alzheimer dementia	2
+non-child bearing potential	2
+non-compliance	2
+non-metastatic skin cancers	2
+non-pregnant	2
+non-prescribed drugs of abuse	2
+nonchildbearing potential	2
+nonhormonal contraception	2
+nonsteroidal anti-inflammatory drugs	2
+nonsteroidal medication	2
+npi subscale	2
+nyha	2
+obstructive pulmonary disease	2
+of vascular origin	2
+omeprazole	2
+oophorectomy	2
+organ failure	2
+organic disease	2
+orthostatic hypotension	2
+oxazepam	2
+panic disorder	2
+pdd	2
+pergolide	2
+peripheral oedema	2
+phenobarbital	2
+phenothiazines	2
+phenytoin	2
+phlebotomy	2
+physical conditions	2
+physical exam	2
+physical illness	2
+physical illnesses	2
+physical problems	2
+physical- or neurological examination	2
+platelet counts	2
+pomegranate	2
+pomelos	2
+positron emission tomography ( pet )	2
+pre-study psychological assessment	2
+prescription medication	2
+prescription or nonprescription drugs	2
+prodromal dementia	2
+prostheses	2
+proton pump inhibitors	2
+psychiatric condition	2
+psychiatric conditions	2
+psychiatric or neurological disorder	2
+psychiatric or neurological disorders	2
+psychoactive, recreational or prescription drug	2
+psychometric testing	2
+psychotic symptoms	2
+pulse rate measurement	2
+pyridostigmine	2
+q-wave myocardial infarction	2
+qtc prolongation	2
+quinidine	2
+radiopharmaceutical imaging	2
+radiopharmaceutical imaging or treatment	2
+recreational drug	2
+renal function tests	2
+reproductive potential	2
+residual neurological deficits	2
+retinoids	2
+rheumatoid arthritis	2
+rifampin	2
+risperidone	2
+scanning	2
+scoliosis	2
+screening laboratory tests	2
+seasonal allergies	2
+secretase inhibitor	2
+selective serotonin reuptake inhibitors	2
+sensitivity	2
+sensory deficit	2
+sensory impairment	2
+serum glucose	2
+serum gonadotropin ( gn ) concentrations	2
+serum levels of thyroid stimulating hormone ( tsh )	2
+serum vitamin b12	2
+seville oranges	2
+shock	2
+simple phobias	2
+sinemet	2
+size	2
+sleep disorder	2
+ssri	2
+st. john's wort	2
+standard laboratory tests	2
+star fruit	2
+statins	2
+sterilized	2
+stimulant	2
+strokes	2
+structural abnormalities	2
+structural abnormality	2
+study drugs	2
+study medication	2
+subcortical disease	2
+subcortical lacunar infarcts	2
+subjective memory complaints	2
+substance abuse/dependence	2
+substantial memory complaints	2
+sudden death	2
+suicidal behavior	2
+suicide attempt	2
+sulindac sulfide	2
+supine heart rate	2
+supplements	2
+supranuclear palsy	2
+surgery involving metal implants	2
+surgical clips	2
+symptomatic cardiovascular disease	2
+symptomatic orthostatic hypotension	2
+systemic steroids	2
+systolic	2
+tfts	2
+therapy	2
+thrombocytopenia	2
+thyroid	2
+thyroid replacement therapy	2
+thyroid stimulating hormone	2
+thyroid tests	2
+thyroid, parathyroid or pituitary disease	2
+tms treatment	2
+tobacco- or nicotine-containing products	2
+total bilirubin values	2
+treatment procedure	2
+tricyclics	2
+tropicamide	2
+unipolar and bipolar disorders	2
+urine drug test	2
+urine or blood pregnancy test	2
+urine or serum pregnancy test	2
+uti	2
+vascular	2
+vascular disease	2
+vascular disorders	2
+vascular surgery	2
+ventricular fibrillation	2
+ventricular tachycardia	2
+viral hepatitis	2
+viral infection	2
+vision	2
+visual and auditory abilities	2
+vitamin	2
+vitamin b12 level	2
+washout	2
+wbc	2
+weight loss	2
+-glutamyl transferase	1
+-gt	1
+-secretase or  -secretase inhibitor	1
+"conventional" antipsychotic	1
+"epileptiform" baseline eeg	1
+"mixed" dementia	1
+[18f]flutemetamol	1
+11c pib-pet imaging	1
+12 -lead ekg	1
+12 lead ecg	1
+12-lead electrocardiogram	1
+15 wlt	1
+1st degree heart block	1
+2nd or 3rd degree heart block	1
+3aps	1
+3ms-r	1
+3t mri	1
+60 item naming section of the boston diagnostic aphasia	1
+95% ci	1
+aami	1
+abdominal surgery	1
+abdominal, cranial or neck radiotherapy	1
+aberrant motor behavior	1
+abnormal findings	1
+abnormal thyroid function	1
+abnormalities in b12 or tfts	1
+aboratory finding	1
+abpm	1
+abpm measurement	1
+abscess	1
+absolute neutrophil count	1
+absolute neutrophil count (anc)	1
+absolute neutrophils count	1
+absorptiometry	1
+absorption distribution	1
+abuse of alcohol	1
+abuse of alcohol and drugs	1
+abuse of alcohol, medication or drugs	1
+abuse of drugs or alcohol	1
+abuse of other substances	1
+ace score	1
+acethylcholinesterae inhibitor	1
+acetylcholine esterase inhibitors	1
+acetylcholinesterase inhibitor ( achei )	1
+acetylsalicylic acid	1
+achalasia	1
+ache inhibitor	1
+ache inhibitors	1
+ache inhibitors+/-memantine	1
+acitretin	1
+acquired immune deficiency syndrome ( aids )	1
+actigraphy recording	1
+active peptic ulcer	1
+acute coronary syndrome	1
+ad (alzheimer's disease)	1
+ad immunization study	1
+ad immunotherapy	1
+ad medication(s)	1
+ad pathology	1
+ad treatments	1
+ad vaccine study	1
+adas-cog	1
+adderall	1
+additional diseases	1
+additives of sunphenon egcg	1
+adni-go	1
+adni1	1
+adult asthma	1
+adverse effects	1
+adverse reactions	1
+adverse renal effects	1
+advil	1
+af	1
+age associated memory impairment	1
+age of cognitive symptom onset	1
+age of onset	1
+age-associated memory impairment	1
+age-related disorders	1
+age-related white matter changes (arwmc) scale	1
+agent	1
+agitation symptoms	1
+agitation/aggression item of the npi-nh	1
+agitation/aggression subscale	1
+aids or hiv infection	1
+aids related complications	1
+akinesia	1
+alanine aminotranferase ( alt )	1
+alanine aminotransferase ( alt )	1
+alanine aminotransferase (alt)	1
+alanine transaminase ( alt )	1
+albinism	1
+alcohol abuse or dependence	1
+alcohol and/or drug abuse	1
+alcohol and/or substance abuse or dependence	1
+alcohol or drug abuse or dependence	1
+alcohol or drug abuse/dependence	1
+alcohol or drugs abuse	1
+alcohol or other drug dependence	1
+alcohol or other substance dependence	1
+alcohol or substance abuse/dependence	1
+alcohol or substance dependence	1
+alcohol, cotinine or drugs of abuse	1
+alcohol/substance abuse	1
+alcoholism or drug addiction	1
+alkaline phosphatase ( ap )	1
+alkaline phosphates	1
+alleges	1
+allergic reaction	1
+allergies	1
+allergy or adverse reaction	1
+allergy/intolerance	1
+alp	1
+alpha- 1 blockers	1
+alterations of mental status	1
+altered cerebral metabolism	1
+altered consciousness	1
+alternagel	1
+alu-tab	1
+alzheimer's disease and related disorders association ( adrda )	1
+alzheimer's disease and related disorders association (adrda)	1
+alzheimer's disease assessment scale - japan cognitive subscale ( adas-j cog ) score	1
+alzheimer's disease assessment scale cognitive subscale (adas-cog) score	1
+alzheimer's disease therapy	1
+alzheimer's disease/dementia	1
+alzheimer's early-stage, sporadic-type	1
+alzheimer's therapy	1
+alzheimer's-like dementia	1
+alzheimers disease (ad)	1
+alzheimers disease therapies	1
+amantadin	1
+amentia	1
+american heart association-american stroke association ( aha-asa ) criteria	1
+amitryptiline	1
+amnestic mild cognitive impairment	1
+amnestic mild cognitive impairment ( amci )	1
+amnestic or multi-domain mci	1
+amnestic or non-amnestic mild cognitive impairment	1
+amphetamine mixed salts	1
+amphetamine product	1
+amphetamines	1
+amphojel	1
+amyloid (a)-beta	1
+amyloid imaging	1
+amyloid imaging scan	1
+amyloid imaging with florbetapir	1
+amyloid pet	1
+amyloid pet status	1
+amyloid targeting therapy	1
+amyotrophic lateral sclerosis	1
+anaesthesia	1
+anaphylactic reaction	1
+anesthesia	1
+aneurysm	1
+angina at rest	1
+angina pectoris	1
+antacids	1
+anti-amyloid mabs	1
+anti-amyloid monoclonal antibodies [mabs]	1
+anti-angina medication	1
+anti-arrhythmic agent	1
+anti-asthmatic medication ( s )	1
+anti-cd20 therapy	1
+anti-coagulant agent	1
+anti-coagulant therapy	1
+anti-dementia drugs	1
+anti-dementiva	1
+anti-depressant	1
+anti-depressant medications	1
+anti-epileptic medications	1
+anti-epileptics	1
+anti-il-1	1
+anti-platelet agent	1
+anti-platelet medications	1
+anti-platelet or anticoagulant therapy	1
+anti-psychotic drugs	1
+anti-psychotic medications	1
+anti-psychotics	1
+anti-tnf	1
+anti-ulcer antacids	1
+anticholinergic drugs	1
+anticholinergic effects	1
+anticholinergic medication	1
+anticholinesterase drugs	1
+anticholinesterasic treatments	1
+anticoagulant therapy	1
+antidepressant medication	1
+antidepressant medications	1
+antidepressive treatment	1
+antidepressives	1
+antiepileptic drug (aed)	1
+antihypertensive medication	1
+antihypertensive therapy	1
+antihypertensives	1
+antimalarial agents	1
+antimicrobial therapy	1
+antimycotics of the azol-type	1
+antiparkinsonian agents	1
+antiphospholipid syndrome	1
+antiplatelet drugs	1
+antiplatelets	1
+antipsychotic drugs	1
+antipsychotic medications	1
+antipsychotics medications	1
+antipsychotics/neuroleptics	1
+anxiety disorders	1
+anxiety/insomnia	1
+aortic and mitral stenosis	1
+aortic aneurysm	1
+apathy evaluation scale ( aes ) score	1
+apathy scale	1
+apoe 4 allele	1
+apolipoprotein e	1
+appetite depressants	1
+approved ad medications	1
+approved medication	1
+approved treatments	1
+arachnoid cyst	1
+arrhythmia tendency	1
+arteriosclerosis	1
+asa	1
+asat/alat	1
+aspartate aminotransferase (ast)	1
+aspartate transaminase ( ast )	1
+aspirin containing products	1
+assessments	1
+associated cognitive symptoms	1
+asymptomatic, seasonal allergies	1
+asymptomatice bifascicular block	1
+at iii deficiency	1
+atherosclerosis	1
+atopic dermatitis	1
+atorvastatin	1
+atrial ectopic beats	1
+atrial fibrillation of unstable angina	1
+atrio-ventricular [av] block	1
+atrio-ventricular [av] block second degree or higher	1
+atrio-ventricular block	1
+atrophy	1
+attention deficit disorder	1
+atypical ad	1
+atypical dementia	1
+auditory and/or visual impairment	1
+auditory deficits	1
+autoimmune	1
+autoimmune or neuro-immunologic disorder	1
+autoimmune or neuroimmunologic disorder	1
+axis 1 psychiatric disorders	1
+axis i psychiatric diagnoses	1
+axis i psychiatric disorder	1
+b cell absolute counts	1
+b surface antigen	1
+b12 or folate deficiency	1
+bacterial infection	1
+barcelona test ii	1
+basal cell or squamous cell cancer	1
+basal cell or squamous cell cancer of the skin	1
+basal cell or squamous cell carcinoma of the skin	1
+basal cell or squamous cell skin cancer	1
+basal or squamous cell carcinoma	1
+basal or squamous cell carcinoma in situ of the skin	1
+basal or squamous cell skin cancer	1
+baseline electroencephalogram	1
+baseline eye exam	1
+baseline physical examination	1
+be venipunctured	1
+beck depression inventory	1
+behave-ad global rating	1
+behave-ad psychosis subscale	1
+behave-ad total score	1
+behavior disturbances	1
+behavior or laboratory abnormality	1
+behavioral and psychological symptoms	1
+behavioral dysfunction	1
+behavioral medications	1
+behavioral pathology in alzheimer's disease rating scale score	1
+behavioral symptoms	1
+behavioural or cognitive symptoms	1
+benign lesions	1
+benign prostatic hypertrophy	1
+benton visual retention	1
+benzodiazepine	1
+benzodiazepine addiction	1
+bepridil	1
+beta amyloid imaging scan	1
+beta blockers	1
+beta secretase cleaving enzyme ( bace ) inhibitors	1
+beta-blocker	1
+beta2 adrenergic drug	1
+binswanger's disease	1
+biologic	1
+biologic, therapeutic device	1
+biomarkers	1
+bipolar 1 disorder	1
+black-outs	1
+bladder outlet obstruction	1
+bleeding diathesis	1
+bleeding of unclear origin or of blood clotting	1
+blind	1
+blood analyses	1
+blood borne disease	1
+blood clotting	1
+blood coagulation disorder	1
+blood components	1
+blood draws	1
+blood glucose	1
+blood or csf sampling	1
+blood samples	1
+blood supply	1
+blood work screen	1
+blood, kidney, glandular, lung, stomach, intestine, heart, blood vessel, liver, psychiatric, nerve or allergic problems	1
+blot clots	1
+body mass index (bmi)	1
+body tattoos	1
+bp	1
+bp measurements	1
+brain abnormalities	1
+brain abnormality	1
+brain amyloid pathology	1
+brain atrophy	1
+brain ct	1
+brain diseases	1
+brain disorders	1
+brain dopamine	1
+brain herniation	1
+brain image	1
+brain imaging	1
+brain imaging studies	1
+brain infarction	1
+brain injuries	1
+brain lesions	1
+brain mri scan	1
+brain mri scans	1
+brain tumour	1
+brain vascular disease	1
+brain vascular disturbance	1
+brazilian version of the clinical dementia rating	1
+brief praxis test	1
+broccoli	1
+bromide	1
+bronchospasm	1
+brussel sprouts	1
+bun	1
+bupropion treatment	1
+buschke-fuld	1
+buspirone	1
+butyrophenones	1
+cad	1
+caffeine containing beverages	1
+calcium channel blocker	1
+cancer in treatment	1
+cancer of reproductive tissues	1
+cancer therapy	1
+cancer treatment	1
+cancers	1
+cannabis	1
+carbamazepin	1
+carbidopa	1
+carbonic anhydrase inhibitors	1
+carcinoma in situ	1
+carcinoma in situ of the cervix	1
+cardiac abnormalities	1
+cardiac conduction abnormalities	1
+cardiac dysfunction	1
+cardiac enzyme elevation	1
+cardiac failure	1
+cardiac pace maker	1
+cardiac problems	1
+cardiac status	1
+cardiac, hepatic or renal impairment	1
+cardiac, pulmonary, renal, hepatic, endocrine, hematologic or active malignancy	1
+cardiac, pulmonary, renal, hepatic, endocrine, or other systemic disease	1
+cardiac, respiratory, gastrointestinal, renal disease	1
+cardiac, vascular, pulmonary, gastrointestinal, endocrine, neurologic, hematologic, rheumatologic, psychiatric or metabolic disturbances	1
+cardiac, vascular, pulmonary, gastrointestinal, endocrine, neurologic, hematologic, rheumatologic, psychiatric, dermatological ( at the puncture site ) or metabolic disturbances	1
+cardiomyopathy	1
+cardiopathy	1
+cardiopulmonary disease	1
+cardiovascular diseases	1
+cardiovascular events	1
+cardiovascular illnesses	1
+cardiovascular or cerebrovascular disease	1
+cardiovascular, gastro-intestinal, hepatic or renal disease	1
+cardiovascular, hepatic, renal, gastroenterologic, respiratory, endocrinologic, neurologic, psychiatric, immunologic or hematologic disease	1
+cardiovascular, hepatic, renal, respiratory, endocrine, neurological or hematological disease	1
+cardiovascular, hepatic, renal, respiratory, gastrointestinal ( gi ), endocrine, immunologic, dermatologic, hematologic, neurologic or psychiatric disease	1
+cardiovascular, hepatic, renal, respiratory, gastrointestinal, endocrine, immunologic, dermatologic, hematologic, neurologic or psychiatric disease	1
+cardiovascular, respiratory, renal, hematological, endocrinological, neurological or other somatic disease	1
+cardioversion	1
+carotid revascularization	1
+carotid surgery	1
+carrying an apoe 4 allele	1
+carvedilol	1
+carvediol	1
+cat scan	1
+category fluency ( animals )	1
+cbc	1
+cdr ( clinical dementia rating ) score	1
+central nervous system ( cns ) lymphoma	1
+central nervous system diseases	1
+central nervous system imaging	1
+central nervous system tumor	1
+cerad behavioral rating scale	1
+cerebral abscesses	1
+cerebral amyloid angiopathy	1
+cerebral arteriovenous malformation	1
+cerebral chemotherapy	1
+cerebral circulation/metabolism	1
+cerebral contusion encephalomalacia	1
+cerebral damage	1
+cerebral hypoperfusion	1
+cerebral infection	1
+cerebral mass	1
+cerebral substance defect	1
+cerebral vascular event	1
+cerebrospinal fluid	1
+cerebrospinal fluid ( csf ) amyloid ( a )-beta 1 - 42 levels	1
+cerebrospinal fluid (csf) biomarker	1
+cerebrospinal fluid examination	1
+cerebrospinal fluid profile	1
+cerebrovascular clip	1
+cerebrovascular condition	1
+cerebrovascular disease ( cvd )	1
+cerebrovascular diseases	1
+cerefolin nac	1
+charbroiled meats	1
+chemistry	1
+chemotherapeutic agents	1
+chest pain of unclear etiology	1
+chewing tobacco	1
+chief complaint	1
+child-bearing age	1
+childs-pugh classes	1
+chinolone	1
+chloral hydrate	1
+cholecystectomy	1
+cholesterol	1
+cholesterol lowering medication	1
+choline agonists	1
+cholinergic compounds	1
+cholinergic treatment	1
+cholinesterase drug	1
+cholinesterase-inhibitors	1
+chronic disease	1
+chronic diseases	1
+chronic heart failure	1
+chronic inflammatory bowel disease	1
+chronic inflammatory diseases	1
+chronic intracranial hypertension	1
+chronic kidney disease	1
+chronic pain	1
+chronic renal failure	1
+cimetidine	1
+ck	1
+clcr	1
+clinical chemistry	1
+clinical chemistry panel	1
+clinical cvd	1
+clinical dementia rating ( cdr	1
+clinical dementia rating ( cdr ) scale	1
+clinical dementia rating ( cdr ) scores	1
+clinical dementia rating ( global cdr )	1
+clinical dementia rating scale ( cdr ) score	1
+clinical dementia rating scale- japanese version ( cdr-j ) score	1
+clinical dementia rating scale- japanese version (cdr-j) score	1
+clinical dementia ratings scale ( cdr )	1
+clinical disorder	1
+clinical examination	1
+clinical instability	1
+clinical lab tests	1
+clinical laboratory assessment	1
+clinical laboratory test results	1
+clinical mri	1
+clinical peripheral artery disease	1
+clinical symptomatic orthostatic hypotension	1
+clinical test(s)	1
+clinical trial drugs	1
+clinical-anamnestic	1
+clip	1
+clonazepam	1
+clopidogrel	1
+clotting disorder	1
+cns active agents	1
+cns active meds	1
+cns disease	1
+cns tumor	1
+cns vasculitis	1
+coagulation disorders	1
+coagulation indices	1
+cockcroft-gault-formula	1
+cod liver oil	1
+coffee	1
+cognitive / neuropsychological testing	1
+cognitive abilities	1
+cognitive and functional decline	1
+cognitive and motor impairment	1
+cognitive assessment	1
+cognitive change index score	1
+cognitive complaint	1
+cognitive complaints	1
+cognitive difficulties	1
+cognitive enhancer	1
+cognitive enhancers	1
+cognitive functions	1
+cognitive global rating	1
+cognitive impairment and decline	1
+cognitive impairments	1
+cognitive or memory impairment	1
+cognitive or neurological deficits	1
+cognitive rehabilitation	1
+cognitive test	1
+cognitive test scores	1
+cognitive testing	1
+cognitive therapy	1
+cognitive-enhancing drugs	1
+cognitively and neurologically health	1
+cognitively impaired	1
+collard greens	1
+colombia-suicide severity rating scale	1
+color-blindness	1
+columbia university scale for psychopathology in alzheimer's disease ( cuspad )	1
+commercial memantine	1
+communication functional ratings - swallowing domain	1
+complaint of memory loss	1
+complete blood count ( cbc )	1
+complete blood count [cbc]	1
+complications	1
+components of the vaccine	1
+computed tomography [ct]	1
+computed tomography ct	1
+computerized axial tomographic scan	1
+conceptual disorganization	1
+concomitant disorder	1
+concomitant illness	1
+conduction defect abnormalities	1
+conduction disorders	1
+confluent hemispheric deep white matter lesions	1
+confluent microvascular disease	1
+confusion	1
+congenital long q-t syndrome	1
+cons-indications	1
+contra-indicated	1
+contraception	1
+contraceptive method(s)	1
+contraindicating	1
+contrast agent gadovist	1
+contributing factor to dementia	1
+controlled word association ( cfl ) category naming	1
+contusion	1
+convulsion	1
+cornell	1
+cornell scale for depression in dementia (csdd) scores	1
+coronary artery bypass graft	1
+coronary artery stent	1
+coronary bypass surgery	1
+coronary syndrome	1
+corrected near visual acuity of snellen	1
+corrected qt (qtc) interval	1
+coumarin-derived anti-coagulants	1
+cranial aneurysm	1
+cranial arteritis	1
+craniocerebral injury	1
+craniocerebral trauma	1
+creatinin-clearance	1
+creatinine level	1
+creutzfeldt-jakob dementia	1
+creutzfeldt-jakob disease	1
+creutzfeldt-jakob disease ( cjd )	1
+criteria of dsm-iv, nincds-adrda	1
+critical limb ischemia	1
+crp	1
+csf a beta 42	1
+csf a-42 levels	1
+csf levels of ab, p-tau	1
+csf results	1
+ct/mri	1
+cup/disc asymmetry	1
+cup/disc ratio	1
+cupping	1
+cutaneous or soft tissue infection	1
+cvd diseases	1
+cx516	1
+cy	1
+cyclosporin	1
+cyp 450 3a4	1
+cyp2c19 inhibitors	1
+cyp2c8	1
+cyp2c9 inducers	1
+cyp3a4 inhibitors	1
+cyp3a4 strong inhibitors	1
+cytochrom p450 3a4 -inhibitors or -inductors	1
+cytochrom p450-isoenzym 2d6	1
+cytochrome cyp3a4 enzymes	1
+cytotoxic drug therapy	1
+cytotoxic t cell	1
+dad	1
+deaf	1
+deep brain stimulators	1
+deep vein thrombosis	1
+deficits in hearing	1
+deficits of the episodic memory	1
+dehydration	1
+delayed paragraph recall z-scores	1
+delayed recall on verbal learning test	1
+delusional disorder	1
+dementia arising from other diseases	1
+dementia associated with parkinson's disease	1
+dementia due to non-alzheimer's etiology	1
+dementia in other specified diseases	1
+dementia not of the alzheimer's type	1
+dementia of alzheimers type	1
+dementia of other cause	1
+dementing illness	1
+demyelinated disease	1
+dense cataracts	1
+dependence	1
+depression drugs	1
+depression rating scale( s )	1
+depression score	1
+depressive episode resistant	1
+depressive syndrome	1
+desvenlafaxine	1
+detached retinas	1
+deterioration	1
+developmental delay	1
+developmental syndromes	1
+deviations from normal	1
+devic's disease	1
+device	1
+dexa measures	1
+dexa scan	1
+dexedrine	1
+dextroamphetamine sulphate	1
+dha	1
+diabetic retinopathy	1
+diagnosis	1
+diagnosis and statistical manual of mental disorders ( dsm-iv-tr )	1
+diagnostic and statistical manual of mental diseases, 4th edition ( dsm-iv )	1
+diagnostic and statistical manual of mental disorders	1
+diagnostic and statistical manual of mental disorders - substance related disorders ( dsm-iv ) criteria	1
+diagnostic and statistical manual of mental disorders ( dsm )	1
+diagnostic and statistical manual of mental disorders, 4th edition ( dsm-iv ) criteria	1
+diagnostic and statistical manual of mental disorders, 4th edition, text revised ( dsm iv tr ) criteria	1
+diagnostic and statistical manual-iv ( dsm-iv ) criteria	1
+diazepam	1
+digital 12 -lead ecg readings	1
+dilantin	1
+diltiazem	1
+dimebon	1
+direct bilirubin	1
+disc hemorrhage	1
+discontinue	1
+disease modifier	1
+disease states	1
+disruptive agitated behaviors	1
+distressing psychotic symptoms	1
+diuretics	1
+dnri	1
+docsahexanoic acid	1
+donated	1
+donation of blood	1
+donation or loss	1
+donepezil medication	1
+dopamine agonist	1
+dopaminergic agents	1
+dopaminergic antagonists	1
+dosages	1
+dose/administration	1
+down's syndrome	1
+doxycycline	1
+drinking	1
+drug (including alcohol) abuse	1
+drug absorption	1
+drug absorption distribution	1
+drug abuse and dependency	1
+drug addiction	1
+drug dependence or abuse	1
+drug or alcohol dependency or abuse	1
+drug/alcohol dependence or abuse	1
+drugs with cholinergic properties	1
+drugs with significant anticholinergic or antihistaminic properties	1
+dsm	1
+dsm iv and nincds-adrda criteria	1
+dsm iv-r criteria	1
+dsm iv-tr	1
+dsm-iv 290.0	1
+dsm-iv and nincds/adrda, dubois-criteria 2007	1
+dsm-iv and ninds criteria	1
+dsm-iv axis i disorder	1
+dsm-iv text revision ( tr ) criteria	1
+dsm-iv-r and nincds-adrda criteria	1
+dsm-iv15	1
+dsm-v	1
+dsmiv criteria	1
+dual-energy x-ray absorpometry ( dexa ) scan	1
+dubois criteria	1
+dyslipidaemia	1
+dyslipidemia	1
+dyspnea	1
+early mild cognitive impairment ( emci )	1
+ebs score	1
+ecg abnormality	1
+ecg examination	1
+ecg heart rate	1
+ecg tests	1
+echocardiogram	1
+echocardiography	1
+ecstasy	1
+ect treatment	1
+eeg	1
+eeg examination	1
+egfr	1
+eicosapentanoic acid	1
+ejection fraction	1
+ekg leads	1
+elderberry products	1
+elective surgery	1
+electrical device	1
+electrocardiogram ( ekg )	1
+electrocardiogram (ecg)	1
+electrocardiograms ( ecgs )	1
+electroconvulsive therapy	1
+electroconvulsive therapy ( ect )	1
+electroconvulsive therapy treatment	1
+electroencephalogram	1
+elements of sunphenon egcg	1
+embedded metal fragments	1
+emotional problems	1
+encephalitides	1
+endocrine, gastrointestinal, cardiovascular, hematological, hepatic, immunological, renal, respiratory, genitourinary or major neurological abnormalities or diseases	1
+endovascular neurosurgery	1
+endovascular stent	1
+enzyme	1
+epa + dha	1
+epileptic seizures	1
+erythema multiforme major	1
+escitalopram	1
+essential hypertension	1
+estimated glomular filtration rate egfr	1
+estimated verbal intelligence	1
+etiologic cause	1
+etiology	1
+evaluation	1
+event	1
+exaggerated pharmacological sensitivity or hypersensitivity	1
+excluded antidiabetic medication	1
+exclusionary medications	1
+exelon patch	1
+exercise contraindications	1
+exfoliative dermatitis	1
+experimental drugs	1
+experimental immunotherapeutics	1
+experimental medications	1
+experimental treatment	1
+extensive periventricular white matter disease	1
+extensive radiological examination	1
+extra pyramidal signs	1
+extraaxial macroscopic large vessel ischemic stroke	1
+extrapyramidal symptoms	1
+eye surgery	1
+eyedrops	1
+f- 18	1
+factor v leiden	1
+factor xa inhibitors	1
+falls	1
+familial autosomal-dominant inherited ad	1
+family history	1
+fasting blood glucose	1
+fasting glucose levels	1
+fasting plasma glucose level	1
+fasting triglycerides	1
+father children	1
+fazeka scale	1
+fazekas	1
+fbb pet scan	1
+fda approved medications	1
+fda-approved alzheimer's treatments	1
+fdg-pet	1
+fdg-pet imaging	1
+febrile illness	1
+females	1
+ferromagnetic implants	1
+ferromagnetic metal foreign bodies	1
+ferrous ( magnetic ) or electronic implants	1
+fertile	1
+fev1	1
+fev1/fvc	1
+fibromyalgia	1
+findings	1
+fish intake	1
+fish oil	1
+fish oil capsules	1
+flecinid	1
+florbetapir positron emission tomography ( pet ) scan	1
+flutemetamol ( 18f ) injection formulation	1
+focal	1
+focal brain lesions	1
+focal changes	1
+focal lesion	1
+focal neurological deficit	1
+focal or vascular intracranial pathology	1
+focal structural lesion	1
+focal structural loss of brain matter	1
+folate	1
+folate, vitamin b 12 and other b complex deficiencies	1
+folate, vitamin b12 or other b complex deficiencies	1
+folic acid	1
+follicle stimulating hormone [fsh] level	1
+follow-up labs	1
+folstein mini-mental state exam score	1
+folstein mini-mental status examination total score	1
+folstein mmse	1
+food additives	1
+formoterol	1
+fracture	1
+fractures	1
+free and cued selective reminding test	1
+free recall	1
+freedom from disease	1
+frontal lobe dementia	1
+frontal systems behavior scale	1
+fronto-temporal dementia ( ftd )	1
+fsh	1
+fsh levels	1
+ft4 levels	1
+fta-abs	1
+functional assessment staging ( fast )	1
+functional disability	1
+functional disorders	1
+functional impairment	1
+functional status impairment	1
+functioning in personal care	1
+fundoscopy	1
+fungal infection	1
+furazolidone	1
+furosemide	1
+gait disorder	1
+galantamin	1
+galanthamine	1
+gastrocrom	1
+gastrointestinal bleeding or perforation	1
+gastrointestinal disorders	1
+gastrointestinal ulceration	1
+gds- 15	1
+gene transfer products	1
+general anesthesia	1
+general cognition	1
+general disease	1
+general medical and neurological examination	1
+general physical and mental health	1
+generalized lesions	1
+generally healthy	1
+geriatric depression scale - 15	1
+geriatric depression scale-short form	1
+gi bleeding	1
+gi-disorders	1
+gilbert's syndrome	1
+gingko-	1
+ginko-biloba	1
+ginseng	1
+glacial acetic acid	1
+glitinide	1
+global	1
+global clinical dementia rating ( cdr ) scale score	1
+global cognitive function	1
+global depressive scale	1
+glomerular filtration rate	1
+glucose- 6 -phosphate deficiency	1
+glucose-6-phosphate dehydrogenase deficiency	1
+glycaemia value	1
+glycoslated hb ( a1c )	1
+glycosylated (or glycated) hemoglobin (hba1c)	1
+goldmann tonometry	1
+grapefruit containing products	1
+grapefruit juice	1
+grapefruit-containing products	1
+gsk239512	1
+guanethidine	1
+guanfacine	1
+gum	1
+h2 -blockers	1
+hachinski	1
+hachinski ischemia score	1
+hachinski ischemic index	1
+hads	1
+haemoglobinopathies	1
+haemorrhage	1
+haloperidol	1
+ham-d ( hamilton, 1960 ) score	1
+hamilton anxiety scale	1
+hamilton depression rating scale	1
+hamilton depression rating scale ( hdrs )	1
+hamilton depression scale	1
+hamilton depression scale ( 17 -item version ) ( hamd )	1
+hamilton depression scale ( 17 -item version ) ( hamd ) score	1
+hamilton psychiatric rating scale	1
+hc	1
+hcy score	1
+head mri	1
+head trauma with disturbance of consciousness	1
+headaches	1
+hearing	1
+hearing impairment	1
+heart	1
+heart block	1
+heart diseases	1
+heart failure new york heart association ( nyha )	1
+heart pacemaker	1
+heart surgery	1
+heart/liver/renal failure	1
+height	1
+hematocrit	1
+hematologic, hepatic, cardiovascular	1
+hematologic, hepatic, cardiovascular, pulmonary, gastrointestinal, endocrine, metabolic, renal or other systemic disease	1
+hematologic/oncologic disorders	1
+hematological abnormality	1
+hematological disease	1
+hematological or solid tumor	1
+hematological, renal, endocrine, pulmonary, gastrointestinal, cardiovascular, hepatic, psychiatric, neurological or allergic disease	1
+hemodialysis	1
+hemodynamically significant coronary artery disease	1
+hemoglobin (hgb)	1
+hemorrhagic stroke	1
+hepatic disease	1
+hepatic disorders	1
+hepatic dysfunction	1
+hepatic impairment	1
+hepatic or renal disease	1
+hepatic or renal insufficiency	1
+hepatic, cardiovascular, gastrointestinal or hematological illness	1
+hepatic, renal or respiratory insufficiency	1
+hepatic, renal, lung, endocrinal or metabolic disease	1
+hepatic, renal, pulmonary, metabolic or endocrine disease	1
+hepatic/renal disorders	1
+hepatitis b surface antigen ( hbsag )	1
+hepatitis b surface antigen (hbsag)	1
+hepatitis b virus	1
+hepatitis b, c	1
+hepatitis b, hepatitis c or hiv infection	1
+hepatitis c antibodies	1
+hepatitis c antibody tests	1
+hepatitis c virus	1
+hepatitis c virus ( hcv ) antibodies	1
+hepatitis c virus (hcv) antibody	1
+hepatotoxic drugs	1
+hepatotoxic medication	1
+herbal medication	1
+herbal products	1
+herbal remedies	1
+herbal/dietary supplements	1
+herpes zoster	1
+high cognitive performance	1
+hip replacement	1
+hip/pelvic fracture	1
+hiv dementia	1
+hiv disease	1
+hiv infection	1
+hiv infection ( human immunodeficiency virus )	1
+hiv test	1
+hiv-1	1
+hiv-2	1
+honeysuckle	1
+hormonal replacement therapy	1
+hormone dependent neoplasia	1
+hormone replacement therapy	1
+hormone replacement therapy ( hrt )	1
+horton's disease	1
+hospital anxiety and depression scale	1
+hospitalization	1
+hrt treatment	1
+human albumin	1
+human blood	1
+human immunodeficiency virus	1
+human immunodeficiency virus ( hiv ) antibodies	1
+human immunodeficiency virus ( hiv ) antigen/antibody	1
+human immunodeficiency virus (hiv) type 1/2 antibody	1
+human immunoglobulins	1
+huntington s disease	1
+huperzine a	1
+hydergine	1
+hydrochlorothiazide	1
+hyper or hypotension	1
+hypercalcemia	1
+hypercholesterolemia	1
+hypercoagulability	1
+hypertension ( htn )	1
+hypertensive agents	1
+hypertensive, cardiac, pulmonary, vascular, metabolic or hematologic conditions	1
+hyperthyroidism	1
+hypertriglyceridemia	1
+hypnotic or anxiolytic drug	1
+hypoalbuminaemia	1
+hypopigmentation conditions	1
+hypovolemia	1
+icd	1
+identical agents	1
+iga deficiency	1
+illicit drug	1
+illnesses	1
+imaging	1
+imaging results	1
+imaging study	1
+imidazole antifungal agents	1
+imipramine	1
+immediate confusion after the injury	1
+immune abnormalities	1
+immune disorder	1
+immunization	1
+immunodeficiency	1
+immunodeficiency disorders	1
+immunoglobulin	1
+immunoglobulin ( ig ) igg, iga or igm levels	1
+immunoglobulin a ( iga ) deficiency	1
+immunoglobulin a (iga) deficiency	1
+immunologic, hepatic or endocrine disease	1
+immunological disorder	1
+immunomodulatory therapies	1
+immunomodulatory treatment	1
+immunosuppressive	1
+immunosuppressive or immunomodulatory therapy	1
+immunotherapy	1
+impaired liver- or kidney function	1
+impairment of daily life activities	1
+implanted brain stimulators	1
+implanted cardiac pacemaker	1
+implanted electronic devices	1
+implanted electronic medical	1
+implanted ferromagnetic material or devices	1
+implanted medication pumps	1
+implanted metal	1
+implanted metal device	1
+implanted metal objects	1
+inability	1
+inadequate hepatic, renal or thyroid function	1
+incipient dementia	1
+infarcts	1
+infections	1
+infectious or inflammatory brain disease	1
+infectious, degenerative or inflammatory/demyelinating cns conditions	1
+inflammation	1
+inflammatory bowel disease	1
+inflammatory conditions	1
+inflammatory neuropathies	1
+inflammatory or infectious conditions	1
+infusion	1
+ingredients	1
+inhaled protein products	1
+injuries secondary to chronic trauma	1
+inr	1
+insanities of type alzheimer	1
+insertion of csf catheter	1
+insomnia	1
+instrumental activities of daily living (iadl)	1
+insulin dependent diabetes	1
+insulin dependent diabetes mellitus	1
+insulin secretagogue	1
+insulin-dependent diabetes mellitus ( iddm )	1
+insulin-requiring diabetes	1
+insulin-treated diabetes mellitus	1
+insult	1
+intal	1
+intellectual disability	1
+intellectual impairment	1
+intercurrent illness	1
+interferon	1
+international codes for diagnosis ( icd-9 ) codes	1
+international psychogeriatric association provisional criteria	1
+interstitial lung disease	1
+intra cerebral haemorrhage	1
+intra-vitreal injections	1
+intracardiac lines	1
+intracerebral haemorrhage	1
+intracerebral hemorrhage	1
+intracranial disease	1
+intracranial neoplasm	1
+intraocular metallic shards	1
+intraocular pressure	1
+intrathecal pumps	1
+intravenous fluids	1
+invasive procedure	1
+investigation product	1
+investigational devices	1
+investigational or marketed drug	1
+investigational or other unapproved drug	1
+investigational product (ip)	1
+investigational study	1
+investigational study drug	1
+investigational therapy	1
+investigational treatments	1
+investigational trial	1
+ionizing radiation	1
+ip	1
+iq-code	1
+isaac's set test	1
+ischemic cardiac disease	1
+ischemic heart disease	1
+ischemic or haemorrhagic stroke	1
+ischemic vascular disease	1
+isoflavones	1
+isoflurane	1
+isolated bilirubin	1
+isolated vascular dementia	1
+itraconazole	1
+ivig treatment	1
+ixel	1
+joint implants	1
+judgment	1
+k-mmse	1
+k-mmse ( korean - mini mental state exam )	1
+kale	1
+karyotype dx of trisomy	1
+kidney dysfunction	1
+kidney failure	1
+kidney function	1
+kohlrabi	1
+korsakoff's syndrome	1
+lab abnormalities	1
+lab values	1
+labile hypertension	1
+laboratory finding	1
+laboratory test	1
+laboratory test abnormalities	1
+laboratory testing	1
+labs	1
+lack of oxygen	1
+lactation	1
+lactose	1
+lacunae	1
+lacunar stroke	1
+lacune	1
+lamotrigine	1
+large body tattoos	1
+large cortical stroke	1
+large vessel infarction	1
+large-artery stroke	1
+laser	1
+late-onset depression	1
+lbd	1
+lbd spectrum dlb	1
+ldl cholesterol level	1
+learning disorder	1
+left ventricular hypertrophy	1
+legal blindness	1
+leukopenia	1
+levels of a42, t-tau or p-tau	1
+levodopa	1
+lewy bodies disease	1
+lewy body dementia ( lbd )	1
+lewy body disease	1
+lewy body variant ad	1
+lewy-body dementia	1
+lfts	1
+lidocaine	1
+life sustaining measures	1
+life-threatening illness or injury	1
+linear immunoglobulin a dermatosis	1
+lipid lowering medication	1
+lipoic acid supplementation	1
+live vaccine	1
+liver cirrhosis	1
+liver disease/cirrhosis	1
+liver disorders	1
+liver dysfunction	1
+liver enzymes	1
+liver failure	1
+liver insufficiency	1
+liver or kidney malfunctions	1
+liver or renal impairment	1
+liver or renal insufficiency	1
+liver or renal transplants	1
+liver problems	1
+liver serum transaminases	1
+local anesthetic	1
+local dermatological tumors	1
+local infection	1
+logical memory ii score	1
+loperamide	1
+lopinavir	1
+loss of hearing or eyesight	1
+lost	1
+low attenuation	1
+low bone mass density	1
+low molecular weight heparins	1
+low-molecular-weight heparin	1
+lower extremity vaso-occlusive disease	1
+lower spinal malformations	1
+lp	1
+luetic brain disease	1
+lund-manchester criteria	1
+lung, heart, metabolic, hematologic, endocrine disease	1
+lung, infectious, heart or other cns disorders	1
+lupus erythematosis	1
+lymphopenia	1
+maalox	1
+mab	1
+macrohemorrhage	1
+macrolide-antibiotics	1
+madrs	1
+madrs ( montgomery and asberg depression rating scale ) score	1
+magnetic metal implants	1
+magnetic resonance imaging [mri]	1
+major depression with psychotic features	1
+major depressive syndrome	1
+major organ system toxicity	1
+major psychiatric illness	1
+malabsorption syndromes	1
+males	1
+malformations	1
+malformative intracranial hemorrhage	1
+malignant hypertension	1
+malignant hyperthermia	1
+malignant neoplasms	1
+malnutrition	1
+manic-depressive disorder	1
+mannitol	1
+mao	1
+mao inhibitor	1
+marginally normal cognition	1
+marijuana	1
+marin/starkstein criteria	1
+marrow dysfunction	1
+mass lesion	1
+mattis dementia rating scale	1
+mb	1
+mci ( amnestic )	1
+mdma	1
+mean bmi	1
+mean time immobile	1
+meclizine	1
+medial temporal lobe atrophy	1
+medial temporal lobe atrophy scale mta	1
+medical and psychiatric condition	1
+medical and surgical conditions	1
+medical co-morbidities	1
+medical comorbidities	1
+medical condition ( s )	1
+medical condition( s )	1
+medical contraindications	1
+medical devises	1
+medical diseases	1
+medical food	1
+medical or lab evaluation	1
+medical or neurological condition	1
+medical or neurological conditions	1
+medical or neurological illness	1
+medical or psychiatric condition/status	1
+medical or psychiatric disease	1
+medical or psychological conditions	1
+medical problems	1
+medical, psychiatric and neurologic conditions	1
+medical, psychiatric and neurological illnesses	1
+medical, psychiatric or other condition	1
+medical/neurological condition	1
+medication ( s )	1
+medication that lower the seizure threshold	1
+medications containing aluminum hydroxide	1
+medications with known relevant alpha-2c ar affinity	1
+medicines	1
+meds	1
+medullary thyroid carcinoma	1
+meglintinides	1
+memantin	1
+memory deficit	1
+memory deficits	1
+memory deterioration	1
+memory difficulties	1
+memory disorder	1
+memory loss	1
+memory loss complaint	1
+memory or cognitive decline	1
+memory or cognitive impairment	1
+memory problem	1
+meniere's disease	1
+meningeoma	1
+menire's disease	1
+mental status testing	1
+mentally competent	1
+metabolic or toxic encephalopathy	1
+metabolic syndrome	1
+metabolic/endocrine disorders	1
+metacresol	1
+metal (ferromagnetic) implants	1
+metal heart valve	1
+metal implant	1
+metal objects or fragments	1
+metal plate	1
+metal plates	1
+metal valves	1
+metal/foreign objects	1
+metallic clip	1
+metallic foreign body eye	1
+metallic implantable devices	1
+metallic object	1
+metallic surgical implant	1
+metastasis	1
+methotrexate	1
+methylphenidates	1
+methylthioninium-containing drug	1
+metoclopromide	1
+metoprolol	1
+metrifonate	1
+mha-tp	1
+mhis	1
+mianserin	1
+microcrystalline cellulose	1
+mild dementia	1
+mild impairment	1
+mini	1
+mini and hdrs score	1
+mini international neuropsychiatric inventory ( mini )	1
+mini mental state exam (mmse) score	1
+mini mental state exam score	1
+mini mental state examination ( mmse ) total score	1
+mini mental state examination ( mmse )total score	1
+mini mental state examination ( mmss )	1
+mini mental state examination score	1
+mini mental state examination scores	1
+mini mental state examination total score	1
+mini mental status exam ( mmse )	1
+mini mental status examination (mmse) score	1
+mini mental status examination score	1
+mini mental test ( mmse )	1
+mini mental test examination ( mmse )	1
+mini-mental score	1
+mini-mental state exam ( mmse )	1
+mini-mental state exam ( mmse ) ( 82 ) score	1
+mini-mental state exam ( mmse )106 score	1
+mini-mental state examination ( mmse ) scores	1
+mini-mental state examination (mmse)	1
+mini-mental state examination mmse	1
+mini-mental state examinations ( mmse ) score	1
+mini-mental state scores	1
+mini-mental status examination total score	1
+minimum brief psychiatric rating scale ( bprs ) psychosis factor score	1
+minimum most score	1
+minocycline	1
+mirtazapine	1
+mis	1
+mixed	1
+mma	1
+mmse ( mini mental state examination )	1
+moderate-severe anxiety	1
+modified hachinski	1
+modified hachinski ischaemia scale	1
+modified hachinski ischaemia scale score	1
+modified hachinski ischemic scale	1
+modified hachinski ischemic scale ( mhis )	1
+modified hachinski scale10 score	1
+modified hackinski	1
+modified mini-mental state examination	1
+modified rosen hachinski	1
+modified version of the updrs	1
+modulators	1
+monoamine oxidase inhibitor	1
+monoamine oxidase inhibitors	1
+monoamine oxidase inhibitors ( maois )	1
+monoamine oxidase inhibitors maois	1
+monoamine oxidases (mao) inhibitors	1
+monoclonal antibody	1
+monoclonal antibody targeting beta amyloid peptide	1
+monoclonal or polyclonal antibodies	1
+montreal cognitive assessment	1
+mood disorder with psychotic features	1
+mood disturbances	1
+mood stabilization drugs	1
+mosaic form of down syndrome	1
+motor anomaly	1
+motor tics	1
+motrin	1
+movement disorder	1
+mri abnormality	1
+mri studies	1
+mri-compatible pacemaker	1
+mri-safe cardiac stents	1
+mri/pet imaging	1
+mris	1
+multifocal ventricular ectopy	1
+multimorbidity	1
+multiple and/or severe allergies	1
+multiple endocrine neoplasia syndrome type 2	1
+multiple focal signs	1
+multiple infarctions	1
+multiple ischemic attacks	1
+multiple ischemic episodes	1
+multiple lacunae	1
+multiple lacunar infarcts	1
+multivitamins	1
+muscarinic agents	1
+muscle biopsy	1
+musculoskeletal disorder	1
+mustard greens	1
+mylanta	1
+narrow angle glaucoma	1
+narrow-angle glaucoma	1
+nasalcrom	1
+national institute of aging and the alzheimer's association ( nia-aa )	1
+national institute of neurological and communicative diseases and stroke/alzheimer's disease and related disorders association ( nincds-adrda ) criteria	1
+national institute of neurological and communicative diseases and stroke/alzheimer's disease and related disorders association ( nincds/adrda ) criteria	1
+national institute of neurological and communicative diseases and stroke/alzheimer's disease and related disorders association (nincds-adrda) criteria	1
+national institute of neurological and communicative disorders and stroke ( nincds )	1
+national institute of neurological and communicative disorders and stroke (nincds)	1
+national institute of neurological and communicative disorders and stroke and the alzheimer's disease and related disorders association ( ninds-adrda ) criteria	1
+national institute of neurological and communicative disorders and stroke and the alzheimer's disease and related disorders association criteria	1
+national institute of neurological and communicative disorders and stroke- alzheimer's disease and related disorders association ( nincds-adrda )	1
+national institute of neurological and communicative disorders and stroke--alzheimer's disease and related disorders association ( nincds-adrda ) criteria	1
+national institute of neurological and communicative disorders and stroke/alzheimers disease and related disorders association ( nincds-adrda criteria )	1
+national institute of neurological and communicative disorders and stroke/the alzheimer's disease and related disorders association criteria	1
+national institute of neurological and communicative disorders and the alzheimer's disease and related disorders association ( nincds-adrda ) criteria	1
+national institute of neurological disorders and stroke and the alzheimer's disease and related disorders association ( nincds/adrda ) criteria	1
+national institute of neurological disorders and stroke- association internationale pour la recherche et l' enseignement en neurosciences ( ninds-airen )	1
+national institute on aging-alzheimer's association ( nia-aa ) core clinical criteria	1
+national institute on aging-alzheimer's association ( nia-aa ) criteria ( mckhann 2011 )	1
+national institute on aging-alzheimer's association criteria	1
+national institutes of aging-alzheimer's association criteria	1
+natural extracts	1
+neary criteria	1
+nebivolol	1
+neck calcifications	1
+neoplasia	1
+neramexane	1
+nerve biopsy	1
+neuroanatomic abnormality	1
+neurodegenerative, locomotor and ophtalmological diseases	1
+neurodevelopmental and/or psychomotor disorder	1
+neurodevelopmental disorder	1
+neuroimaging abnormalities	1
+neuroimaging study	1
+neuroinfection	1
+neuroleptic malignant syndrome	1
+neuroleptics, antiparkinsonian agents	1
+neurologic conditions	1
+neurologic diseases	1
+neurologic exam	1
+neurologic examination	1
+neurologic or medical condition	1
+neurologic or other physical illness	1
+neurologic or somatic disease	1
+neurologic, neurodegenerative or psychiatric disease	1
+neurological	1
+neurological abnormalities	1
+neurological abnormality	1
+neurological condition	1
+neurological conditions	1
+neurological deficits	1
+neurological diseases	1
+neurological disorder or disease	1
+neurological impairment	1
+neurological or medical abnormalities	1
+neurological or neurodegenerative disorder	1
+neurological or neuromuscular impairments	1
+neurological or other medical conditions	1
+neurological or other physical illness	1
+neurological or psychiatric diagnosis	1
+neurological or psychiatric disorders	1
+neurological, hepatic, renal, metabolic, hematological, immunological, cardiovascular, pulmonary, gastrointestinal or psychiatric disorders	1
+neurological, musculoskeletal, cardio-pulmonary disorder	1
+neurological, psychiatric, endocrine, hepatic or infectious complaint	1
+neurological/psychiatric disorder	1
+neuromuscular or musculoskeletal disease	1
+neuromuscular-blocking agents	1
+neuropathology	1
+neuropsychiatric illnesses	1
+neuropsychiatric inventory	1
+neuropsychiatric inventory ( npi ) agitation/aggression subscale score	1
+neuropsychiatric inventory ( npi ) apathy item	1
+neuropsychiatric inventory ( npi ) total score	1
+neuropsychiatric inventory agitation/aggression item score	1
+neuropsychiatric inventory-nursing home version total score	1
+neuropsychological battery	1
+neuropsychological measures	1
+neuropsychological or clinical testing	1
+neuropsychological sequelae	1
+neuropsychological test	1
+neuropsychological test battery	1
+neuropsychological test results	1
+neuropsychological testing	1
+neuropsychological tests	1
+neurostimulator	1
+neurosurgery	1
+neutrophil count	1
+new cardiovascular event	1
+new tumor	1
+new york heart association	1
+new york heart association nyha	1
+newly approved medications	1
+nia-aa	1
+nia-alzheimer's association core clinical criteria	1
+niaaa criteria	1
+niaaa criteria iii	1
+nicotine patch	1
+nicotine patches	1
+nicotine replacement therapy	1
+nilvadipine	1
+nimh diagnostic criteria	1
+nimh( national institute of mental health ) consensus criteria	1
+nincds-adrda ( national institute of neurological and communicative disorders and stroke -alzheimer's disease and related disorders association ) criteria	1
+nincds-adrda* 1984 criteria	1
+nincds-adrda16	1
+nincds-adrda3 criteria	1
+nincds-airen	1
+nincds-ardra criteria51	1
+nincds/adrda	1
+nincds/adrda diagnostic criteria	1
+nindnds-ardra criteria	1
+ninds-airen	1
+ninds-airen criteria	1
+ninds-airen international workshop criteria	1
+ninds-airen6 criteria	1
+nivadil	1
+nmda ( n-methyl-d-asparate ) antagonist	1
+nmda receptor antagonists	1
+nocturnal confusion / disorientation / agitation	1
+nocturnal wandering	1
+non child bearing potential	1
+non hemispheric stroke	1
+non metastatic skin cancers	1
+non steroidal anti-inflammatory drugs	1
+non-ad	1
+non-ad dementias	1
+non-ad neurodegenerative disorder	1
+non-alzheimer's dementia	1
+non-amnestic mci	1
+non-benzodiazepine hypnotics	1
+non-breast feeding	1
+non-contrast mri	1
+non-demented	1
+non-depressed	1
+non-excluded medication	1
+non-melanoma skin cancer	1
+non-melanoma skin cancers	1
+non-metastatic basal or squamous cell carcinoma	1
+non-neurodegenerative cause	1
+non-pharmacological methods	1
+non-removable hearing aids	1
+non-squamous skin carcinoma	1
+non-st-elevation mi	1
+non-steroidal anti-inflammatory agents	1
+non-steroidal anti-inflammatory drugs ( nsaids )	1
+non-systemic corticosteroids	1
+nonsmoker	1
+nonsmokers	1
+nonsmoking	1
+nonsteroidal anti-inflammatory medication	1
+norepinephrine	1
+not	1
+notch	1
+npi	1
+npi agitation/aggression subitem score	1
+npi depression item	1
+nps symptoms	1
+nsaid	1
+nsaids	1
+ntervening neurological disease	1
+nuprin	1
+nutraceuticals	1
+object	1
+objective memory impairment	1
+objects	1
+obsessive-compulsive disorder	1
+obstructive uropathy	1
+occlusive cataracts	1
+ocular herpes simplex virus ( hsv ) infection	1
+oestradiol	1
+ogtt criteria	1
+olal rivastigmine	1
+olanzapine	1
+old	1
+oligophrenia	1
+olin depression	1
+omega 3 pufa supplements	1
+omega- 3 fatty acid status	1
+omega- 3 fatty acid supplement	1
+omega- 3 fatty acids	1
+omega- 3 index	1
+oncological diagnosis	1
+onset age	1
+open head injury	1
+ophthalmic dilating agents	1
+ophthalmic shingles	1
+ophthalmologic/visual problems	1
+opiate drugs	1
+opiates	1
+optic neuritis	1
+opticrom	1
+oral drug	1
+oral glucose tolerance test	1
+oral hurts	1
+oral hypoglycemic agents	1
+oral medication	1
+oreign metal objects	1
+organ ( esp. liver or renal ) dysfunction	1
+organ system diseases	1
+organic affective disorder	1
+organic brain disease	1
+organic diseases	1
+orientation	1
+orthopedic surgery	1
+orthopnea	1
+osteoarthritis	1
+ot surgery	1
+otc	1
+over the counter drug	1
+over-the-counter	1
+over-the-counter medication	1
+over-the-counter or prescription medication	1
+overlapping side effects	1
+oxybutynin	1
+oxygen therapy	1
+pain	1
+pain medication	1
+pancreatitis	1
+panic attacks	1
+papilledema	1
+paraclinical manifestations	1
+paranoid disorder	1
+parathyroid	1
+parenchymal lesion	1
+parkinson	1
+parkinson s disease	1
+parkinson s disease dementia	1
+parkinson's disease - dementia	1
+parkinson's disease dementia	1
+passive immunotherapies	1
+pba	1
+pd-mci	1
+pemoline	1
+perceived stress scale 14 items	1
+peripheral anticholinergics	1
+peripheral trauma	1
+periventricular disease	1
+periventricular white matter	1
+permanent pacemaker	1
+persistent neurological deficits	1
+personal or family history	1
+pet scans	1
+pet tracer	1
+pet/ pib scores	1
+petersen's criteria	1
+pfizer pharma gmbh	1
+pgp inhibitors	1
+pharmacological immunosuppression	1
+pharmacotherapy	1
+phenylephrine	1
+pheochromocytoma	1
+physical	1
+physical aggression	1
+physical and neurological examination	1
+physical examination findings	1
+physical exercise	1
+physical exercises	1
+physical health	1
+physical impairment	1
+physical or mental disease	1
+physical or neurologic deficit	1
+physostigmine	1
+pittsburgh agitation scale score	1
+pituitary	1
+pituitary tumors	1
+plasma pufa	1
+plastic surgery	1
+platelet	1
+platelets	1
+pneumonia	1
+post menopause	1
+post-gastrectomy	1
+post-partum	1
+post-stroke period	1
+post-traumatic / post-surgery	1
+post-traumatic brain injury	1
+post-traumatic stress disorder	1
+post-treatment hypersensitivity reactions	1
+posterior cortical atrophy	1
+potent cyp2d6 inhibitor	1
+potent inhibitors of cyp3a4	1
+potent pgp inhibitors	1
+ppar agonist	1
+pr	1
+pr interval	1
+pradaxa	1
+prazosin	1
+pre-menopausal	1
+pre-study test	1
+pre-study urine screen	1
+predicted survival	1
+prednisone	1
+pregnancy test result	1
+premenopausal with childbearing potential	1
+prescribed medication	1
+prescription acetylcholinesterase inhibitor	1
+prescription drugs	1
+prescription medications	1
+prescription or non-prescription drugs	1
+prescription or non-prescription drugs or food	1
+presents	1
+prestroke history	1
+primary depression	1
+primary hemorrhagic stroke	1
+primary neurodegenerative disorder	1
+primary psychotic disorder	1
+primidone	1
+proanolol	1
+probability criteria of the alzheimer's disease and related disorders association	1
+problem solving	1
+problems	1
+problems in daily life functioning	1
+procedure	1
+prochlorperazine	1
+procoagulant abnormalities	1
+product	1
+progesterone	1
+prognosis	1
+progression	1
+progressive dementing disorder	1
+progressive disease	1
+progressive memory impairment	1
+prohibited medications	1
+prolonged qt interval	1
+propafenon	1
+propofol	1
+proposed level i criteria	1
+propranolol	1
+prostate-specific antigen	1
+prosthetic devices	1
+protein s/protein c deficiency	1
+protein therapeutic targeting abeta	1
+prothrombin	1
+protracted loss of consciousness	1
+prozac or ginkgo biloba	1
+psa test result	1
+pseudobulbar affect	1
+psychiatric	1
+psychiatric diagnoses	1
+psychiatric diagnosis	1
+psychiatric disturbance	1
+psychiatric features	1
+psychiatric history	1
+psychiatric illnesses	1
+psychiatric or neurological illness	1
+psychiatric pathology	1
+psychiatric serotonergic antidepressant medication	1
+psychiatric, neurological or neurodegenerative conditions	1
+psychiatric/neurologic disorders	1
+psychoactive medication-free	1
+psychoactive substance use disorder	1
+psychological harm	1
+psychological or physical illness	1
+psychometric test results	1
+psychometrictesting	1
+psychosis factor	1
+psychotherapy	1
+psychotherapy treatment	1
+psychotic disorder nos	1
+psychotrop treatment	1
+psychotropic	1
+psychotropic agents	1
+psychotropic and/or cognitively active medication	1
+psychotropic or sleep medications	1
+pt	1
+pt and ptt	1
+pt/aptt	1
+pt/ptt	1
+ptt	1
+pulmonary dysfunction	1
+pulmonary function test	1
+pulmonary or cerebral embolism	1
+pulmonary, gastrointestinal, endocrine, metabolic, renal or other systemic disease	1
+pulmonary, gastrointestinal, renal, hepatic, endocrine or cardiovascular system disease	1
+pulmonary, hepatic, gastrointestinal, metabolic, endocrine or other life threatening diseases	1
+pulse oximeters	1
+purposeless wandering	1
+q waves	1
+qtc b or qtc f	1
+qtc f	1
+qtc interval	1
+qtc interval prolongation	1
+qtc-fridericia	1
+qtcb	1
+qtcb interval	1
+qtcf	1
+quetiapine	1
+quinine	1
+radiation	1
+radioactive substance	1
+radiological evidence	1
+radiopharmaceutical	1
+radiopharmaceutical for imaging or therapy	1
+radiopharmaceuticals	1
+radiotherapy	1
+raised intraocular pressure	1
+rapid plasma reagin ( rpr )	1
+reactive airway disease	1
+reboxetine	1
+recreational drugs	1
+reduced vision	1
+refractory anemia	1
+refractory myelosuppression	1
+renal dysfunction	1
+renal or hepatic impairment	1
+renal, hepatic or metabolic disorder	1
+repolarisation abnormalities	1
+residual angina	1
+respirator	1
+respiratory disorders	1
+respiratory failure	1
+respiratory obstruction	1
+resting office based bp measurements	1
+resting supine blood pressure	1
+resting tremor	1
+restless leg syndrome	1
+resuscitated sudden death	1
+resveratrol	1
+retinal laser therapy	1
+reversible causes of dementia	1
+rifampicin	1
+right bundle branch block	1
+rigidit musculaire	1
+riluzole treatment	1
+rimantadine	1
+risk of suicide	1
+ritonavir	1
+rivastigmine patch	1
+rontotemporal dementia	1
+rosen-modified hachinski ischemic score	1
+rosen-modified hachinski score	1
+rpr	1
+rtms	1
+same	1
+sbp/dbp	1
+scheltens score	1
+schizo-affective disorder	1
+schizophrenia-like illness	1
+sci	1
+scleroderma	1
+screen plasma pufa	1
+screening laboratory values	1
+sd	1
+secondary diabetes mellitus	1
+secondary disorders	1
+sedating antihistamines	1
+sedative	1
+sedative /hypnotics	1
+sedative agents	1
+sedative antihistamines	1
+sedative medications	1
+sedative-hypnotics	1
+seizure inducing medication	1
+semantic dementia	1
+sensibility	1
+sensory or motor deficit	1
+serious infection	1
+serologic findings	1
+serology for hbv or hcv	1
+serotonin-norepinephrine reuptake inhibitors	1
+serum -human chorionic gonadotropin (-hcg) test	1
+serum alanine aminotransferase (alt)	1
+serum b12, thyroid function tests	1
+serum beta-hcg	1
+serum bhcg pregnancy test	1
+serum chemistry laboratory value	1
+serum chemistry panel	1
+serum glucose level	1
+serum transaminase	1
+serum viscosity levels	1
+sgpt or sgot	1
+short-acting sleep medications	1
+shunts	1
+sibutramine	1
+sick-sinus syndrome	1
+side effects	1
+siderosis	1
+significant abnormality	1
+significant head trauma	1
+signs and symptoms	1
+sildenafil	1
+silent lacuna	1
+similar organic dyes	1
+simple phobias and generalized anxiety disorder	1
+single functioning kidney	1
+single prior infarct	1
+sinus arrhythmia	1
+skin cancers	1
+skin lesion/disorder	1
+skin melanoma	1
+skin tumors	1
+sle	1
+sleep apnea	1
+sleep deprivation	1
+sleep disturbances	1
+small meningiomas	1
+smallinfarcts	1
+smmse	1
+smokers	1
+snri	1
+sodium acetate trihydrate	1
+solid organ transplantation	1
+space occupying lesion	1
+space occupying lesions	1
+space-occupying brain lesions	1
+spect scans	1
+spinal surgery	1
+spironolactone	1
+spontaneous, prolonged and severe bleeding of unclear origin	1
+spontaneous, prolonged or severe bleeding of unclear origin	1
+squamous cell carcinoma of the skin	1
+ssris	1
+st-elevation mi	1
+st. john's wart	1
+stablon	1
+standard blood chemistry profile	1
+standard mmse-k	1
+standard multivitamin supplement	1
+standard neuropsychological scores	1
+standard nia criteria	1
+standard treatment	1
+standard-of-care medications	1
+standardised mini-mental state examination	1
+statin medications	1
+statin/fibrate therapy	1
+stent occlusion	1
+stenting procedure	1
+sterile	1
+stimulant medications	1
+stimulants	1
+stimulators	1
+striatal	1
+stricture	1
+structural cardiac defect	1
+structural neuroimaging	1
+structural or developmental abnormality	1
+study agent	1
+study drug	1
+study medications	1
+study prohibitive medication	1
+study-distributed multi-vitamins	1
+subarachnoidal hemorrhage	1
+subcortical ischemic disease	1
+subcortical vci	1
+subdural haematoma	1
+subdural hematomas	1
+subjective complaints	1
+subjective memory complaint	1
+subjective memory or other cognitive complaints	1
+substance ( including alcohol ) related disorders	1
+substance dependence	1
+substance use disorder	1
+substance-induced persisting dementia	1
+succinylcholine	1
+succinylcholine-type muscle relaxants	1
+suicidal behaviour	1
+suicidal intent	1
+suicidal tendency	1
+suicidality	1
+sulfasalazine	1
+sulfonylurea	1
+sulfonylureas	1
+surgical procedures	1
+surgical repair	1
+survival	1
+sustained or paroxysmal arrhythmia	1
+swallowing difficulties	1
+symptomatic	1
+symptomatic ad treatment	1
+symptomatic bifascicular block	1
+symptomatic cvd	1
+symptomatic drugs	1
+symptomatic treatment	1
+syndrome	1
+syphilis antibody test	1
+systemic allergic disease	1
+systemic and/or ocular diseases	1
+systemic cancer	1
+t helper cell	1
+t- score	1
+t.i.a	1
+t3	1
+t4	1
+tachycardia	1
+tadalafil	1
+tarcc	1
+tardive dyskinesia	1
+tattoos	1
+tb	1
+tbc	1
+tca	1
+tea	1
+terminal cancer	1
+terminal illness	1
+test drug hypersensitivity	1
+testosterone	1
+tetracycline	1
+texas alzheimer's research and care consortium	1
+thalamic	1
+the international statistical classification of diseases and related health problems 10th revision ( icd- 10 )	1
+theophyllin	1
+therapeutic response	1
+thiamin deficiency	1
+thiazide diuretics	1
+thioridazine	1
+thrombocytes	1
+thromboembolic disease	1
+thromboembolic events	1
+thrombophlebitis	1
+thrombotic stroke	1
+thyroid function abnormalities	1
+thyroid function test	1
+thyroid function tests	1
+thyroid hormones	1
+thyroid stimulating hormone [tsh]	1
+thyroid-stimulating hormone	1
+thyroid-stimulating hormone (tsh), vitamin b12 or folate serum levels	1
+tic disorder	1
+timolol	1
+tizanidine	1
+tobacco products	1
+topical, ophthalmic or inhaled glucocorticoids	1
+torsade de pointes	1
+total and/or direct bilirubin	1
+total protein levels	1
+total radiation dose	1
+total recall	1
+total serum protein	1
+total wmh volume	1
+tourette's syndrome	1
+toxic epidermal necrolysis	1
+tramadol	1
+transient ischaemic attack	1
+transient ischemic attack ( tia )	1
+transient ischemic attacks	1
+translocation ds mosaic form	1
+traumatic brain injury with loss of consciousness	1
+traumatic intracranial hemorrhage	1
+treatment for a psychotic disorder	1
+treatment psychotropic	1
+treatment-resistant gastric	1
+tremblements	1
+tri cyclic antidepressives ( tca )	1
+tricyclic and tetracyclic antidepressants	1
+trifascicular block	1
+triglycerides	1
+tubal ligation	1
+tuberculosis ( tb )	1
+tuberculous	1
+tumors	1
+tumours	1
+typ-1c-antiarrhyhtmics	1
+type 1 diabetes mellitus	1
+type 1 or type 2 diabetes mellitus	1
+type 2 diabetes	1
+type 2 diabetes mellitus	1
+type i or type ii diabetes mellitus	1
+type ii diabetes	1
+typical antipsychotics	1
+ub 311	1
+ulcer disease	1
+unclear media	1
+unconscious state	1
+underlying disease	1
+undernutrition	1
+unifocal ventricular ectopic beats	1
+unipolar type	1
+untreated	1
+updrs iii	1
+upper gi, hepatic or gallbladder disease	1
+urinary obstruction	1
+urinary outflow obstruction	1
+urine beta-hcg	1
+urine test	1
+urine tests	1
+urticaria	1
+v hydrocephalus	1
+vad	1
+valproat	1
+valproate	1
+valvular disease	1
+valvular heart disease	1
+vamci	1
+vardenafil	1
+vascular clips	1
+vascular cns-disorders	1
+vascular dementia ( vad )	1
+vascular dementia ( vd )	1
+vascular ischemic neuropathies	1
+vascular malformation	1
+vascular mild cognitive impairment ( vamci )	1
+vascular or lewy body or frontotemporal dementia	1
+vasomotor symptoms	1
+vasovagal collapse	1
+vehicle	1
+venous access	1
+ventricular and/or atrial arrhythmias	1
+ventricular bigemini or couplets, triplets	1
+ventriculostomy surgery	1
+verapamil	1
+verbal aggression	1
+verbal fluency	1
+vesp	1
+vision loss	1
+vision or hearing problems	1
+visual & auditory acuity	1
+visual ability	1
+visual and hearing impairment	1
+visual and/or auditory deficit	1
+visual or hearing difficulty	1
+visuospatial/perceptual deficits	1
+vitamin a supplements	1
+vitamin b12 or folic acid deficiency	1
+vitamin b12/ folic acid deficiency	1
+vitamin deficiency states	1
+vitamin k agonist	1
+vitamin k deficiency	1
+vitamin supplements	1
+vitiligo	1
+vrf	1
+water	1
+watercress	1
+wechsler logical memory i & ii	1
+wechsler memory scale-revised	1
+wellbutrin	1
+wernicke's encephalopathy	1
+white blood cell	1
+white blood cell counts	1
+white matter changes	1
+white matter deterioration	1
+white matter disease	1
+white matter hyperintensity lesions	1
+white matter lacunes	1
+zolpidem	1

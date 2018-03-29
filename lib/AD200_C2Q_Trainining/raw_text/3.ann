@@ -1,0 +1,352 @@
+T1	Observation 489 504	Body mass index
+T2	Measurement 505 555	between 18 and 30 kilogram ( kg ) per square meter
+T3	Observation 560 574	Blood pressure
+T4	Measurement 600 650	between 90 and 150 millimeter of mercury ( mm Hg )
+T5	Condition 710 717	healthy
+T6	Observation 734 771	physical and neurological examination
+T7	Observation 773 788	medical history
+T8	Observation 790 801	vital signs
+T9	Procedure_Device 806 840	12 -lead electrocardiogram ( ECG )
+T12	Temporal_measurement 942 949	current
+T13	Condition 950 975	liver or renal impairment
+T14	Qualifier 977 988	significant
+T15	Condition 989 1166	cardiac, vascular, pulmonary, gastrointestinal, endocrine, neurologic, hematologic, rheumatologic, psychiatric, dermatological ( at the puncture site ) or metabolic disturbances
+T17	Condition 1182 1242	spontaneous, prolonged and severe bleeding of unclear origin
+T19	Condition 1258 1266	epilepsy
+T20	Condition 1270 1274	fits
+T22	Observation 1290 1343	human immunodeficiency virus ( HIV ) antigen/antibody
+T23	Qualifier 1344 1352	positive
+T24	Qualifier 1362 1370	positive
+T25	Observation 1375 1378	HIV
+T26	Qualifier 1433 1437	Good
+T27	Condition 1438 1452	general health
+T28	Observation 1457 1480	Body mass index ( BMI )
+T30	Measurement 1481 1515	between 18 and 32 kg/m2, inclusive
+T31	Condition 1534 1548	postmenopausal
+T32	Condition 1562 1572	sterilized
+T33	Qualifier 1717 1739	Clinically significant
+T34	Condition 1740 1770	medical or psychiatric illness
+T35	Condition 1775 1801	Alcohol or substance abuse
+T36	Qualifier 1803 1812	excessive
+T37	Condition 1813 1837	nicotine or caffeine use
+T38	Drug 1863 1883	investigational drug
+T39	Drug 1885 1892	vaccine
+T40	Procedure_Device 1896 1919	invasive medical device
+T42	Condition 2017 2032	lower back pain
+T43	Condition 2036 2045	scoliosis
+T44	Qualifier 2053 2058	major
+T45	Procedure_Device 2070 2082	back surgery
+T46	Anatomic_location 2061 2067	lumbar
+T47	Condition 2087 2095	Allergic
+T48	Drug 2099 2116	local anesthetics
+T49	Drug 2124 2130	iodine
+T50	Qualifier 2172 2176	Good
+T51	Condition 2177 2191	general health
+T52	Observation 2317 2332	Body mass index
+T53	Measurement 2333 2356	between 18 and 30 kg/m2
+T54	Observation 2361 2365	Male
+T55	Measurement 2378 2401	between 18 and 54 years
+T56	Observation 2405 2408	age
+T57	Measurement 2410 2419	inclusive
+T58	Observation 2467 2482	Body mass index
+T59	Measurement 2483 2506	between 18 and 32 kg/m2
+T60	Condition 2525 2539	postmenopausal
+T61	Condition 2553 2563	sterilized
+T62	Observation 2669 2672	age
+T63	Measurement 2642 2665	between 55 and 75 years
+T64	Measurement 2674 2683	inclusive
+T65	Observation 2731 2735	Male
+T66	Qualifier 2892 2914	Clinically significant
+T67	Condition 2915 2945	medical or psychiatric illness
+T68	Condition 2950 2976	Alcohol or substance abuse
+T69	Qualifier 2978 2987	excessive
+T70	Condition 2988 3012	nicotine or caffeine use
+T71	Drug 3038 3058	investigational drug
+T72	Drug 3060 3067	vaccine
+T73	Procedure_Device 3071 3094	invasive medical device
+T76	Qualifier 3201 3212	spontaneous
+T77	Condition 3234 3281	bleeding of unclear origin or of blood clotting
+T78	Temporal_measurement 3286 3293	Current
+T79	Condition 3294 3300	anemia
+T81	Condition 3359 3374	lower back pain
+T82	Condition 3378 3387	scoliosis
+T83	Qualifier 3395 3400	major
+T84	Anatomic_location 3403 3409	lumbar
+T85	Procedure_Device 3412 3424	back surgery
+T86	Condition 3429 3437	Allergic
+T87	Drug 3441 3458	local anesthetics
+T88	Drug 3466 3472	iodine
+T89	Procedure_Device 3518 3528	fundoscopy
+T90	Qualifier 3477 3486	Increased
+T91	Observation 3487 3508	intracranial pressure
+T92	Qualifier 3586 3594	probable
+T93	Condition 3595 3597	AD
+T94	Observation 3631 3643	NINCDS-ADRDA
+T95	Observation 3649 3700	Korean version Mini-Mental State Examination scores
+T96	Measurement 3701 3718	between 10 and 26
+T97	Condition 3735 3752	cognitive decline
+T99	Temporal_measurement 3805 3822	at least 6 months
+T100	Condition 4003 4029	neurodegenerative diseases
+T101	Negation_cue 4030 4040	other than
+T102	Condition 4041 4043	AD
+T103	Condition 4051 4070	Parkinson's disease
+T104	Condition 4072 4092	Huntington's disease
+T105	Condition 4100 4120	Psychiatric disorder
+T106	Qualifier 4124 4130	severe
+T107	Condition 4131 4154	behavioral disturbances
+T108	Condition 4199 4216	Cerebral injuries
+T109	Condition 4228 4234	trauma
+T110	Condition 4236 4243	hypoxia
+T111	Condition 4252 4260	ischemia
+T112	Qualifier 4266 4283	Clinically active
+T113	Condition 4284 4307	cerebrovascular disease
+T115	Condition 4320 4336	seizure disorder
+T116	Qualifier 4342 4347	Other
+T117	Condition 4348 4367	physical conditions
+T118	Condition 4468 4487	Alzheimer's disease
+T119	Observation 4501 4513	NINCDS-ADRDA
+T120	Qualifier 4551 4570	typical or atypical
+T121	Condition 4571 4590	Alzheimer's disease
+T122	Observation 4630 4655	Mini Mental Test ( MMSE )
+T124	Measurement 4657 4662	>= 16
+T125	Observation 4847 4871	neuropsychological tests
+T126	Condition 4885 4909	sensory or motor deficit
+T127	Condition 4914 4929	Sensory deficit
+T128	Anatomic_location 4932 4951	olfactory or visual
+T129	Qualifier 5045 5048	new
+T130	Drug 5049 5071	treatment psychotropic
+T131	Drug 5074 5082	hypnotic
+T132	Drug 5084 5094	anxiolytic
+T133	Drug 5096 5110	antidepressant
+T134	Drug 5112 5125	antipsychotic
+T135	Observation 5273 5317	Mini-Mental State Examination ( MMSE ) score
+T137	Measurement 5334 5342	25 to 30
+T138	Observation 5353 5404	global Clinical Dementia Rating ( CDR ) scale score
+T140	Measurement 5421 5422	0
+T141	Observation 5433 5456	Logical Memory II score
+T142	Measurement 5473 5480	6 to 18
+T143	Procedure_Device 5491 5544	florbetapir positron emission tomography ( PET ) scan
+T144	Observation 5568 5591	brain amyloid pathology
+T145	Drug 5854 5897	prescription acetylcholinesterase inhibitor
+T146	Drug 5900 5905	AChEI
+T147	Drug 5915 5924	memantine
+T148	Temporal_measurement 6067 6074	current
+T149	Qualifier 6075 6094	serious or unstable
+T150	Condition 6095 6102	illness
+T151	Condition 6113 6252	cardiovascular, hepatic, renal, gastroenterologic, respiratory, endocrinologic, neurologic, psychiatric, immunologic or hematologic disease
+T155	Temporal_measurement 6403 6426	within the last 5 years
+T156	Qualifier 6432 6439	serious
+T157	Condition 6440 6458	infectious disease
+T158	Condition 6491 6504	neurosyphilis
+T159	Condition 6506 6516	meningitis
+T160	Condition 6520 6532	encephalitis
+T161	Condition 6538 6549	head trauma
+T163	Temporal_measurement 6618 6641	within the last 5 years
+T164	Qualifier 6647 6667	primary or recurrent
+T165	Condition 6668 6685	malignant disease
+T166	Negation_cue 6695 6704	exception
+T167	Condition 6717 6758	cutaneous squamous cell carcinoma in situ
+T168	Qualifier 6708 6716	resected
+T169	Condition 6760 6780	basal cell carcinoma
+T170	Condition 6782 6808	cervical carcinoma in situ
+T171	Condition 6812 6835	in situ prostate cancer
+T173	Condition 6915 6951	human immunodeficiency virus ( HIV )
+T175	Qualifier 6953 6975	clinically significant
+T176	Qualifier 6976 6984	multiple
+T177	Condition 6995 7009	drug allergies
+T178	Qualifier 7013 7019	severe
+T179	Condition 7020 7061	post-treatment hypersensitivity reactions
+T180	Condition 7121 7155	linear immunoglobulin A dermatosis
+T181	Condition 7157 7183	toxic epidermal necrolysis
+T182	Condition 7094 7119	erythema multiforme major
+T183	Condition 7187 7209	exfoliative dermatitis
+T185	Temporal_measurement 7309 7332	within the past 2 years
+T186	Condition 7336 7352	major depression
+T187	Condition 7356 7372	bipolar disorder
+T188	Observation 7419 7480	Diagnostic and Statistical Manual of Mental Disorders ( DSM )
+T191	Temporal_measurement 7499 7522	within the past 5 years
+T192	Qualifier 7526 7533	chronic
+T193	Condition 7534 7566	alcohol or drug abuse/dependence
+T194	Observation 7613 7616	DSM
+T195	Observation 7667 7673	DSM-IV
+T196	Condition 7687 7712	Major Depressive Disorder
+T197	Condition 7714 7727	unipolar type
+T198	Observation 7856 7859	age
+T199	Measurement 7843 7852	65+ years
+T200	Observation 7865 7903	Hamilton Depression Rating Scale score
+T201	Measurement 7905 7911	>=  15
+T202	Procedure_Device 7975 7978	MRI
+T203	Procedure_Device 7999 8007	PET scan
+T204	Observation 8077 8080	BMI
+T205	Measurement 8082 8088	<=  38
+T206	Procedure_Device 8051 8054	MRI
+T207	Observation 8371 8397	Visual and auditory acuity
+T208	Qualifier 8398 8406	adequate
+T209	Qualifier 8810 8815	other
+T210	Condition 8816 8844	axis 1 psychiatric disorders
+T211	Temporal_measurement 8789 8796	Current
+T212	Condition 8936 8944	Dementia
+T213	Observation 8947 8951	MMSE
+T214	Measurement 8953 8957	< 25
+T215	Procedure_Device 8969 8994	electroconvulsive therapy
+T216	Temporal_measurement 8995 9019	within the past 6 months
+T217	Drug 9055 9078	psychotherapy treatment
+T218	Qualifier 9146 9157	significant
+T219	Condition 9158 9179	neurological diseases
+T220	Condition 9187 9206	Parkinson's disease
+T221	Condition 9208 9216	epilepsy
+T222	Condition 9218 9233	cortical stroke
+T223	Condition 9235 9257	traumatic brain injury
+T225	Condition 9276 9316	alcohol or substance abuse or dependence
+T226	Temporal_measurement 9317 9340	within the past 2 years
+T227	Observation 9343 9358	DSM-IV criteria
+T228	Qualifier 9538 9549	significant
+T229	Condition 9550 9566	systemic illness
+T230	Qualifier 9570 9578	unstable
+T231	Condition 9579 9596	medical condition
+T233	Procedure_Device 9672 9691	surgical procedures
+T234	Drug 9900 9922	Investigational agents
+T235	Temporal_measurement 9938 9947	one month
+T236	Negation_cue 9927 9937	prohibited
+T237	Procedure_Device 10017 10049	amyloid imaging with florbetapir
+T238	Temporal_measurement 10052 10069	Current or recent
+T239	Drug 10112 10130	radioactive agents
+T240	Drug 10145 10174	total radiation dose exposure
+T241	Measurement 10214 10256	exceed the limits of annual and total dose
+T243	Procedure_Device 10370 10379	MRI scans
+T244	Condition 10397 10406	infection
+T245	Condition 10408 10418	infarction
+T246	Qualifier 10422 10427	other
+T247	Condition 10428 10441	focal lesions
+T249	Condition 10457 10473	multiple lacunes
+T250	Condition 10477 10484	lacunes
+T251	Anatomic_location 10490 10515	critical memory structure
+T252	Procedure_Device 10547 10557	pacemakers
+T253	Procedure_Device 10559 10573	aneurysm clips
+T254	Procedure_Device 10575 10598	artificial heart valves
+T255	Procedure_Device 10600 10612	ear implants
+T256	Procedure_Device 10614 10629	metal fragments
+T257	Procedure_Device 10633 10648	foreign objects
+T258	Anatomic_location 10656 10660	eyes
+T259	Anatomic_location 10662 10666	skin
+T260	Anatomic_location 10670 10674	body
+T261	Condition 10676 10690	claustrophobia
+T262	Condition 10697 10705	Pregnant
+T263	Condition 10707 10716	lactating
+T264	Condition 10720 10745	of childbearing potential
+T265	Condition 10777 10792	post-menopausal
+T266	Condition 10796 10814	surgically sterile
+T267	Temporal_measurement 10767 10776	two years
+T268	Anatomic_location 6473 6478	brain
+T271	Observation 651 659	systolic
+T272	Measurement 664 687	no higher than 90 mm Hg
+T273	Observation 688 697	diastolic
+T269	Condition 2607 2614	Healthy
+T270	Qualifier 3214 3223	prolonged
+T275	Qualifier 3227 3233	severe
+T276	Qualifier 3767 3783	gradual in onset
+T277	Qualifier 3788 3799	progressive
+T278	Drug 4169 4193	psychotropic medications
+T279	Temporal_measurement 5128 5139	in the week
+T136	Condition 6563 6595	protracted loss of consciousness
+T139	Qualifier 6988 6994	severe
+T152	Negation_cue 7729 7736	without
+T153	Condition 7737 7755	psychotic features
+T280	Condition 7797 7815	depressive episode
+T281	Temporal_measurement 7789 7796	current
+T282	Measurement 7760 7785	six week minimum duration
+T283	Procedure_Device 8010 8025	Amyloid imaging
+T284	Qualifier 8033 8037	Able
+T285	Negation_cue 8856 8865	exception
+T286	Condition 8869 8916	Simple Phobias and Generalized Anxiety Disorder
+T287	Drug 9036 9051	anti-depressant
+T288	Temporal_measurement 9025 9035	Undergoing
+T289	Condition 9389 9406	suicidal ideation
+T290	Observation 9487 9528	Hamilton Depression Rating Scale ( HDRS )
+R1	has_value Arg1:T1 Arg2:T2	
+R2	has_value Arg1:T271 Arg2:T4	
+R3	has_value Arg1:T273 Arg2:T272	
+R4	modified_by Arg1:T13 Arg2:T14	
+R5	has_TempMea Arg1:T13 Arg2:T12	
+R6	modified_by Arg1:T22 Arg2:T23	
+R7	modified_by Arg1:T25 Arg2:T24	
+R8	modified_by Arg1:T27 Arg2:T26	
+R9	has_value Arg1:T28 Arg2:T30	
+R10	modified_by Arg1:T34 Arg2:T33	
+R11	modified_by Arg1:T37 Arg2:T36	
+R12	modified_by Arg1:T45 Arg2:T44	
+R13	modified_by Arg1:T51 Arg2:T50	
+R14	has_value Arg1:T52 Arg2:T53	
+R15	has_value Arg1:T56 Arg2:T55	
+R16	has_value Arg1:T56 Arg2:T57	
+R17	has_value Arg1:T58 Arg2:T59	
+R18	has_value Arg1:T62 Arg2:T63	
+R19	has_value Arg1:T62 Arg2:T64	
+R20	modified_by Arg1:T67 Arg2:T66	
+R21	modified_by Arg1:T70 Arg2:T69	
+R22	modified_by Arg1:T77 Arg2:T275	
+R23	modified_by Arg1:T77 Arg2:T270	
+R24	modified_by Arg1:T77 Arg2:T76	
+R25	has_TempMea Arg1:T79 Arg2:T78	
+R26	modified_by Arg1:T85 Arg2:T83	
+R27	modified_by Arg1:T91 Arg2:T90	
+R28	modified_by Arg1:T93 Arg2:T92	
+R29	has_value Arg1:T95 Arg2:T96	
+R30	modified_by Arg1:T97 Arg2:T276	
+R31	modified_by Arg1:T97 Arg2:T277	
+R32	has_TempMea Arg1:T97 Arg2:T99	
+R33	modified_by Arg1:T107 Arg2:T106	
+R34	modified_by Arg1:T113 Arg2:T112	
+R35	modified_by Arg1:T117 Arg2:T116	
+R36	modified_by Arg1:T121 Arg2:T120	
+R37	has_value Arg1:T122 Arg2:T124	
+R38	modified_by Arg1:T130 Arg2:T129	
+R39	has_TempMea Arg1:T130 Arg2:T279	
+R40	has_value Arg1:T135 Arg2:T137	
+R41	has_value Arg1:T138 Arg2:T140	
+R42	has_value Arg1:T141 Arg2:T142	
+R43	modified_by Arg1:T150 Arg2:T149	
+R44	has_TempMea Arg1:T150 Arg2:T148	
+T10	Qualifier 6256 6261	other
+T11	Condition 6262 6272	conditions
+R45	modified_by Arg1:T11 Arg2:T10	
+R46	modified_by Arg1:T157 Arg2:T156	
+R47	has_TempMea Arg1:T157 Arg2:T155	
+R48	modified_by Arg1:T165 Arg2:T164	
+R49	has_TempMea Arg1:T165 Arg2:T163	
+R50	modified_by Arg1:T167 Arg2:T168	
+R51	modified_by Arg1:T179 Arg2:T178	
+R52	modified_by Arg1:T177 Arg2:T139	
+R53	modified_by Arg1:T177 Arg2:T176	
+R54	modified_by Arg1:T177 Arg2:T175	
+R55	has_TempMea Arg1:T186 Arg2:T185	
+R56	has_TempMea Arg1:T187 Arg2:T185	
+R57	modified_by Arg1:T193 Arg2:T192	
+R58	has_TempMea Arg1:T193 Arg2:T191	
+R59	has_TempMea Arg1:T280 Arg2:T281	
+R60	has_value Arg1:T280 Arg2:T282	
+R61	has_value Arg1:T198 Arg2:T199	
+R62	has_value Arg1:T200 Arg2:T201	
+R63	has_value Arg1:T204 Arg2:T205	
+R64	modified_by Arg1:T207 Arg2:T208	
+R65	modified_by Arg1:T210 Arg2:T209	
+R66	has_TempMea Arg1:T210 Arg2:T211	
+R67	has_value Arg1:T213 Arg2:T214	
+R68	has_TempMea Arg1:T215 Arg2:T216	
+R69	has_TempMea Arg1:T287 Arg2:T288	
+R70	has_TempMea Arg1:T217 Arg2:T288	
+R71	modified_by Arg1:T219 Arg2:T218	
+R72	modified_by Arg1:T229 Arg2:T228	
+R73	modified_by Arg1:T231 Arg2:T230	
+R74	has_TempMea Arg1:T225 Arg2:T226	
+R75	has_TempMea Arg1:T234 Arg2:T235	
+R76	has_TempMea Arg1:T239 Arg2:T238	
+R77	has_value Arg1:T240 Arg2:T241	
+R78	modified_by Arg1:T247 Arg2:T246	
+R79	has_TempMea Arg1:T265 Arg2:T267	
+R80	has_TempMea Arg1:T266 Arg2:T267	
+R81	is_negated Arg1:T102 Arg2:T101	
+R82	is_negated Arg1:T167 Arg2:T166	
+R83	is_negated Arg1:T153 Arg2:T152	
+R84	is_negated Arg1:T286 Arg2:T285	
+R85	is_negated Arg1:T234 Arg2:T236	

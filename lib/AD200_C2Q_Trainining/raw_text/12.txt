@@ -1,0 +1,254 @@
+>>NCT02061878
+Inclusion Criteria:.
+ - Young healthy adults ( age 21 - 50 ).
+ - APOE3 - 3 genotype.
+ Exclusion Criteria:.
+ - Contraindications for blood or CSF sampling.
+ - Bleeding disorder or taking anticoagulants/antiplatelets.
+ - Chronic active infection.
+ - Blood donation within the past month.
+ - Active drug/alcohol dependence or abuse history with in the last 12 months.
+ - Thyroid dysfunction.
+ - High triglycerides ( > 3.5 mmol/L ).
+ - High cholesterol ( > 4.0 mmoL/L ).
+ - Leukopenia, including low neutrophil count ( < 3 x 10^9/L ).
+ - Neurological or psychiatric disorders.
+ - Homeless or prisoner.
+ - Pregnancy.
+ - Incapable of self-informed consent.
+ - Blood borne disease ( HIV, Hepatitis ).
+ - Actively smoking and incapable of using nicotine patches.
+ - Known drug allergy to pain medication or local anesthetic.
+ - Subjects that have participated in another study in the last 30 days.
+ - Abnormalities in lumbar spine previously known within 12 months.
+ - APOE2 or APOE4 allele.
+ - Abnormal EKG.
+
+>>NCT02453763
+Inclusion Criteria:.
+ - right handed ( as determined by the Edinburgh battery ),.
+ - English as native language.
+ Exclusion Criteria:.
+ - appreciable deficits in hearing,.
+ - appreciable problems with articulation,.
+ - appreciable accent schizophrenia, bipolar disorder or major depression,.
+ - any neurological disorder associated with cognitive impairment or neuroanatomic abnormality,.
+ - language-based learning disorder,.
+ - any implanted metal device ( precludes use of tDCS ), any implanted cardiac pacemaker,.
+ - dementia or mini-mental state exam < 24.
+ - estimated verbal intelligence < 70.
+ - active or prior history of seizure disorder, family history of seizure disorder, prescribed seizure inducing medication.
+
+>>NCT02524405
+Inclusion Criteria:.
+ General Inclusion Criteria ( All Subgroups ).
+ Subjects must meet each of the following criteria for enrolment into the study:.
+ 1. Written informed consent obtained and documented.
+ 2. Male or post-menopausal female ( minimum of one year since the last menstrual period ).
+ 3. 50 - 90 years of age.
+ 4. Self-reported proficiency in speaking and understanding spoken English ( score 7 out of 10 or higher on the two LEAP-Q103 questions ).
+ 5.  >= 8 years education.
+ 6. Capable of cooperating for the duration of the study procedures and assessments.
+ 7. Willing to undergo study procedures and remain unaware of the results.
+ 8. Sufficient vision ( corrected near visual acuity of Snellen 20 - 70 in at least one eye ) and hearing to participate in cognitive testing.
+ 9. Able to complete at least 75% of the neuropsychological battery and questionnaires. ( An individual test will be considered "complete" when the participant has been administered the task instructions and has adequately attempted the measure. With this criterion, if a subject fails the practice item( s ) and/or the task is discontinued for cognitive reasons, the test will still be considered "complete.").
+ 10. Sufficient vision at least one eye to identify symbols and stimuli presented on a computer screen in front of them.
+ 11. Good venous access for phlebotomy to be performed.
+ 12. Able to walk, with or without an assistive aid ( e.g., cane, walker ).
+ Subgroup-Specific Inclusion Criteria.
+ Normal Controls.
+ ( 1 ) Within normal limits on the study neuropsychological battery.
+ Subcortical VCI.
+ 1. Meets the American Heart Association-American Stroke Association ( AHA-ASA ) criteria for probable vascular dementia ( VaD ) or probable vascular mild cognitive impairment ( VaMCI ) due to subcortical ischemic vascular disease.
+ 2. Presence of subcortical disease as indicated by Fazekas score = 3 for periventricular hyperintensities on MRI or hypodensity on CT and/or more than 2 subcortical lacunar infarcts ( > 1.5 cm diameter ) in the white matter.
+ 3. Montreal Cognitive Assessment ( MoCA ) score  >= 18 for VaMCI; Mini-Mental State Exam ( MMSE )106 score  >= 20 for VaD.
+ 4. Must have a reliable and capable caregiver who has regular interaction with them, will be present for all visits, can provide a collateral history, can assist in compliance with study procedures and who is willing to act as the Study Partner ( provide written informed consent ) and remain unaware of the results.
+ MCI.
+ 1. Meets the National Institute on Aging-Alzheimer's Association criteria for amnestic or multi-domain MCI.
+ 2. MoCA score  >= 18.
+ 3. Must have a reliable and capable caregiver who has regular interaction with them, will be present for all visits, can provide a collateral history, can assist in compliance with study procedures and who is willing to act as the Study Partner ( provide written informed consent ) and remain unaware of the results.
+ AD.
+ 1. Meets the National Institute on Aging-Alzheimer's Association ( NIA-AA ) core clinical criteria for probable AD dementia.
+ 2. Mild early AD stage ( MMSE score  >= 20 ).
+ 3. Non-AD causes of dementia ruled out by standardized work up for dementia including brain imaging and blood work screen.
+ 4. Reliable and capable caregiver who has regular interaction with them, will be present for all visits, can provide a collateral history, can assist in compliance with study procedures and who is willing to act as the Study Partner ( provide written informed consent ) and remain unaware of the results.
+ LBD Spectrum DLB.
+ 1. Subject meets the criteria for probable Dementia with Lewy Bodies.
+ 2. MMSE score  >= 20.
+ 3. Reliable and capable caregiver who has regular interaction with them, will be present for all visits, can provide a collateral history, can assist in compliance with study procedures and who is willing to act as the Study Partner ( provide written informed consent ) and remain unaware of the results.
+ PD-MCI.
+ 1. Meets the proposed Level I criteria for Mild Cognitive Impairment in Parkinson's Disease110.
+ 2. MoCA score 18 - 24.
+ 3. Hoehn & Yahr stage 2 or 3.
+ 4. Reliable and capable caregiver who has regular interaction with them, will be present for all visits, can provide a collateral history, can assist in compliance with study procedures and who is willing to act as the Study Partner ( provide written informed consent ) and remain unaware of the results.
+ PDD.
+ 1. Meets the criteria for probable Parkinson's Disease - Dementia.
+ 2. MMSE score  >= 20.
+ 3. Hoehn & Yahr stage 2 or 3.
+ 4. Reliable and capable caregiver who has regular interaction with them, will be present for all visits, can provide a collateral history, can assist in compliance with study procedures and who is willing to act as the Study Partner ( provide written informed consent ) and remain unaware of the results.
+ Exclusion Criteria:.
+ General Exclusion Criteria ( All Subgroups ).
+ Subjects who exhibit any of the following conditions will be excluded from the study:.
+ 1. Serious underlying disease ( other than the disease being studied ) which in the opinion of the investigator may interfere with the participant's ability to participate in the study.
+ 2. Any disease that would/could lead to death over the next 2 years.
+ 3. Unstable cardiac, pulmonary, renal, hepatic, endocrine, hematologic or active malignancy or infectious disease.
+ 4. Significant psychiatric illness.
+ 5. Significant neurologic disease ( e.g., Huntington's disease, normal pressure hydrocephalus, brain tumor, progressive supranuclear palsy, seizure disorder, subdural hematoma, multiple sclerosis ).
+ 6. History of significant head trauma followed by persistent neurologic defaults or known structural brain abnormalities.
+ 7. Brain MRI scan abnormalities detected on clinical MRI prior to enrollment or on study MRI: Evidence of infection, cortical stroke or other focal lesions ( tumours, subdural hematomas, malformations, etc.).
+ 8. AIDS or AIDS related complications.
+ 9. Substance abuse within the past year.
+ 10. History of alcohol or drug abuse which in the opinion of the investigator may interfere with the participant's ability to comply with the study procedures.
+ 11. Participant is currently enrolled in a disease modifying therapeutic trial that the Steering Committee feels would compromise study results.
+ 12. Moderate - severe cognitive impairment ( MMSE score  < 20 ), aphasia, inability to write and/or severe functional disability, limiting ability to perform assessments Pain or sleep disorder that could interfere with cognitive testing.
+ 13. Clinical diagnosis of glaucoma, taking eyedrops for glaucoma or previous surgery ( including laser ) for glaucoma.
+ 14. Any other serious eye disease or treatment or eye surgery, including any history of intra-vitreal injections.
+ 15. Diagnosis of multiple sclerosis.
+ 16. History of optic neuritis.
+ 17. Poorly controlled diabetes, defined as HbA1c >= 7.5.
+ 18. Previous retinal laser therapy ( either pan-retinal or grid/focal ) for diabetic retinopathy.
+ 19. Contra-indication to an MRI procedure as listed in the site-specific Magnetic Resonance Environment Screening Questionnaire ( e.g. metal implant ).
+ 20. Unable to tolerate the MRI environment e.g., due to physical size and/or claustrophobia.
+ 21. Known hypersensitivity to [18F]flutemetamol or any components of the Flutemetamol ( 18F ) Injection formulation.
+ 22. Subject participated in any studies involving radiopharmaceuticals within the past 12 months.
+ 23. Intra-ocular pressure greater than 22mmHg or a difference in intra-ocular pressure ( Goldmann tonometry ) greater than 5mmHg between the two eyes ( assessed as part of SD-OCT visit at Kensington Eye Institute ).
+ 24. Cupping of the optic nerve head ( ONH ) consistent with a diagnosis of glaucoma, as clinically determined by expert ophthalmological assessment of digital colour fundus images centered on the ONH. Specifically, one or more of the following ( assessed as part of SD-OCT visit at Kensington Eye Institute ):.
+ i. a cup/disc ratio of 0.7 or greater in either eye ii. a cup/disc asymmetry of more than 0.2 iii. disc hemorrhage iv. notch.
+ 25. Wet/exudative age-related macular degeneration ( ARMD ) in one or both eyes, as clinically determined by expert ophthalmological assessment of digital colour fundus images centered on the fovea ( assessed as part of SD-OCT visit at Kensington Eye Institute ).
+ Subgroup-Specific Exclusion Criteria Normal Controls.
+ 1. History of significant head trauma or learning disability.
+ 2. Subjective memory complaints.
+ 3. Presence of subcortical disease as indicated by Fazekas score = 3 for periventricular hyperintensities on MRI or hypodensity on CT and/or more than 2 subcortical lacunar infarcts ( > 1.5 cm diameter ) in the white matter.
+ MCI, AD, PDD, LBD.
+ ( 1 ) Presence of subcortical ischemic disease as indicated by Fazekas score = 3 for periventricular hyperintensities on MRI or hypodensity on CT and/or more than 2 subcortical lacunar infarcts ( > 1.5 cm diameter ) in the white matter.
+
+>>NCT01953705
+Inclusion Criteria:.
+ 1. Non-demented or mild cognitive impairment, defined as Clinical Dementia Rating = 0 or 0.5.
+ 2. Age 80 and older, male and female.
+ 3. Total WMH volume >= 6 cc ( > 80% of our Oregon Brain Aging Study population meets this criterion ).
+ 4. Plasma PUFA ( EPA + DHA ) < 110 ug/ml or < 5 weight percent ( > 85% of our OBAS population meets this ).
+ 5. Sufficient English language skills to complete all tests.
+ 6. Geriatric Depression Scale - 15 < 6 documenting absence of a significant depressive syndrome.
+ 7. Sufficient vision and hearing to complete all tests.
+ 8. Informant available with frequent ( at least 1 hour/day or 1 day/week ) contact with subject to verify functional status and CDR rating.
+ 9. General health status that will not interfere with the ability to complete the prospective study ( these conditions are listed below in the study exclusion list ).
+ Exclusion Criteria:.
+ 1. Any dementing illness ( AD, vascular dementia, normal pressure hydrocephalus or Parkinson's disease ); dementia defined by CDR >= 1.
+ 2. Significant disease of the CNS such as brain tumor, seizure disorder, subdural hematoma, cranial arteritis.
+ 3. Alcohol or substance abuse according to DSM-IV criteria within the last 2 years.
+ 4. Major depression, schizophrenia or other major psychiatric disorder defined by DSM-IV criteria.
+ 5. Abnormal labs indicating vitamin B12 deficiency, thyroid disease or UTI ( documented bacterial colonization is acceptable ).
+ 6. Unstable or significantly symptomatic CVD ( e.g. CAD with frequent angina, CHF with dyspnea at rest ).
+ 7. Hypertension: either 1 ) blood pressure > 150 - 90 or 2 ) > 2 medications to control.
+ 8. Clinical symptomatic orthostatic hypotension.
+ 9. Diabetes mellitus that requires insulin injections.
+ 10. History of cortical stroke.
+ 11. Cancer within the last 5 years, with the exception of localized prostate cancer ( Gleason Grade < 3 ) and non-metastatic skin cancers ( melanoma ).
+ 12. Illness that requires  > 1 visit /month to a clinician.
+ 13. Progressive vision loss ( age-related macular degeneration already beginning to degrade vision ).
+ 14. Contraindications to MRI ( i.e., heart pacemaker, metal plates or objects in head, metal worker ).
+ 15. Medications:.
+ 1. Analgesics: frequent use of high doses.
+ 2. Sedatives: except for those used occasionally for sleep ( use limited to <= twice per week ).
+ 3. CNS active meds that have not been on stable doses for at least 2 months ( cimetidine, beta-blockers and SSRIs ).
+ 4. Active hypertension on > 2 meds or using CNS active agents ( propranolol or clonidine ).
+ 5. Neuroleptics, antiparkinsonian agents, systemic corticosteroids and narcotic analgesics; in the case where these were used for a self-limited time they must have been discounted for a period of five half-lives prior to baseline visit.
+ 6. Over the counter supplements are not by themselves exclusionary, however, subjects are asked not to change the dosing regimen over the course of the trial unless medically indicated; the presence and dose of these agents are recorded.
+ 7. Taking omega 3 PUFA supplements and a screen plasma PUFA > 5 weight percent of total fatty acids for EPA+DHA will confirm supplementation of O3PUFA history.
+ 8. Cholinesterase inhibitors ( i.e., Aricept ).
+ 9. Investigational drugs within five half-lives prior to baseline.
+ 10. Anticoagulation therapy: vitamin K agonist, warfarin, Factor Xa inhibitors, Low molecular weight heparins.
+
+>>NCT01747213
+- INCLUSION CRITERIA:.
+ - Age greater than or equal to 55 years.
+ - Mini Mental State Examination ( MMSE ) > 27 at screening and at Visit 2 -Day 1.
+ - Women who are able to become pregnant must have a negative urine pregnancy test ( minimum sensitivity 25 IU/L or equivalent units of HCG ) at screening and prior to study drug administration.
+ - Both men who are able to father children and women of childbearing potential must be willing to use an adequate method of contraception ( see section 7 ) to avoid conception throughout the study and for up to 30 days of study drug administration.
+ - Body mass index ( BMI ) of 18.5 to 34.0, inclusive and a total body weight of > 50 kg ( 110 pounds ).
+ - Participants should be in good general physical and mental health as determined by medical history, a baseline physical examination, vital signs, clinical laboratory tests and electrocardiogram ( EKG ). Participants may have common age-related disorders ( such as hypertension, type II diabetes, dyslipidemia, hypothyroidism ) as long as these disorders are under good control by diet or medications.
+ - Able to sign own consent.
+ EXCLUSION CRITERIA:.
+ - Any clinically significant medical and psychiatric condition ( including asthma active within the last 10 years or COPD and drug abuse and dependency ).
+ - Subject has used any tobacco products in the past 3 months.
+ - A history of significant allergy to any drug or systemic allergic disease ( e.g., urticaria, atopic dermatitis ).
+ - Pregnant or lactating females.
+ - Subject with a positive urine test for drugs of abuse at screening or at admission to the clinic on study Day 1.
+ - Subject has consumed any alcohol within 48 hours prior to Visit 2; and cannot or is unwilling, thereafter to abstain from drinking alcohol for the remainder of the subject s study participation.
+ - Subject is positive for HIV, hepatitis B surface antigen or hepatitis C antibody tests at screening.
+ - Any clinically significant laboratory abnormality. These include:.
+ - CBC: WBC < 3000 /mm^3; Hb < 12 g/dL; Liver function tests: ALT, AST, Bilirubin ( total, direct, indirect ), Alkaline Phosphatase > 1.5 x the upper normal limit of the laboratory.
+ - Serum Creatinine > 1.5 mg/dL; Serum Glucose > 150mg/dL.
+ - Resting supine blood pressure outside of a systolic blood pressure range of 90 - 140 mmHg or a diastolic blood pressure outside a range of 50 - 90 mmHg on two consecutive measurements taken up to 10 minutes apart.Resting supine heart rate greater than 100 bpm or less than or equal to 55 55 bpm on two consecutive measurements taken up to 10 minutes apart.
+ - Any clinically significant abnormality on screening 12 -lead EKG ( e.g., heart block, conduction disorders, ventricular and/or atrial arrhythmias ).
+ - Routine or PRN consumption of the following herbal/dietary supplements are not permitted, if used within 2 weeks before the screening visit at doses higher than the recommended daily intake: Omega- 3 fatty acids (> 1000 mg/day ), Vitamin E (> 400IU/day ). Ginkgo biloba, St. John's wort and ginseng are not permitted, if used at any dose within 2 weeks before the screening visit.
+ - Medications that are excluded are:.
+ - Insulin.
+ - Anti-parkinsonian medications ( such as levodopa/carbidopa, amantadine, bromocriptine, pergolide, selegiline ).
+ - Typical or atypical neuroleptics.
+ - Narcotic analgesics at any dose within 4 weeks prior to screening.
+ - Long-acting benzodiazepines or barbiturates ( such as clonazepam, diazepam, phenobarbital ) within 4 weeks prior to screening.
+ - Short-acting anxiolytics or sedative hypnotics more frequently than 2 times per week within 4 weeks prior to screening ( sedative hypnotics should not be used within 102 hours of study drug administration ).
+ - Medications with known significant cholinergic or anticholinergic side effects ( such as pyridostigmine, tricyclic antidepressants, meclizine, oxybutynin ) within 4 weeks prior to screening.
+ - Anti-convulsants ( such as phenytoin, Phenobarbital, carbamazepine ) within 2 months prior to screening.
+ - Medications for Alzheimer s disease ( such as donepezil or memantine ).
+ - Beta-Blockers.
+ - Corticosteroids ( Systemic ).
+ - Neuromuscular-Blocking Agents ( non-depolarizing ).
+ - Succinylcholine.
+ - Any other drug ( including prescription, over the counter medications and supplements ) that may pose a risk to the subject or produce overlapping side effects with the study medication. Participants will not be taken off of medications for the purpose of this study.
+ - Donation or loss of 400 mL or more of blood within 56 days prior to and subsequent to screening.
+ - Participation in another research study involving an investigational drug within 30 days or 5 half-lives, whichever is longer.
+ - Known allergy or hypersensitivity to the investigational study drug and to the microcrystalline cellulose used as placebo.
+>>NCT01723670
+Inclusion Criteria:.
+ - One or two 4 alleles of the apolipoprotein E ( APOE ) gene.
+ - Diagnosis of amnestic Mild Cognitive Impairment.
+ - Mini-Mental State Examination score higher than 24 at screening.
+ Exclusion Criteria:.
+ - Diagnosis of Alzheimer's disease.
+ - Any medical condition that could explain the subject's cognitive deficits.
+ - MRI scans having evidence of pre-specified brain abnormalities.
+ - History of stroke.
+ - Vitamin B12 or folate deficiency.
+ - Skin cancers and any cancer that is being actively treated.
+ - Diagnosis of schizophrenia or recurrent mood disorder.
+ - Abnormal kidney function.
+ - Concomitant use of any study prohibitive medication.
+
+>>NCT01703702
+Inclusion Criteria:.
+ Patients may be enrolled in the mild impairment ( not demented ) group if the following criteria are met:.
+ 1. Males or females >= 50 to <= 90 years of age.
+ 2. Have cognitive decline verified by a study partner or cognitive impairment verified by the study physician.
+ 3. Have a study partner who provides separate consent and is willing to accompany the patient on all of the study visits.
+ 4. Have an MMSE score of 24 to 30 inclusive.
+ 5. Can tolerate a 10 -minute PET scan.
+ 6. Have the ability to cooperate and comply with all study procedures.
+ 7. Have an enrolling physician who has less than high confidence in their diagnosis for the patient related to the cognitive decline at the time of enrollment.
+ 8. Ability to provide informed consent for study procedures.
+ Patients may be enrolled in the dementia group if the following criteria are met:.
+ 1. Are males or females >= 50 to <= 90 years of age.
+ 2. Meet clinical criteria for dementia.
+ 3. Have a caregiver who provides separate consent and is willing to accompany the patient on all of the study visits.
+ 4. Have an MMSE score of 16 to 24 inclusive.
+ 5. Have not received a clinical examination and/or laboratory test results that strongly indicates a non-neurodegenerative cause for the patients cognitive impairment.
+ 6. Can tolerate a 10 -minute PET scan.
+ 7. Have the ability to cooperate and comply with all study procedures.
+ 8. Have an enrolling physician who has less than high confidence in their diagnosis for the patient related to the cognitive decline at the time of enrollment.
+ 9. Ability to provide informed consent for study procedures. ( If the patient is incapable of giving informed consent, the patient's legal representative may consent on behalf of the patient but the patient must still confirm assent. This person may serve as the study partner as well ).
+ Exclusion Criteria:.
+ Patients will be excluded from enrollment if they:.
+ 1. Have a current serious or unstable illness;.
+ 2. The patient or enrolling physician knows the result of a previous amyloid imaging scan;.
+ 3. The patient has a known brain lesion, pathology or alternative diagnosis that strongly explains the patient's clinical presentation;.
+ 4. Are receiving any investigational medications or have participated in a trial with investigational medications within the last 30 days;.
+ 5. Have ever participated in an experimental study with an amyloid targeting agent ( e.g. anti-amyloid immunotherapy,  -secretase or  -secretase inhibitor ) unless it can be documented that the patient received only placebo during the course of the trial;.
+ 6. Have had a radiopharmaceutical imaging or treatment procedure within 7 days prior to the study imaging session; or.
+ 7. Are females of childbearing potential who are not surgically sterile, not refraining from sexual activity or not using reliable methods of contraception.
+ Patients will also be excluded from enrollment if their enrolling physician:.
+ 1. Does not consider Alzheimer's disease as a potential cause of the patient's cognitive decline.
+ 2. Is not the primary physician taking care of the patient with respect to the management of their cognitive impairment.
+ 3. Cannot categorize the patient as either: a ) having a documented and completed evaluation for cognitive decline within the past 18 months old; or b ) currently undergoing evaluation for cognitive decline.
+ 4. Is unwilling to suspend all testing and other evaluation procedures between the time of the baseline evaluation of the enrolling physician's diagnosis and management plan and the time the completion of the PET scan.

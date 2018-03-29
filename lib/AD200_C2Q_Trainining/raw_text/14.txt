@@ -1,0 +1,226 @@
+>>NCT01847586
+Inclusion Criteria for patients:.
+ - Age 65 or above.
+ - Meet NINCDS-ADRDA and DSM-IV TR criteria for a current diagnosis of Alzheimer's Disease.
+ - Stable does of acetylcholinesterase inhibitors for at least 3 months.
+ - Willingness and ability to speak English.
+ - Willingness and ability to provide informed consent.
+ - Corrected visual ability that enables reading of newspaper headlines and corrected hearing capacity that is adequate to respond to a raised conversational voice.
+ Exclusion Criteria for patients:.
+ - Meets criteria for an Axis I diagnosis within the past 12 months other than Dementia of the Alzheimer type.
+ - Mini Mental Status Examination score of 16 or less as described above.
+ - Meets diagnostic criteria for current alcohol or other drug dependence within 6 months of testing.
+ - Electroconvulsive Therapy ( ECT ) within 6 months of testing.
+ - Left handedness.
+ - Incompetency to consent.
+ - Any contraindication for TMS.
+ Inclusion Criteria for healthy controls:.
+ - Age 65 or above.
+ - Willingness and ability to speak English.
+ - Willingness and ability to provide informed consent.
+ - Corrected visual ability that enables reading of newspaper headlines and corrected hearing capacity that is adequate to respond to a raised conversational voice.
+ Exclusion Criteria for healthy controls:.
+ - Meets criteria for an Axis I diagnosis other than simple phobias or adjustment disorder.
+ - Other neurological disorder affecting central nervous system.
+ - Psychotropic medication except for sedative /hypnotics at a stable dose for at least 4 weeks.
+ - Left handedness.
+ - Any contraindication for TMS.
+
+>>NCT02119546
+Inclusion Criteria:.
+ - 45 - 85 years old and had independent walking ability.
+ - The MCI is diagnosed basically on Petersen's criteria ( Petersen, 2001 ), CDR score of 0.5 but normal activity of daily living /instrumental activities of daily living and not demented.
+ - Diagnosis of Alzheimer's disease based on NINCDS-ADRDA criteria for probable Alzheimer disease ( McKhann, et al., 1984 ).
+ Exclusion Criteria:.
+ - The subjects who had any neurological, musculoskeletal, cardio-pulmonary disorder which would cause gait disorder or cognitive dysfunction such as stroke, Parkinson disease or arthritis were excluded.
+
+>>NCT01066481
+Inclusion Criteria:.
+ - Mild-to-Moderate Alzheimer's disease.
+ - MMSE score 10 - 24 inclusive.
+ Exclusion Criteria:.
+ - Administration of anti-dementia drugs including cholinesterase-inhibitors or NMDA receptor antagonists within 90 days.
+ - Complication of other causes of dementia.
+
+>>NCT01841125
+Inclusion Criteria:.
+ 1 ) over the age of 50.
+ 2 ) Medical diagnostic criteria must meet the standard.
+ 1. Subject diagnosed with Alzheimer's disease in accordance with NINCDS-ADRDA Criteria.
+ 2. Subject with three or more symptoms of the Olin depression ( major depressive episode ) diagnostic criteria.
+ 3. clinical dementia rating ( CDR ) of 0.5 to 2.
+ 4. MMSE 10 - 26 ( K-MMSE ).
+ 5. GDS- 15 >= 5 points.
+ 3 ) When screening, Cholinesterase inhibitors taking a minimum of four weeks or more stable subject.
+ 4 ) During the clinical trials, Subject does not change the capacity of Cholinesterase Inhibitors.
+ 5 ) MRI or CT results within 24 months of subject with Alzheimer's disease ( AD ).
+ 6 ) Participation in clinical trials to determine their own and written informed consent form and subject who actively perform clinical procedure including the questionnaire. But the subjects with cognitive dysfunction that cannot voluntarily make the decision, can be determined by an authorized representative to participate in.
+ 7 ) Subjects must be accompanied their guardian to every visit. More than three days a week, more than 4 hours per day, spend the day with the guardian.
+ Exclusion Criteria:.
+ 1. If you are taking other depression drugs within 4 weeks before the start of the clinical trials( e.g. SSRI, Stablon, TCA, wellbutrin, ixel ).
+ 2. If you have any other mental illness ( bipolar disorder, schizophrenia, etc.).
+ 3. If you have a serious medical illness ( heart failure, angina pectoris, myocardial infarction, arteriosclerosis, etc.) or psychiatric illness.
+ 4. Seizures, brain surgery, organic brain disease and history of organic affective disorder and at the brain MRI, abnormalities other than brain atrophy.
+ 5. If you have a history of the test drug hypersensitivity.
+ 6. If you are taking memantin ( dementia ).
+ 7. If you participated in another clinical trial within 3 months.
+ 8. If pregnant or fertile women, who have not received sterilization or if you do not want to use an effective method of contraception.
+ 9. In laboratory tests, if you have kidney failure or liver failure.
+ 10. If you have history or habitual drinking or a history of drug abuse.
+ 11. Uncontrolled diabetes or hypertension.
+ 12. If determined to be inappropriate for clinical trials.
+
+>>NCT01948791
+Inclusion Criteria:.
+ 1. Have a diagnosis of dementia of the Alzheimer's type according to the DSM-IV criteria and have a clinical diagnosis of probable AD according to NINCDS/ADRDA criteria.
+ 2. MMSE score of >= 10 and <= 26.
+ 3. The treatment nave patient and the one who have stopped the donepezil, galantamine, huperzine A or memantine at least 2 weeks.
+ 4. Be in stable medical condition.
+ 5. Have signed off informed consent form by patients or his/her legal guardian.
+ Exclusion Criteria:.
+ 1. Severe AD.
+ 2. Patients with a history of cerebrovascular disease, Active or uncontrolled epilepsy, Active hypothyroidism, asthma, CNS infection, other Neurodegenerative disorders, an advanced, severe, progressive or unstable medical condition.
+ 3. Attending other clinical trials or taking other clinical trial drugs.
+ 4. A score of > 4 on the Modified Hachinski Ischemic Scale ( MHIS );.
+ 5. Patients who is using any AChEI or memantine.
+
+>>NCT02079909
+Inclusion Criteria:.
+ - Male or female ( post-menopausal or surgically sterile ).
+ - Patients with Mild to moderate Alzheimer's disease who are receiving donepezil ( Aricept ) or rivastigmine transdermal system ( Exelon Patch ), . Memantine ( Namenda ) is allowed only when prescribed in combination with donepezil or rivastigmine transdermal system.
+ - Age 55 to 85 inclusive.
+ - Patients must be living in the community.
+ - Patients must have an eligible informant or study partner ( caregiver ).
+ - Patients and eligible informant or study partner ( caregiver ) must be able to read and understand English.
+ - Informed consent obtained from both the patient and the caregiver.
+ Exclusion Criteria:.
+ - Patients with clinically significant cardiac, hepatic or renal impairment.
+ - Patient have a dementia not of the Alzheimer's type etc ( According to the protocol ).
+ - Patients who are taking any drug other than donepezil or rivastigmine transdermal system for Alzheimer's disease, including olal rivastigmine ( Exelon ), galantamine ( Razadyne ).
+
+>>NCT00414622
+Inclusion Criteria:.
+ - probable Alzheimer.
+ Exclusion Criteria:.
+ - others.
+
+>>NCT00096473
+Inclusion Criteria:.
+ - Clinically diagnosed Alzheimer's Disease with MMSE score 1 - 12.
+ - Have not been treated by any medication for Alzheimer's Disease in past 3 months.
+ - Live in community or Assisted Living Facility.
+ - Healthy or with chronic diseases that are medically controlled or stabilized.
+ - Able to swallow tablets.
+ Exclusion Criteria:.
+ - Any primary neurological or psychiatric diagnosis ( including depressive disorder ) other than Alzheimer's Disease.
+ - Dementia caused by organic diseases other than Alzheimer's Disease.
+
+>>NCT00040378
+Inclusion Criteria:.
+ - Participating in SELECT Prevention study;.
+ - 62 years or older if other ethnic origin or 60 years or older if African-American or Hispanic;.
+ - General good health with no neurological or psychiatric illness.
+ Exclusion Criteria:.
+ The SELECT doctors or staff will review the PREADVISE applicants' medical history and drugs to verify that they have no condition( s ) that would exclude them from this study. The participant must not have any of the following neurological conditions based on self report ( were told by a physician ):.
+ - Alzheimer's disease or any other form of dementia such as Pick's disease, dementia with Lewy bodies, frontotemporal dementia, vascular dementia, significant cognitive and motor impairment from a stroke or corticobasal degeneration;.
+ - Huntington's disease, epilepsy, Parkinson's disease, brain tumor, multiple sclerosis, manic-depressive disorder or schizophrenia;.
+ - The participant must not have had a head injury with prolonged loss of consciousness ( over 30 minutes ) within the past five years;.
+ - The participant must not have a current alcohol or substance abuse diagnosis or must have been treatment free for the past 24 months;.
+ - The participant must not have had a diagnosis of depression or anxiety disorder in the past 4 months and must not currently be under treatment for depression or anxiety disorder. [A participant who was previously diagnosed with depression or anxiety disorder but completed treatment more than four months ago is eligible.];.
+ - The participant must not currently use of any of the following medications: Aricept, Cognex, Exelon, Reminyl or Hydergine;.
+ - The participant must not have blindness, deafness, language difficulties or any other disability that may prevent completion of the memory screen.
+
+>>NCT02051244
+Inclusion Criteria:.
+ - age 60 and above.
+ - able to read, understand and sign independently a consent form.
+ - able to undergo a cognitive test.
+ - results of their cognitive test fall into one of the three cohort groups.
+ Exclusion Criteria:.
+ - other diseases affecting the optic nerve such as glaucoma.
+ - unclear media such as dense cataracts that will not allow assessment by OCT.
+ - Cognitive test scores that are less than mild cognitive impairment.
+
+>>NCT01993836
+Inclusion Criteria:.
+ - Surgical patients 60 years of age or older.
+ - Surgery scheduled to last at least 2 hours ( including time for anesthesia induction, etc ).
+ - English speaking ability.
+ - Ability to give informed consent.
+ Exclusion Criteria:.
+ - Inmate of a correctional facility ( i.e. prisoners ).
+ - Pregnancy.
+ - Documented or suspected family or personal history of malignant hyperthermia.
+ - Patient unable to receive either propofol or isoflurane due to allergy or other specific contraindication.
+
+>>NCT01078168
+Inclusion Criteria:.
+ - mild to moderate AD ( NINCDS-ADRDA criteria ).
+ - MMSE: 27 - 14 points.
+ - Geriatric Depression Scale <= 14.
+ Exclusion Criteria:.
+ - hereditary cognitive impairment.
+ - known history of brain injuries.
+ - Insufficient German language skills.
+ - actual treatment with other potential disease modifying drugs of AD.
+ - multimorbidity or significant organ ( esp. liver or renal ) dysfunction.
+ - evidence of Non-AD neurodegenerative disorder ( e.g. Parkinson ).
+ - contraindication to acitretin such as osteoporosis, hypoalbuminaemia.
+
+>>NCT00001662
+INCLUSION CRITERIA - ALZHEIMER'S DISEASE:.
+ Study subjects will satisfy NINCDS-ADRDA criteria for probable Alzheimer's disease.
+ Dementia severity will be mild to moderate range with Mini-Mental Status Examination total score between 12 and 26, inclusive.
+ The modified Hachinski Ischemia Score must be less than 4 and brain MRI performed within 15 months of enrollment must be compatible with the diagnosis of Alzheimer's disease.
+ Dementia must be present historically for at least one year. Baseline electroencephalogram must not show significant epileptiform features.
+ INCLUSION CRITERIA - RELATED DEMENTING DISORDERS:.
+ Study subjects will show deficits in at least two cognitive spheres, including memory.
+ Modified Hachinski Ischemia Score must be less than 4 and Folstein mini-mental status examination total score must be between 12 and 26.
+ Cognitive difficulties must e present historically for at least one year.
+ Brain MRI performed with 15 months of enrollment must be normal or show atrophy.
+ Baseline electroencephalogram must not show epileptiform features.
+ In addition, all patients must have acceptable nutritional status.
+ Patients must be between ages 40 and 85.
+ Patients must be sterile, post-menopausal or using an acceptable forms of birth control.
+ Chest x-ray within 15 months before enrollment must be acceptable for the trial.
+ Participants in this study will reflect the diversity of those suffering from dementia.
+ No one will be excluded or discriminated against based on the grounds of race, creed or gender.
+ Every attempt will be made to include women and minorities in the study population.
+ EXCLUSION CRITERIA - NEUROLOGIC:.
+ Hemispheric stroke, hydrocephalus, subdural hematoma or mass lesion on neuroimaging study; "epileptiform" baseline EEG or known seizure disorder; head trauma with loss of consciousness concurrent with onset of dementia; chronic CNS infection ( positive MHA-TP or FTA-ABS acceptable if luetic brain disease excluded by documented studies or treatment ).
+ EXCLUSION CRITERIA - GENERAL MEDICAL:.
+ Acute serious infection, including hepatitis; hypothyroidism ( TSH greater than 6.0 microunits/mL ); folic acid deficiency ( less than 0.9 ng/mL ); vitamin B12 deficiency ( less than 160 pg/mL ) within one year prior to enrollment; severe renal insufficiency ( creatinine clearance less than 25 mL/min, BUN greater than 40 mg/dL or serum creatinine greater than 2.0 mg/dL ); hepatic insufficiency ( SGPT or SGOT greater than 3 x upper limit of normal or total bilirubin greater than 2.0 mg/dL ). Due to the serious adverse event transient agranulocytosis report in another study of CX516, patients will neutropenia or low normal white blood cell counts ( greater than or equal to 3.5 K/microliter ) will be excluded from this study.
+ PSYCHIATRIC:.
+ Depression if present during screening. Depression will be diagnosed clinically and with depression rating scale( s ), such as Hamilton Depression Rating Scale, if needed.
+ PREVIOUS AND CONCOMITANT MEDICATIONS:.
+ Administration of tacrine, donepezil, rivastigmine, galantamine, anti-depressants are prohibited within thirty days prior to enrollment.
+ OTHER CONDITIONS:.
+ Any hepatic, cardiovascular, gastrointestinal or hematological illness which could interfere with drug absorption, distribution, metabolism or excretion; known hypersensitivity to CX516 or its vehicle; inability to swallow tablets or to comply with medication schedule; no significant care giver; uncorrectable loss of hearing or eyesight that precludes psychometric testing; inability to comprehend instructions or to respond to test items.
+
+>>NCT00736775
+Inclusion Criteria:.
+ - Diagnosis of probable AD according to the NINCDS-ADRDA Criteria.
+ - Approved AD treatments ( AchE inhibitors+/-memantine ) must be stable for >= 3 months prior to screening.
+ - Other prescription medications must be stable for >= 1 month prior to screening.
+ Exclusion Criteria:.
+ - Female patients with reproductive potential.
+ - History or presence of any clinically significant CNS disease.
+ - History of treatment with any protein therapeutic targeting Abeta.
+
+>>NCT00094913
+Inclusion Criteria:.
+ - Males and females with a minimum high school education and between the ages of 50 and 90 will be selected for Groups 1 and 2. For Group 3, normal subjects between the ages of 20 and 49 years of age will be selected. The Groups 1 and 2 will be balanced for age and all three groups balanced for gender and ApoE genotype.
+ - Discontinuance of all psychotropic and/or cognitively active medication at least four weeks prior to evaluation.
+ Exclusion Criteria:.
+ - Past history or MRI evidence of brain damage including significant trauma, stroke, hydrocephalus, lacunar infarcts, seizures, mental retardation or serious neurological disorder.
+ - Significant history of alcoholism or drug abuse.
+ - Any history of psychiatric illness ( e.g., schizophrenia, mania or depression ).
+ - Any focal signs or significant neuropathology.
+ - A score of 4 or greater on the Modified Hachinski Ischemia Scale, indicative of cerebrovascular disease.
+ - A total score of 16 or more on the Hamilton Depression Scale to exclude possible cases of primary depression.
+ - Evidence of clinically relevant hypertensive, cardiac, pulmonary, vascular, metabolic or hematologic conditions. Specific exclusion will be made for individuals with fasting glucose levels  > 110 mg/dl.
+ - Physical impairment of such severity as to adversely affect the validity of psychological testing.
+ - Hostility or refusal to cooperate.
+ - Any prosthetic devices ( e.g., pacemaker or surgical clips ) that could be affected by the magnetic field employed during MRI imaging.
+ - Evidence of cognitive or memory impairment reaching early AD levels at the initial evaluation. At baseline, delayed paragraph recall z-scores > 2 below the reference group.
+

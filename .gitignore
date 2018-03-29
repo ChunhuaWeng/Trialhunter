@@ -1,0 +1,14 @@
+AmiaSubmission/
+Patent/
+.RData
+.DS_Store
+.Rhistory
+.Rproj.user/
+NCTDataPreparator.R
+RedCapDataPreparator.R
+TrialAACT.R 
+TrialHunter.Rproj
+TrialHunterModel.R
+TrialHunterRedcap.R
+redcap_table.rda
+lib/RedCap/

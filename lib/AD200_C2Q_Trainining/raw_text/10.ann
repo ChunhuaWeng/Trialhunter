@@ -1,0 +1,382 @@
+T1	Condition 38 45	Healthy
+T2	Condition 54 80	non-childbearing potential
+T3	Observation 91 106	Body mass index
+T4	Measurement 107 132	between 18.0 - 32.0 kg/m2
+T5	Drug 322 338	over-the-counter
+T6	Drug 388 396	vitamins
+T7	Drug 400 408	minerals
+T8	Observation 413 418	Smoke
+T9	Measurement 419 450	more than 10 cigarettes per day
+T10	Drug 481 510	caffeine containing beverages
+T11	Drug 519 525	coffee
+T12	Drug 527 530	tea
+T13	Measurement 461 477	more than 5 cups
+T14	Measurement 533 540	per day
+T15	Qualifier 608 612	good
+T16	Observation 636 651	medical history
+T18	Observation 653 682	complete physical examination
+T19	Observation 693 704	vital signs
+T20	Procedure_Device 706 740	12 -lead electrocardiogram ( ECG )
+T22	Observation 745 770	standard laboratory tests
+T24	Temporal_measurement 815 839	within the last 10 years
+T25	Qualifier 845 850	major
+T26	Condition 851 891	cardiovascular, hepatic or renal disease
+T27	Observation 916 936	liver function tests
+T29	Observation 938 958	renal function tests
+T30	Observation 962 975	thyroid tests
+T31	Qualifier 1003 1014	Significant
+T32	Condition 1015 1034	allergic conditions
+T33	Drug 1081 1128	psychoactive, recreational or prescription drug
+T34	Temporal_measurement 1129 1147	within the 4 weeks
+T35	Drug 1194 1203	ibuprofen
+T36	Drug 1205 1221	sulindac sulfide
+T37	Drug 1223 1235	indomethacin
+T38	Drug 1237 1249	flurbiprofen
+T39	Temporal_measurement 1250 1264	within 2 weeks
+T40	Condition 1340 1347	Healthy
+T44	Condition 1412 1426	postmenopausal
+T47	Condition 1485 1507	childbearing potential
+T48	Condition 1512 1538	Gastrointestinal disorders
+T49	Condition 1543 1561	Bleeding disorders
+T50	Condition 1566 1586	Peptic ulcer disease
+T51	Qualifier 1591 1599	Abnormal
+T52	Procedure_Device 1600 1603	ECG
+T53	Qualifier 1608 1616	Abnormal
+T54	Observation 1617 1642	Clinical laboratory tests
+T55	Qualifier 1647 1655	Abnormal
+T56	Observation 1656 1663	Thyroid
+T57	Condition 1668 1692	Congestive heart failure
+T58	Procedure_Device 1697 1712	Cholecystectomy
+T59	Condition 1717 1723	Asthma
+T60	Condition 1728 1740	Hypertension
+T66	Qualifier 1903 1911	probable
+T67	Condition 1912 1914	AD
+T68	Observation 1966 2017	Korean version Mini-Mental State Examination scores
+T69	Measurement 2018 2035	between 10 and 26
+T72	Condition 2052 2069	cognitive decline
+T73	Measurement 2122 2139	at least 6 months
+T75	Condition 2319 2345	neurodegenerative diseases
+T76	Condition 2357 2359	AD
+T77	Condition 2367 2386	Parkinson's disease
+T78	Condition 2388 2408	Huntington's disease
+T79	Condition 2416 2436	Psychiatric disorder
+T80	Qualifier 2440 2446	severe
+T81	Condition 2447 2470	behavioral disturbances
+T82	Drug 2485 2509	psychotropic medications
+T83	Condition 2515 2532	Cerebral injuries
+T84	Condition 2544 2550	trauma
+T85	Condition 2552 2559	hypoxia
+T86	Condition 2568 2576	ischemia
+T87	Qualifier 2582 2599	Clinically active
+T88	Condition 2600 2623	cerebrovascular disease
+T90	Condition 2636 2652	seizure disorder
+T91	Condition 2664 2683	physical conditions
+T93	Condition 2754 2761	Healthy
+T94	Observation 2802 2806	ages
+T95	Measurement 2810 2836	18 and 55 years, inclusive
+T96	Condition 2839 2846	Healthy
+T99	Condition 2884 2897	abnormalities
+T101	Observation 2923 2938	medical history
+T103	Observation 2940 2965	full physical examination
+T104	Observation 2977 2991	blood pressure
+T105	Observation 2996 3018	pulse rate measurement
+T106	Procedure_Device 3020 3032	12 -lead ECG
+T107	Observation 3037 3062	clinical laboratory tests
+T108	Observation 3069 3092	Body Mass Index ( BMI )
+T110	Measurement 3110 3124	18 to 33 kg/m2
+T111	Observation 3132 3149	total body weight
+T112	Measurement 3151 3170	> 50 kg ( 110 lbs )
+T114	Qualifier 3369 3391	clinically significant
+T115	Condition 3392 3524	hematological, renal, endocrine, pulmonary, gastrointestinal, cardiovascular, hepatic, psychiatric, neurological or allergic disease
+T116	Condition 3537 3551	drug allergies
+T117	Negation_cue 3556 3565	excluding
+T118	Qualifier 3566 3575	untreated
+T119	Qualifier 3577 3589	asymptomatic
+T120	Condition 3591 3609	seasonal allergies
+T122	Condition 3645 3660	febrile illness
+T123	Temporal_measurement 3661 3674	within 5 days
+T125	Drug 3730 3737	alcohol
+T126	Measurement 3750 3774	exceeding 14 drinks/week
+T127	Temporal_measurement 3888 3903	within 6 months
+T128	Qualifier 3923 3931	positive
+T129	Observation 3932 3949	urine drug screen
+T130	Drug 3974 4014	tobacco- or nicotine-containing products
+T132	Drug 4078 4115	prescription or nonprescription drugs
+T133	Drug 4117 4125	vitamins
+T134	Drug 4130 4149	dietary supplements
+T135	Temporal_measurement 4150 4179	within 7 days or 5 half-lives
+T136	Drug 4254 4264	analgesics
+T137	Drug 4266 4274	caffeine
+T138	Procedure_Device 4279 4306	non-pharmacological methods
+T140	Drug 4415 4422	Aspirin
+T141	Drug 4424 4451	aspirin containing products
+T142	Drug 4456 4494	non-steroidal anti-inflammatory agents
+T143	Drug 4648 4668	investigational drug
+T144	Temporal_measurement 4669 4683	within 30 days
+T145	Condition 4721 4729	Pregnant
+T146	Condition 4733 4740	nursing
+T147	Condition 4761 4783	childbearing potential
+T151	Procedure_Device 4999 5013	Blood donation
+T152	Measurement 5017 5048	approximately 1 pint ( 500 mL )
+T153	Temporal_measurement 5049 5063	within 56 days
+T154	Condition 5098 5109	papilledema
+T155	Observation 5163 5180	laboratory values
+T156	Qualifier 5181 5206	outside the normal ranges
+T157	Qualifier 5249 5271	clinically significant
+T158	Observation 5293 5312	Coagulation indices
+T159	Observation 5324 5331	PT/aPTT
+T160	Observation 5336 5350	platelet count
+T161	Qualifier 5359 5365	normal
+T162	Condition 5384 5410	lower spinal malformations
+T163	Condition 5412 5427	local infection
+T164	Qualifier 5431 5436	other
+T165	Condition 5437 5450	abnormalities
+T166	Procedure_Device 5470 5492	lumbar puncture ( LP )
+T167	Qualifier 5610 5616	severe
+T169	Qualifier 5617 5633	acute or chronic
+T170	Condition 5634 5673	medical or psychiatric condition/status
+T171	Observation 5677 5699	laboratory abnormality
+T172	Observation 6007 6010	Age
+T173	Measurement 6011 6028	45 years or older
+T174	Negation_cue 6033 6035	No
+T175	Qualifier 6036 6047	significant
+T176	Condition 6048 6071	cerebrovascular disease
+T177	Observation 6074 6097	modified Ischemic Score
+T178	Qualifier 6109 6117	Adequate
+T179	Observation 6118 6144	visual and auditory acuity
+T180	Negation_cue 6220 6227	without
+T181	Qualifier 6228 6239	significant
+T182	Observation 6240 6253	abnormalities
+T183	Observation 6185 6211	Screening laboratory tests
+T184	Procedure_Device 6216 6219	ECG
+T185	Observation 6339 6349	MMSE score
+T186	Measurement 6350 6367	between 24 and 30
+T187	Qualifier 6461 6467	stable
+T188	Temporal_measurement 6472 6481	> 1 month
+T189	Drug 6483 6498	antidepressants
+T191	Negation_cue 6566 6568	no
+T192	Temporal_measurement 6542 6551	currently
+T193	Condition 6552 6561	depressed
+T194	Negation_cue 6538 6541	not
+T195	Condition 6580 6596	major depression
+T196	Temporal_measurement 6601 6608	2 years
+T197	Drug 6610 6638	estrogen replacement therapy
+T198	Drug 6640 6667	thyroid replacement therapy
+T199	Drug 6704 6721	antihypertensives
+T200	Condition 6976 6989	Down syndrome
+T201	Observation 6944 6972	translocation DS Mosaic form
+T202	Observation 6917 6940	Karyotype DX of trisomy
+T203	Condition 7049 7087	neurological or other physical illness
+T204	Condition 7107 7130	cognitive deterioration
+T206	Condition 7161 7165	TIAs
+T207	Condition 7167 7181	carotid bruits
+T208	Condition 7185 7192	lacunes
+T209	Condition 7226 7245	Parkinson's Disease
+T211	Condition 7261 7282	myocardial infarction
+T212	Temporal_measurement 7283 7307	within the previous year
+T213	Qualifier 7311 7319	unstable
+T214	Condition 7320 7335	cardiac disease
+T215	Qualifier 7340 7352	Uncontrolled
+T216	Condition 7353 7365	hypertension
+T217	Observation 7368 7379	systolic BP
+T218	Measurement 7380 7385	> 170
+T219	Observation 7389 7401	diastolic BP
+T220	Measurement 7402 7407	> 100
+T222	Qualifier 7422 7433	significant
+T223	Condition 7434 7447	liver disease
+T224	Qualifier 7449 7471	clinically significant
+T225	Condition 7472 7489	pulmonary disease
+T226	Condition 7491 7499	diabetes
+T227	Condition 7503 7509	cancer
+T228	Qualifier 7514 7519	Major
+T229	Condition 7520 7541	psychiatric disorders
+T230	Condition 7551 7567	bipolar disorder
+T231	Condition 7571 7584	schizophrenia
+T232	Drug 7589 7598	Medicines
+T233	Observation 7620 7645	psychometric test results
+T235	Drug 7685 7715	centrally active beta-blockers
+T236	Drug 7717 7726	narcotics
+T237	Drug 7728 7737	clonidine
+T238	Drug 7739 7768	anti-Parkinsonian medications
+T239	Drug 7770 7785	benzodiazepines
+T240	Drug 7787 7811	systemic corticosteroids
+T241	Drug 7813 7880	medications with significant cholinergic or anticholinergic effects
+T244	Drug 7882 7898	anti-convulsants
+T245	Drug 7902 7910	warfarin
+T247	Condition 7947 7957	alcoholism
+T249	Temporal_measurement 7915 7922	Current
+T251	Qualifier 7993 8002	untreated
+T252	Qualifier 8017 8026	untreated
+T253	Condition 8003 8013	depression
+T254	Condition 8027 8034	anxiety
+T255	Drug 8050 8071	investigational drugs
+T256	Temporal_measurement 8072 8107	within the previous month or longer
+T257	Condition 8141 8157	Contraindication
+T258	Procedure_Device 8162 8170	MRI scan
+T259	Condition 8194 8208	claustrophobia
+T260	Procedure_Device 8179 8184	metal
+T261	Qualifier 8228 8248	possible or probable
+T263	Condition 8249 8251	AD
+T264	Condition 8265 8273	dementia
+T265	Qualifier 8259 8264	other
+T266	Condition 8323 8326	MCI
+T267	Condition 8282 8290	vascular
+T268	Condition 8292 8301	Lewy body
+T269	Condition 8303 8317	frontotemporal
+T270	Condition 8380 8393	Down syndrome
+T274	Qualifier 8442 8464	clinically significant
+T275	Condition 8465 8497	neurological disorder or disease
+T277	Temporal_measurement 8537 8552	within 3 months
+T278	Observation 1948 1960	NINCDS-ADRDA
+T279	Negation_cue 2346 2356	other than
+T280	Qualifier 2658 2663	Other
+T92	Condition 6693 6702	euthyroid
+T281	Condition 6816 6829	Down syndrome
+T282	Procedure_Device 7196 7204	MRI scan
+T248	Drug 342 365	prescription medication
+T17	Qualifier 896 904	Abnormal
+T28	Measurement 4018 4066	excess of the equivalent of 5 cigarettes per day
+T61	Measurement 6101 6104	< 4
+T62	Condition 7961 7976	drug dependence
+T64	Observation 613 619	health
+R1	has_value Arg1:T8 Arg2:T9	
+T65	Negation_cue 375 384	exception
+R2	is_negated Arg1:T6 Arg2:T65	
+R3	is_negated Arg1:T7 Arg2:T65	
+R4	Specified_by Arg1:T10 Arg2:T11	
+R5	Specified_by Arg1:T10 Arg2:T12	
+R6	has_value Arg1:T10 Arg2:T13	
+R7	has_value Arg1:T10 Arg2:T14	
+R8	modified_by Arg1:T64 Arg2:T15	
+R9	modified_by Arg1:T26 Arg2:T25	
+R10	has_TempMea Arg1:T26 Arg2:T24	
+R11	modified_by Arg1:T27 Arg2:T17	
+R12	modified_by Arg1:T29 Arg2:T17	
+R13	modified_by Arg1:T30 Arg2:T17	
+R14	modified_by Arg1:T32 Arg2:T31	
+R15	has_TempMea Arg1:T33 Arg2:T34	
+R16	has_TempMea Arg1:T35 Arg2:T39	
+R17	has_TempMea Arg1:T36 Arg2:T39	
+R18	has_TempMea Arg1:T37 Arg2:T39	
+R19	has_TempMea Arg1:T38 Arg2:T39	
+R20	modified_by Arg1:T52 Arg2:T51	
+R21	modified_by Arg1:T54 Arg2:T53	
+R22	modified_by Arg1:T56 Arg2:T55	
+R23	modified_by Arg1:T67 Arg2:T66	
+R24	has_value Arg1:T68 Arg2:T69	
+T21	Qualifier 2084 2100	gradual in onset
+T23	Qualifier 2105 2116	progressive
+R25	has_value Arg1:T72 Arg2:T73	
+R26	modified_by Arg1:T72 Arg2:T21	
+R27	modified_by Arg1:T72 Arg2:T23	
+R28	is_negated Arg1:T76 Arg2:T279	
+R29	Specified_by Arg1:T75 Arg2:T77	
+R30	Specified_by Arg1:T75 Arg2:T78	
+R31	Specified_by Arg1:T75 Arg2:T76	
+R32	modified_by Arg1:T81 Arg2:T80	
+R33	modified_by Arg1:T88 Arg2:T87	
+R34	modified_by Arg1:T91 Arg2:T280	
+T41	Qualifier 2698 2703	acute
+T42	Procedure_Device 2704 2713	treatment
+R35	modified_by Arg1:T42 Arg2:T41	
+R36	has_value Arg1:T94 Arg2:T95	
+R38	Specified_by Arg1:T103 Arg2:T104	
+R39	Specified_by Arg1:T103 Arg2:T105	
+R40	Specified_by Arg1:T103 Arg2:T106	
+R41	Specified_by Arg1:T103 Arg2:T107	
+R42	Specified_by Arg1:T18 Arg2:T19	
+R43	Specified_by Arg1:T18 Arg2:T20	
+R44	Specified_by Arg1:T19 Arg2:T22	
+R45	has_value Arg1:T108 Arg2:T110	
+R46	has_value Arg1:T111 Arg2:T112	
+R47	modified_by Arg1:T129 Arg2:T128	
+R48	modified_by Arg1:T115 Arg2:T114	
+R49	modified_by Arg1:T120 Arg2:T119	
+R50	modified_by Arg1:T120 Arg2:T118	
+R51	is_negated Arg1:T120 Arg2:T117	
+R52	Specified_by Arg1:T115 Arg2:T120	
+R53	Specified_by Arg1:T115 Arg2:T116	
+R54	has_TempMea Arg1:T122 Arg2:T123	
+R55	has_value Arg1:T125 Arg2:T126	
+T43	Qualifier 3722 3729	regular
+R56	modified_by Arg1:T125 Arg2:T43	
+R57	has_TempMea Arg1:T125 Arg2:T127	
+R58	has_value Arg1:T130 Arg2:T28	
+R59	has_TempMea Arg1:T134 Arg2:T135	
+R60	has_TempMea Arg1:T133 Arg2:T135	
+R62	has_TempMea Arg1:T132 Arg2:T135	
+T45	Negation_cue 4243 4252	exception
+R61	is_negated Arg1:T136 Arg2:T45	
+R63	is_negated Arg1:T137 Arg2:T45	
+R64	is_negated Arg1:T138 Arg2:T45	
+R65	has_TempMea Arg1:T143 Arg2:T144	
+R66	has_value Arg1:T151 Arg2:T152	
+R67	has_TempMea Arg1:T151 Arg2:T153	
+R68	modified_by Arg1:T155 Arg2:T156	
+R69	modified_by Arg1:T155 Arg2:T157	
+R70	Specified_by Arg1:T158 Arg2:T159	
+R71	Specified_by Arg1:T158 Arg2:T160	
+R72	Specified_by Arg1:T161 Arg2:T158	
+R73	modified_by Arg1:T165 Arg2:T164	
+R74	modified_by Arg1:T170 Arg2:T169	
+R75	has_value Arg1:T172 Arg2:T173	
+R76	modified_by Arg1:T176 Arg2:T175	
+R77	is_negated Arg1:T176 Arg2:T174	
+R78	has_value Arg1:T177 Arg2:T61	
+R79	modified_by Arg1:T179 Arg2:T178	
+R80	modified_by Arg1:T182 Arg2:T181	
+R81	is_negated Arg1:T182 Arg2:T180	
+R82	has_value Arg1:T185 Arg2:T186	
+R83	modified_by Arg1:T189 Arg2:T187	
+R84	has_TempMea Arg1:T189 Arg2:T188	
+R85	is_negated Arg1:T193 Arg2:T194	
+R86	has_TempMea Arg1:T193 Arg2:T192	
+R87	is_negated Arg1:T195 Arg2:T191	
+R88	has_TempMea Arg1:T195 Arg2:T196	
+R89	has_TempMea Arg1:T211 Arg2:T212	
+R90	modified_by Arg1:T214 Arg2:T213	
+R91	modified_by Arg1:T216 Arg2:T215	
+R92	has_value Arg1:T217 Arg2:T218	
+R93	has_value Arg1:T219 Arg2:T220	
+R94	modified_by Arg1:T223 Arg2:T222	
+R95	modified_by Arg1:T225 Arg2:T224	
+R96	modified_by Arg1:T226 Arg2:T224	
+R97	modified_by Arg1:T227 Arg2:T224	
+R98	modified_by Arg1:T229 Arg2:T228	
+R99	Specified_by Arg1:T229 Arg2:T230	
+R100	Specified_by Arg1:T229 Arg2:T231	
+R101	has_TempMea Arg1:T247 Arg2:T249	
+R102	has_TempMea Arg1:T62 Arg2:T249	
+R103	modified_by Arg1:T253 Arg2:T251	
+R104	modified_by Arg1:T254 Arg2:T252	
+R105	has_TempMea Arg1:T255 Arg2:T256	
+R106	Specified_by Arg1:T257 Arg2:T260	
+R107	Specified_by Arg1:T257 Arg2:T259	
+R108	modified_by Arg1:T263 Arg2:T261	
+R109	modified_by Arg1:T264 Arg2:T265	
+R110	Specified_by Arg1:T264 Arg2:T267	
+R111	Specified_by Arg1:T264 Arg2:T268	
+R112	Specified_by Arg1:T264 Arg2:T269	
+T46	Condition 8398 8426	Mosaic form of Down syndrome
+R113	modified_by Arg1:T275 Arg2:T274	
+T63	Condition 8502 8523	Psychiatric diagnosis
+T70	Procedure_Device 8527 8536	treatment
+R114	has_TempMea Arg1:T63 Arg2:T277	
+R115	has_TempMea Arg1:T70 Arg2:T277	
+R116	has_value Arg1:T3 Arg2:T4	
+T71	Measurement 1362 1377	18 - 45 yrs old
+T89	Measurement 1382 1397	65 yrs or older
+T102	Measurement 1434 1449	65 yrs or older
+T121	Drug 1767 1782	oral medication
+T124	Negation_cue 1745 1754	Inability
+R122	is_negated Arg1:T121 Arg2:T124	
+T131	Condition 1800 1816	be venipunctured
+T139	Condition 1833 1846	venous access
+T148	Negation_cue 1787 1796	Inability
+R123	is_negated Arg1:T131 Arg2:T148	
+R124	is_negated Arg1:T139 Arg2:T148	
+T149	Negation_cue 5462 5469	exclude
+R125	is_negated Arg1:T166 Arg2:T149	
+T150	Negation_cue 6501 6508	without
+T168	Observation 6509 6532	anticholinergic effects
+R126	is_negated Arg1:T168 Arg2:T150	
